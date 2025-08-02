@@ -6,20 +6,20 @@ Before a pharmaceutical drug is made available to the public, it needs to go thr
 To understand the key factors influencing the 1) duration of a clinical trial and the 2) approval status of the drug being tested. <br>
 <br>
 <h2> Goals </h2>
-a)	To provide a broad analysis of the pharmaceutical industry. <br> 
-b)	To conduct a detailed analysis on the effect of various trial variables on clinical trial duration and drug approval. <br> 
-c)	To forecast the successful approval of drugs and completion of clinical trials from 2025 to 2028. <br>
-d)	Make recommendations on how to increase drug approval rate based on analysis of data. <br>
+1)	To provide a broad analysis of the pharmaceutical industry. <br> 
+2)	To conduct a detailed analysis on the effect of various trial variables on clinical trial duration and drug approval. <br> 
+3)	To forecast the successful approval of drugs and completion of clinical trials from 2025 to 2028. <br>
+4)	Make recommendations on how to increase drug approval rate based on analysis of data. <br>
 <br>
 <h2> Target Audience </h2>
-a)	The Chief Regulatory Officer (CRO) of a pharmaceutical company looking to increase the approval rate of their drug development pipeline. <br>
-b)	A Venture Capitalist in the pharma industry evaluating risk and timeline of returns on drug development investments. <br>
-c)	An Academic Researcher in the field of public health studying the factors influencing clinical trial efficiency and drug approval rates. <br>
+1)	The Chief Regulatory Officer (CRO) of a pharmaceutical company looking to increase the approval rate of their drug development pipeline. <br>
+2)	A Venture Capitalist in the pharma industry evaluating risk and timeline of returns on drug development investments. <br>
+3)	An Academic Researcher in the field of public health studying the factors influencing clinical trial efficiency and drug approval rates. <br>
 <br>
 <h2> Data Sources </h2>
-a)	Phase 1, 2, and 3 clinical trial data from clinicatrial.gov <br>
-b)	Common drug names, approval status, ATC class, and names from drugbank.com. <br>
-c)	First approval date and highest development phase from ChEMBL. <br>
+1)	Phase 1, 2, and 3 clinical trial data from clinicatrial.gov <br>
+2)	Common drug names, approval status, ATC class, and names from drugbank.com. <br>
+3)	First approval date and highest development phase from ChEMBL. <br>
 <br>
 <h2> Data Limitation </h2>
 The information on approval status and approval dates are only for unique drugs and does not include the same drug that were tested for different conditions or dosages.
