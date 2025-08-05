@@ -1,0 +1,3830 @@
+,Clinical Trial Drug Name,DrugBank Drug Name,Match Score,First Approval Date,Highest Development Phase
+0,erlotinib hydrochloride,erlotinib,100.0,2004.0,4.0
+1,gemcitabine hydrochloride,gemcitabine,100.0,,2.0
+2,oxaliplatin,oxaliplatin,100.0,2002.0,4.0
+3,srx246,srx-246,92.3076923076923,,
+6,s-3304,s-3304,100.0,,
+8,aflibercept,aflibercept,100.0,2011.0,4.0
+9,milatuzumab,milatuzumab,100.0,,2.0
+10,dovitinib (tki258),dovitinib,100.0,,
+11,temozolomide,temozolomide,100.0,1999.0,4.0
+12,aerosolized calfactant,calfactant,100.0,1998.0,4.0
+13,chlorine dioxide sterilization,chlorine,100.0,,2.0
+16,calcitriol,calcitriol,100.0,,
+26,cisplatin,cisplatin,100.0,,
+27,ipilimumab,ipilimumab,100.0,2011.0,4.0
+28,nivolumab,nivolumab,100.0,2015.0,4.0
+29,cilostazol,cilostazol,100.0,1999.0,4.0
+33,inhaled treprostinil,treprostinil,100.0,2002.0,4.0
+34,cefprozil,cefprozil,100.0,,
+36,fermented papaya preparation,papaya,100.0,,
+37,bms-986419,bms-986141,90.0,,2.0
+38,moxifloxacin,moxifloxacin,100.0,1999.0,4.0
+39,pregabalin,pregabalin,100.0,2004.0,4.0
+40,zonisamide,zonisamide,100.0,2000.0,4.0
+44,veltuzumab,veltuzumab,100.0,,2.0
+48,docetaxel,docetaxel,100.0,1996.0,4.0
+55,"cp-724,714",cp-724714,94.73684210526316,,2.0
+56,idelalisib,idelalisib,100.0,,
+57,rituximab,rituximab,100.0,1997.0,4.0
+58,bendamustine,bendamustine,100.0,2008.0,4.0
+60,trabectedin,trabectedin,100.0,2007.0,4.0
+61,doxorubicin,doxorubicin,100.0,,4.0
+62,ifosfamide,ifosfamide,100.0,1988.0,4.0
+63,recombinant human interleukin-15 (rhil-15),interleukin-10,92.85714285714286,,2.0
+64,mogamulizumab,mogamulizumab,100.0,2018.0,4.0
+66,busulfan,busulfan,100.0,1954.0,4.0
+67,clofarabine,clofarabine,100.0,2004.0,4.0
+68,cobomarsen,cobomarsen,100.0,,2.0
+69,vorinostat,vorinostat,100.0,2006.0,4.0
+73,panitumumab,panitumumab,100.0,2006.0,4.0
+74,capecitabine,capecitabine,100.0,1998.0,4.0
+75,fluorouracil,fluorouracil,100.0,,
+76,vitamin d3 (cholecalciferol),cholecalciferol,93.75,1999.0,4.0
+79,clomiphene,enclomiphene,90.9090909090909,,3.0
+80,ropinirole controlled-release (requip cr) for rls,ropinirole,100.0,1997.0,4.0
+82,idarubicin,idarubicin,100.0,1990.0,4.0
+83,cytarabine,cytarabine,100.0,,
+84,lenalidomide (revlimid®),lenalidomide,100.0,2005.0,4.0
+88,pemetrexed & gemcitabine,pemetrexed,100.0,2004.0,4.0
+90,colchicine,colchicine,100.0,1961.0,4.0
+91,pembrolizumab,pembrolizumab,100.0,2014.0,4.0
+93,lixivaptan,lixivaptan,100.0,,3.0
+94,bortezomib,bortezomib,100.0,2003.0,4.0
+95,cyclophosphamide,cyclophosphamide,100.0,1959.0,4.0
+97,dexamethasone,dexamethasone,100.0,,2.0
+107,everolimus,everolimus,100.0,2009.0,4.0
+108,gefitinib,gefitinib,100.0,2003.0,4.0
+109,saracatinib,saracatinib,100.0,,
+111,cobimetinib,cobimetinib,100.0,,
+113,sodium cridanimod,cridanimod,100.0,,2.0
+114,niclosamide,niclosamide,100.0,1982.0,4.0
+116,tetracaine hcl  and oxymetazoline hcl,tetracaine,100.0,2016.0,4.0
+118,celecoxib,celecoxib,100.0,1998.0,4.0
+120,filgrastim,filgrastim,100.0,1991.0,4.0
+123,cyclosporine,cyclosporine,100.0,,
+125,etoposide,etoposide,100.0,1996.0,4.0
+126,fludarabine phosphate,fludarabine,100.0,1991.0,4.0
+127,prednisone,prednisone,100.0,,
+128,vincristine sulfate,vincristine,100.0,1963.0,4.0
+132,methoxyamine,methoxyamine,100.0,,1.0
+137,triamcinolone,triamcinolone,100.0,1959.0,4.0
+138,ranibizumab,ranibizumab,100.0,2006.0,4.0
+139,centanafadine,centanafadine,100.0,,3.0
+142,fulvestrant,fulvestrant,100.0,,
+144,acalabrutinib,acalabrutinib,100.0,,
+145,venetoclax,venetoclax,100.0,,
+146,obinutuzumab,obinutuzumab,100.0,2013.0,4.0
+147,solithromycin,solithromycin,100.0,,3.0
+148,ceftriaxone,ceftriaxone,100.0,,
+149,azithromycin,azithromycin,100.0,,
+150,colesevelam,colesevelam,100.0,2000.0,4.0
+151,clonidine,clonidine,100.0,1974.0,4.0
+152,finerenone (bay94-8862),finerenone,100.0,2021.0,4.0
+154,sunitinib malate,sunitinib,100.0,,
+157,"cp-778,875",cp-778875,94.73684210526316,,2.0
+158,pegfilgrastim,pegfilgrastim,100.0,2002.0,4.0
+159,escitalopram,escitalopram,100.0,2002.0,4.0
+160,ribavirin,ribavirin,100.0,1985.0,4.0
+161,leucovorin calcium,leucovorin,100.0,1952.0,4.0
+162,tegafur-uracil,tegafur-uracil,100.0,,
+163,carboplatin,carboplatin,100.0,1989.0,4.0
+164,paclitaxel,paclitaxel,100.0,,
+165,trametinib,trametinib,100.0,2013.0,4.0
+168,ciclesonide hfa nasal aerosol,ciclesonide,100.0,2006.0,4.0
+172,ibrutinib,ibrutinib,100.0,2013.0,4.0
+174,g100,g100,100.0,,
+176,bazedoxifene and conjugated estrogens,bazedoxifene,100.0,2009.0,4.0
+177,levosimendan,levosimendan,100.0,,3.0
+178,ridaforolimus,ridaforolimus,100.0,,3.0
+180,basiliximab,basiliximab,100.0,1998.0,4.0
+181,apraglutide,apraglutide,100.0,,3.0
+182,triheptanoin,triheptanoin,100.0,2020.0,4.0
+183,nasal irrigation - xylitol,xylitol,100.0,,3.0
+184,bms-986020,bms-986020,100.0,,
+185,alisertib,alisertib,100.0,,-1.0
+186,daunorubicin,daunorubicin,100.0,1996.0,4.0
+188,mercaptopurine,mercaptopurine,100.0,1953.0,4.0
+189,methotrexate,methotrexate,100.0,,
+190,pegaspargase,pegaspargase,100.0,1994.0,4.0
+191,thioguanine,tioguanine,95.23809523809523,1966.0,4.0
+192,riociguat (adempas,riociguat,100.0,2013.0,4.0
+195,teduglutide,teduglutide,100.0,2012.0,4.0
+198,alectinib,alectinib,100.0,2015.0,4.0
+199,esomeprazole,esomeprazole,100.0,2001.0,4.0
+200,inhaled iloprost 5.,iloprost,100.0,2003.0,4.0
+202,atezolizumab,atezolizumab,100.0,2016.0,4.0
+203,enzastaurin hydrochloride,enzastaurin,100.0,,3.0
+205,quizartinib,quizartinib,100.0,2023.0,4.0
+207,rivastigmine transdermal patch,rivastigmine,100.0,1998.0,4.0
+215,flovent fluticasone hfa,fluticasone,100.0,2007.0,4.0
+217,nalmefene,nalmefene,100.0,1995.0,4.0
+219,tenofovir disoproxil fumarate (tenofovir df; tdf),tenofovir,100.0,,-1.0
+221,entecavir (etv),entecavir,100.0,2005.0,4.0
+222,ketamine,ketamine,100.0,1970.0,4.0
+226,rigosertib sodium,rigosertib,100.0,,3.0
+228,daclatasvir,daclatasvir,100.0,2014.0,4.0
+229,asunaprevir,asunaprevir,100.0,,
+231,dextromethorphan,dextromethorphan,100.0,1982.0,4.0
+233,olaratumab,olaratumab,100.0,2016.0,4.0
+235,tirzepatide,tirzepatide,100.0,2022.0,4.0
+236,epacadostat,epacadostat,100.0,,3.0
+237,lasmiditan,lasmiditan,100.0,2020.0,4.0
+238,erythropoietin,erythropoietin,100.0,2007.0,4.0
+239,glutamine and fish oil supplementation,l-glutamine,90.0,,3.0
+240,ext608,ext608,100.0,,
+241,minocycline,minocycline,100.0,1971.0,4.0
+242,mecamylamine,mecamylamine,100.0,1956.0,4.0
+243,varenicline,varenicline,100.0,2006.0,4.0
+244,7-hydroxystaurosporine (ucn-01),7-hydroxystaurosporine,100.0,,
+248,hydrocodone er,hydrocodone,100.0,1943.0,4.0
+251,0. ethinyl estradiol),estradiol,94.73684210526316,2010.0,4.0
+253,captopril pill,captopril,100.0,,
+254,enalapril pill,enalapril,100.0,1985.0,4.0
+255,hydrochlorothiazide,hydrochlorothiazide,100.0,1959.0,4.0
+257,mitoxantrone hydrochloride,mitoxantrone,100.0,1987.0,4.0
+258,selinexor,selinexor,100.0,2019.0,4.0
+263,novel ibuprofen,ibuprofen,100.0,1974.0,4.0
+264,acetaminophen,acetaminophen,100.0,,
+272,verapamil and magnesium sulfate,verapamil,100.0,1981.0,4.0
+273,tofacitinib,tofacitinib,100.0,2012.0,4.0
+276,lisdexamfetamine dimesylate,lisdexamfetamine,100.0,2007.0,4.0
+278,melphalan,melphalan,100.0,1992.0,4.0
+279,sirolimus,sirolimus,100.0,,
+280,tacrolimus,tacrolimus,100.0,1994.0,4.0
+281,receiving 0. it morphine,morphine,100.0,1984.0,4.0
+283,rivogenlecleucel,rivogenlecleucel,100.0,,2.0
+284,rimiducid,rimiducid,100.0,,2.0
+287,bakuchiol,bakuchiol,100.0,,1.0
+291,simufilam,simufilam,100.0,,3.0
+295,lapaquistat acetate,lapaquistat,100.0,,3.0
+298,n-acetylcysteine active and silibin active,acetylcysteine,93.33333333333333,,
+304,metronidazole topical gel,metronidazole,100.0,1980.0,4.0
+314,creatine monohydrate,creatine,100.0,,3.0
+317,becatecarin,becatecarin,100.0,,3.0
+320,temsirolimus plus liposomal doxorubicin,temsirolimus,100.0,2007.0,4.0
+323,aldesleukin,aldesleukin,100.0,1992.0,4.0
+325,maribavir,maribavir,100.0,2021.0,4.0
+327,dasatinib,dasatinib,100.0,2006.0,4.0
+328,imatinib mesylate,imatinib,100.0,2001.0,4.0
+329,nilotinib,nilotinib,100.0,2007.0,4.0
+330,ruxolitinib,ruxolitinib,100.0,2011.0,4.0
+335,meloxicam,meloxicam,100.0,2000.0,4.0
+336,sorafenib tosylate,sorafenib,100.0,2005.0,4.0
+337,metoclopramide nasal spray,metoclopramide,100.0,1979.0,4.0
+339,anastrozole,anastrozole,100.0,1995.0,4.0
+342,selenium,selenium,100.0,1951.0,4.0
+348,crofelemer  [mytesi],crofelemer,100.0,2012.0,4.0
+350,donepezil,donepezil,100.0,1996.0,4.0
+354,lmb-100,lmb-100,100.0,,2.0
+358,abatacept,abatacept,100.0,2006.0,4.0
+359,brexpiprazole,brexpiprazole,100.0,2015.0,4.0
+362,methylprednisolone,methylprednisolone,100.0,,4.0
+372,ramucirumab,ramucirumab,100.0,2014.0,4.0
+374,rosuvastatin,rosuvastatin,100.0,2003.0,4.0
+375,afatinib,afatinib,100.0,2013.0,4.0
+379,low-dose progesterone,progesterone,100.0,1976.0,4.0
+383,exemestane,exemestane,100.0,1999.0,4.0
+384,imipramine,imipramine,100.0,1959.0,4.0
+388,ebselen,ebselen,100.0,,3.0
+389,ketoprofen topical patch,ketoprofen,100.0,1986.0,4.0
+391,infliximab (intravitreal,infliximab,100.0,1998.0,4.0
+394,irinotecan,irinotecan,100.0,1996.0,4.0
+395,bevacizumab,bevacizumab,100.0,2004.0,4.0
+396,abiraterone acetate,abiraterone,100.0,2011.0,4.0
+398,metformin,metformin,100.0,1995.0,4.0
+399,ketorolac,ketorolac,100.0,1989.0,4.0
+401,heparin,heparin,100.0,2023.0,4.0
+402,topotecan and pegylated doxorubicin,topotecan,100.0,,
+403,amifostine trihydrate,amifostine,100.0,1995.0,4.0
+406,enzalutamide,enzalutamide,100.0,2012.0,4.0
+407,ribociclib,ribociclib,100.0,2017.0,4.0
+408,ambrisentan,ambrisentan,100.0,2007.0,4.0
+410,palbociclib,palbociclib,100.0,2015.0,4.0
+411,dacarbazine,dacarbazine,100.0,1975.0,4.0
+412,spesolimab,spesolimab,100.0,2022.0,4.0
+414,bavituximab,bavituximab,100.0,,3.0
+418,nirmatrelvir,nirmatrelvir,100.0,,
+419,ritonavir,ritonavir,100.0,,
+423,resveratrol,resveratrol,100.0,,3.0
+426,febuxostat,febuxostat,100.0,2009.0,4.0
+428,cannabidiol,cannabidiol,100.0,,
+429,citalopram,citalopram,100.0,1998.0,4.0
+432,atx-101 (/cm^2),atx-101,100.0,,1.0
+435,oxycodone,oxycodone,100.0,1950.0,4.0
+437,part a elamipretide  ophthalmic solution,elamipretide,100.0,,3.0
+440,bfh772  ointment,bfh772,100.0,,2.0
+455,misoprostol,misoprostol,100.0,,
+456,mifepristone,mifepristone,100.0,,
+457,doxycycline,doxycycline,100.0,1967.0,4.0
+459,ketoconazole,ketoconazole,100.0,,
+460,copanlisib hydrochloride,copanlisib,100.0,2017.0,4.0
+461,olaparib,olaparib,100.0,2014.0,4.0
+464,belinostat,belinostat,100.0,2014.0,4.0
+465,isotretinoin,isotretinoin,100.0,,-1.0
+466,anifrolumab,anifrolumab,100.0,2021.0,4.0
+467,atorvastatin,atorvastatin,100.0,,
+469,exenatide (bydureon®),exenatide,100.0,,
+475,sitagliptin,sitagliptin,100.0,2006.0,4.0
+476,brimonidine tartrate ophthalmic suspension,brimonidine,100.0,,
+481,syntocinon (synthetic oxytocin),oxytocin,94.11764705882352,,
+485,letrozole,letrozole,100.0,1997.0,4.0
+486,cabazitaxel,cabazitaxel,100.0,2010.0,4.0
+489,adapalene gel,adapalene,100.0,1996.0,4.0
+490,sisunatovir,sisunatovir,100.0,,1.0
+492,rad140,rad-140,92.3076923076923,,2.0
+494,difelikefalin 0.,difelikefalin,100.0,2021.0,4.0
+498,methadone,methadone,100.0,1947.0,4.0
+499,buprenorphine,buprenorphine,100.0,1981.0,4.0
+500,gabapentin,gabapentin,100.0,2011.0,4.0
+501,talazoparib,talazoparib,100.0,2018.0,4.0
+502,ganaxolone,ganaxolone,100.0,2022.0,4.0
+505,silodosin,silodosin,100.0,2008.0,4.0
+506,remeron (mirtazapine),mirtazapine,91.66666666666666,1996.0,4.0
+511,emtricitabine,emtricitabine,100.0,2003.0,4.0
+516,itraconazole,itraconazole,100.0,,
+517,midazolam,midazolam,100.0,1985.0,4.0
+518,miravirsen,miravirsen,100.0,,2.0
+530,enbrel (etanercept),etanercept,90.9090909090909,1998.0,4.0
+531,dinaciclib,dinaciclib,100.0,,3.0
+532,albuterol mdpi,albuterol,100.0,1982.0,4.0
+533,[f-18] vm4-037,vm4-037,100.0,,
+534,soblidotin,soblidotin,100.0,,2.0
+539,onartuzumab,onartuzumab,100.0,,3.0
+540,vemurafenib,vemurafenib,100.0,2011.0,4.0
+541,sab-185,sab-185,100.0,,2.0
+542,flibanserin,flibanserin,100.0,2015.0,4.0
+546,dabrafenib,dabrafenib,100.0,2013.0,4.0
+548,tramadol hcl,tramadol,100.0,,
+550,dobutamine,dobutamine,100.0,1978.0,4.0
+551,nicotine patch,nicotine,100.0,,2.0
+556,ivermectin cream,ivermectin,100.0,,
+564,rg2417,rg2417,100.0,,
+568,omeprazole,omeprazole,100.0,,-1.0
+573,rotigotine,rotigotine,100.0,,
+576,onvansertib,onvansertib,100.0,,1.0
+582,zanzalintinib,zanzalintinib,100.0,,3.0
+586,dzd1516 in combination with trastuzumab and/or capecitabine in part b,trastuzumab,100.0,1998.0,4.0
+591,tissue plasminogen activator (activase®),plasminogen,100.0,,3.0
+593,clarithromycin,clarithromycin,100.0,,
+596,sertaconazole nitrate cream,sertaconazole,100.0,2003.0,4.0
+597,lesinurad,lesinurad,100.0,2015.0,4.0
+598,allopurinol,allopurinol,100.0,1966.0,4.0
+599,pf-04191834,pf-4191834,95.23809523809523,,2.0
+600,naproxen,naproxen,100.0,,
+601,fostamatinib  bid,fostamatinib,100.0,2018.0,4.0
+603,diphenhydramine,diphenhydramine,100.0,2005.0,4.0
+606,insulin aspart,inulin,92.3076923076923,,4.0
+609,singulair (montelukast sodium),montelukast,95.65217391304348,1998.0,4.0
+610,gilteritinib,gilteritinib,100.0,2018.0,4.0
+611,voriconazole,voriconazole,100.0,2002.0,4.0
+612,cephalexin,cephalexin,100.0,1987.0,4.0
+613,glucagon,glucagon,100.0,1960.0,4.0
+615,hydromorphone,hydromorphone,100.0,1984.0,4.0
+618,empagliflozin,empagliflozin,100.0,2014.0,4.0
+621,necitumumab,necitumumab,100.0,2015.0,4.0
+625,levitra (vardenafil,vardenafil,95.23809523809523,2003.0,4.0
+627,modafinil,modafinil,100.0,1998.0,4.0
+629,dronabinol,dronabinol,100.0,1985.0,4.0
+631,evolocumab,evolocumab,100.0,2015.0,4.0
+635,solifenacin,solifenacin,100.0,2004.0,4.0
+636,naltrexone,naltrexone,100.0,1984.0,4.0
+638,isuzinaxib (apx-115),isuzinaxib,100.0,,2.0
+642,fentanyl,fentanyl,100.0,2006.0,4.0
+643,bupivacaine hydrochloride,bupivacaine,100.0,1972.0,4.0
+644,lidocaine hcl,lidocaine,100.0,1948.0,4.0
+648,senna+ docusate,docusate,100.0,,4.0
+652,rrx-001,rrx-001,100.0,,3.0
+654,doxazosin mesylate,doxazosin,100.0,1990.0,4.0
+657,risperidone,risperidone,100.0,1993.0,4.0
+658,lanabecestat,lanabecestat,100.0,,3.0
+659,ezetimibe,ezetimibe,100.0,2002.0,4.0
+662,nyx-2925,nyx-2925,100.0,,2.0
+663,formoterol fumarate,formoterol,100.0,2001.0,4.0
+664,omalizumab,omalizumab,100.0,2003.0,4.0
+665,roflumilast cream,roflumilast,100.0,2010.0,4.0
+667,repository corticotropin injection,corticotropin,100.0,1950.0,4.0
+670,gadolinium,gadolinium,100.0,,3.0
+671,nm-3,nm-3,100.0,,
+672,usb005 (aclerastide) ophthalmic solution,aclerastide,91.66666666666666,,3.0
+673,sodium nitroprusside,nitroprusside,100.0,1981.0,4.0
+674,nepicastat,nepicastat,100.0,,2.0
+675,psilocybin,psilocybin,100.0,,3.0
+677,durvalumab,durvalumab,100.0,2017.0,4.0
+678,tremelimumab,tremelimumab,100.0,2022.0,4.0
+679,bupropion,bupropion,100.0,2008.0,4.0
+683,avelumab,avelumab,100.0,2017.0,4.0
+684,azacitidine,azacitidine,100.0,2004.0,4.0
+686,glasdegib,glasdegib,100.0,2018.0,4.0
+688,valacyclovir hydrochloride,valaciclovir,91.66666666666666,1995.0,4.0
+690,simtuzumab,simtuzumab,100.0,,2.0
+693,tigecycline,tigecycline,100.0,2005.0,4.0
+694,imipenem,imipenem,100.0,1985.0,4.0
+695,cilastatin,cilastatin,100.0,1985.0,4.0
+700,dapagliflozin  tab,dapagliflozin,100.0,2012.0,4.0
+702,povidone-iodine,povidone-iodine,100.0,1985.0,4.0
+707,recombinant human hyaluronidase ph20,hyaluronidase,100.0,2004.0,4.0
+710,somatropin (rdna origin) for injection,somatotropin,90.9090909090909,,2.0
+711,ixazomib oral capsule,ixazomib,100.0,2015.0,4.0
+712,amt-101 (oral),amt-101,100.0,,
+715,levetiracetam 62.,levetiracetam,100.0,1999.0,4.0
+717,ritlecitinib,ritlecitinib,100.0,2023.0,4.0
+719,zileuton,zileuton,100.0,1996.0,4.0
+720,stabilized isoamyl nitrite (sian),nitrite,100.0,2011.0,4.0
+728,topical dermacyn and levofloxacin,levofloxacin,100.0,1996.0,4.0
+745,xenin-25 without atropine,atropine,100.0,,
+751,adalimumab,adalimumab,100.0,2002.0,4.0
+752,etrolizumab,etrolizumab,100.0,,3.0
+753,lofexidine,lofexidine,100.0,2018.0,4.0
+754,cefixime,cefixime,100.0,1989.0,4.0
+759,rifaximin,rifaximin,100.0,2004.0,4.0
+762,latanoprost,latanoprost,100.0,1996.0,4.0
+763,chlorthalidone,chlorthalidone,100.0,1960.0,4.0
+764,dalteparin,dalteparin,100.0,1994.0,4.0
+772,valganciclovir [valcyte],valganciclovir,100.0,2001.0,4.0
+777,leptin,leptin,100.0,2014.0,4.0
+782,nafamostat mesylate,nafamostat,100.0,,3.0
+784,hydroxyurea,hydroxyurea,100.0,1967.0,4.0
+786,icosapent ethyl,icosapent,100.0,2012.0,4.0
+787,gw679769 (casopitant) oral tablets,casopitant,90.9090909090909,,3.0
+788,rifampin oral capsules,rifampin,100.0,1971.0,4.0
+790,vortioxetine (lu aa21004),vortioxetine,100.0,2013.0,4.0
+791,duloxetine,duloxetine,100.0,2004.0,4.0
+793,aceclidine,aceclidine,100.0,,
+794,tadalafil,tadalafil,100.0,,
+798,ferumoxytol non-stoichiometric magnetite,ferumoxytol,100.0,2009.0,4.0
+804,chlorhexidine mouthrinse,chlorhexidine,100.0,,
+807,liothyronine sodium,liothyronine,100.0,1956.0,4.0
+809,interleukin-2 sa,interleukin-7,92.3076923076923,,2.0
+813,toripalimab,toripalimab,100.0,2023.0,4.0
+814,rucaparib,rucaparib,100.0,2016.0,4.0
+816,thiamine hydrochloride,thiamine,100.0,1985.0,4.0
+818,ofatumumab and bortezomib,ofatumumab,100.0,2009.0,4.0
+821,maraviroc,maraviroc,100.0,2007.0,4.0
+828,bimatoprost ophthalmic,bimatoprost,100.0,,
+829,ziprasidone,ziprasidone,100.0,2001.0,4.0
+830,das181,das-181,92.3076923076923,,3.0
+832,ropivacaine hcl,ropivacaine,100.0,1996.0,4.0
+833,bms-986156,bms-986115,90.0,,1.0
+839,paricalcitol,paricalcitol,100.0,1998.0,4.0
+842,seladelpar 5-,seladelpar,100.0,,-1.0
+849,ubiquinol,ubiquinol,100.0,,
+850,l-citrulline,citrulline,90.9090909090909,,3.0
+852,galeterone,galeterone,100.0,,3.0
+856,rifabutin,rifabutin,100.0,1992.0,4.0
+858,bj-001,bj-001,100.0,,
+859,valrubicin,valrubicin,100.0,1998.0,4.0
+860,sep-363856,sep-363856,100.0,,3.0
+864,cd5789 (trifarotene),trifarotene,91.66666666666666,2019.0,4.0
+865,rapastinel (formerly glyx-13),rapastinel,100.0,,3.0
+866,rebimastat,rebimastat,100.0,,
+868,rabeprazole,rabeprazole,100.0,1999.0,4.0
+872,eplerenone,eplerenone,100.0,2002.0,4.0
+876,flortaucipir f18,flortaucipir,100.0,2020.0,4.0
+879,riboflavin,riboflavin,100.0,1993.0,4.0
+881,n-acetyl cysteine,cysteine,100.0,1986.0,4.0
+882,xl281,xl281,100.0,,2.0
+883,famotidine,famotidine,100.0,1986.0,4.0
+886,prexasertib,prexasertib,100.0,,2.0
+887,ralimetinib,ralimetinib,100.0,,2.0
+888,dupilumab,dupilumab,100.0,2017.0,4.0
+894,linsitinib,linsitinib,100.0,,3.0
+895,paroxetine,paroxetine,100.0,1992.0,4.0
+896,desipramine,desipramine,100.0,1964.0,4.0
+899,clopidogrel,clopidogrel,100.0,1997.0,4.0
+900,ticagrelor,ticagrelor,100.0,,
+902,letermovir pill,letermovir,100.0,2017.0,4.0
+906,krn330,krn-330,92.3076923076923,,1.0
+908,daratumumab,daratumumab,100.0,2015.0,4.0
+911,nesiritide,nesiritide,100.0,2001.0,4.0
+913,apixaban,apixaban,100.0,2011.0,4.0
+917,alemtuzumab,alemtuzumab,100.0,2001.0,4.0
+919,thalidomide,thalidomide,100.0,,
+921,anecortave acetate,anecortave,100.0,,
+924,bryostatin 1,bryostatin 1,90.9090909090909,,2.0
+927,ph-797804,ph-797804,100.0,,2.0
+929,remifentanil,remifentanil,100.0,1996.0,4.0
+930,capsaicin,capsaicin,100.0,2009.0,4.0
+931,ixekizumab,ixekizumab,100.0,2016.0,4.0
+932,pf-07038124 and vehicle,pf-07038124,100.0,,
+944,nesvacumab (regn910/ sar307746),nesvacumab,100.0,,2.0
+946,ocrelizumab dose 1,ocrelizumab,100.0,2017.0,4.0
+949,estramustine,estramustine,100.0,,3.0
+952,arimoclomol,arimoclomol,100.0,,3.0
+953,mebendazole,mebendazole,100.0,1974.0,4.0
+954,darapladib,darapladib,100.0,,3.0
+955,tas-106,tas-106,100.0,,2.0
+956,mannitol,mannitol,100.0,2012.0,4.0
+958,imiquimod,imiquimod,100.0,1997.0,4.0
+963,laf237 = vildagliptin,vildagliptin,100.0,2007.0,4.0
+965,fresolimumab,fresolimumab,100.0,,2.0
+966,ipatasertib,ipatasertib,100.0,,
+968,selumetinib,selumetinib,100.0,2020.0,4.0
+970,rilzabrutinib,rilzabrutinib,100.0,,3.0
+972,lazertinib,lazertinib,100.0,,3.0
+974,tafenoquine control,tafenoquine,100.0,2018.0,4.0
+979,bms-986278,bms-986278,100.0,,2.0
+980,pirfenidone,pirfenidone,100.0,2011.0,4.0
+981,eculizumab,eculizumab,100.0,2007.0,4.0
+983,eribulin,eribulin,100.0,2010.0,4.0
+984,balixafortide,balixafortide,100.0,,3.0
+987,hydrocortisone,hydrocortisone,100.0,2018.0,2.0
+989,mazindol extended release,mazindol,100.0,1973.0,4.0
+999,baclofen,baclofen,100.0,,
+1003,floxuridine,floxuridine,100.0,,
+1004,vancomycin,vancomycin,100.0,1964.0,4.0
+1009,eszopiclone,eszopiclone,100.0,2004.0,4.0
+1011,cabozantinib,cabozantinib,100.0,2012.0,4.0
+1015,vinorelbine tartrate,vinorelbine,100.0,1994.0,4.0
+1016,vasopressin,vasopressin,100.0,1982.0,4.0
+1018,gsk2110183 (afuresertib),afuresertib,91.66666666666666,,-1.0
+1019,sargramostim,sargramostim,100.0,1991.0,4.0
+1022,glycopyrronium topical wipes,glycopyrronium,100.0,1961.0,4.0
+1023,lumicitabine,lumicitabine,100.0,,
+1024,fontolizumab,fontolizumab,100.0,,2.0
+1025,belatacept,belatacept,100.0,2011.0,4.0
+1028,mln-518 (tandutinib),tandutinib,90.9090909090909,,
+1029,platelet rich fibrin matrix,fibrin,100.0,,3.0
+1031,nelfinavir mesylate,nelfinavir,100.0,,
+1032,nitroglycerin  (mxq-503),nitroglycerin,100.0,1981.0,4.0
+1039,cerdulatinib  gel,cerdulatinib,100.0,,2.0
+1045,azd7442 (tixagevimab [azd8895] + cilgavimab [azd1061]),azd7442,100.0,,
+1046,hld200 (methylphenidate hydrochloride),methylphenidate,96.7741935483871,1955.0,4.0
+1047,brodalumab,brodalumab,100.0,2017.0,4.0
+1050,droperidol injectable product,droperidol,100.0,1970.0,4.0
+1051,e-we thrombin- dose 1,thrombin,94.11764705882352,,4.0
+1062,vafidemstat,vafidemstat,100.0,,2.0
+1063,memantine,memantine,100.0,2003.0,4.0
+1065,iloperidone,iloperidone,100.0,2009.0,4.0
+1068,vis410 low dose,vis-410,92.3076923076923,,2.0
+1072,pf-00489791,pf-00489791,100.0,,2.0
+1077,pertuzumab,pertuzumab,100.0,2012.0,4.0
+1078,hyperbaric oxygen,oxygen,100.0,2006.0,4.0
+1080,[18f] flutemetamol,flutemetamol,100.0,2013.0,4.0
+1081,azd2066,azd2066,100.0,,2.0
+1082,lacosamide,lacosamide,100.0,2008.0,4.0
+1084,ivosidenib,ivosidenib,100.0,2018.0,4.0
+1095,inotuzumab ozogamicin,lintuzumab,90.0,,3.0
+1096,tozadenant (syn115)  bid,tozadenant,100.0,,3.0
+1097,levodopa (l-dopa),levodopa,100.0,1970.0,4.0
+1102,eltrombopag,eltrombopag,100.0,2008.0,4.0
+1107,sotagliflozin,sotagliflozin,100.0,2019.0,4.0
+1109,hyperpolarized xenon gas,xenon,100.0,1982.0,4.0
+1111,cortexolone 17α-propionate,clorexolone,90.9090909090909,,2.0
+1114,lenabasum,lenabasum,100.0,,3.0
+1116,clindamycin,clindamycin,100.0,1970.0,4.0
+1122,tolebrutinib,tolebrutinib,100.0,,3.0
+1123,danicopan,danicopan,100.0,,3.0
+1124,sertraline,sertraline,100.0,1991.0,4.0
+1128,albiglutide,albiglutide,100.0,2014.0,4.0
+1129,liraglutide,liraglutide,100.0,2010.0,4.0
+1131,magnesium sulfate,magnesium,100.0,1982.0,4.0
+1134,dexmedetomidine,dexmedetomidine,100.0,1999.0,4.0
+1136,epirubicin,epirubicin,100.0,1999.0,4.0
+1137,istradefylline (kw-6002),istradefylline,100.0,,
+1142,aclidinium  / formoterol,aclidinium,100.0,2012.0,4.0
+1145,dostarlimab,dostarlimab,100.0,2021.0,4.0
+1146,niraparib,niraparib,100.0,2017.0,4.0
+1148,ciprofloxacin,ciprofloxacin,100.0,1987.0,4.0
+1150,larazotide acetate,larazotide,100.0,,3.0
+1153,deutetrabenazine,deutetrabenazine,100.0,2017.0,4.0
+1154,melatonin,melatonin,100.0,2022.0,4.0
+1161,hydralazine and valproic acid: cohort -1,hydralazine,100.0,1953.0,4.0
+1169,pevonedistat,pevonedistat,100.0,,-1.0
+1179,estradiol/norethindrone acetate,acetate,100.0,,-1.0
+1180,elagolix,elagolix,100.0,2018.0,4.0
+1181,surface-controlled water soluble curcumin,water,100.0,2011.0,4.0
+1185,candesartan,candesartan,100.0,1998.0,4.0
+1186,aq-13,aq-13,100.0,,2.0
+1189,jnj-54175446 (capsule),jnj-54175446,100.0,,
+1198,ecopipam hydrochloride,ecopipam,100.0,,
+1200,ibrexafungerp,ibrexafungerp,100.0,2021.0,4.0
+1201,tc 99m tilmanocept,tilmanocept,100.0,2013.0,4.0
+1205,cetuximab,cetuximab,100.0,2004.0,4.0
+1206,muraglitazar,muraglitazar,100.0,,
+1207,rgls8429,rgls-8429,94.11764705882352,,1.0
+1208,suvorexant,suvorexant,100.0,2014.0,4.0
+1221,desloratadine and pseudoephedrine,desloratadine,100.0,2001.0,4.0
+1222,bexarotene,bexarotene,100.0,1999.0,4.0
+1228,nusinersen,nusinersen,100.0,,4.0
+1229,cc-90001,cc-90001,100.0,,2.0
+1232,serlopitant tablets,serlopitant,100.0,,3.0
+1233,sotrastaurin (dose 1) + tacrolimus + standard of care medications,sotrastaurin,100.0,,2.0
+1237,canakinumab,canakinumab,100.0,2009.0,4.0
+1242,atomoxetine,atomoxetine,100.0,2002.0,4.0
+1243,acarbose,acarbose,100.0,1995.0,4.0
+1244,pyridostigmine bromide,pyridostigmine,100.0,1955.0,4.0
+1245,yohimbine,yohimbine,100.0,,4.0
+1246,midodrine hcl,midodrine,100.0,1996.0,4.0
+1247,octreotide,octreotide,100.0,1988.0,4.0
+1249,ranitidine hcl,ranitidine,100.0,1983.0,4.0
+1250,tranylcypromine,tranylcypromine,100.0,,
+1251,ergotamine/ caffeine,caffeine,100.0,1948.0,4.0
+1252,pseudoephedrine,pseudoephedrine,100.0,1963.0,4.0
+1254,indomethacin,indomethacin,100.0,1985.0,4.0
+1256,oxymetazoline  nasal solution,oxymetazoline,100.0,1986.0,4.0
+1257,acetazolamide,acetazolamide,100.0,1953.0,4.0
+1268,propofol,propofol,100.0,1989.0,4.0
+1272,toremifene,toremifene,100.0,,
+1273,teriflunomide hmr1726,teriflunomide,100.0,2012.0,4.0
+1276,buspirone,buspirone,100.0,1986.0,4.0
+1281,daridorexant,daridorexant,100.0,2022.0,4.0
+1289,ixabepilone,ixabepilone,100.0,2007.0,4.0
+1293,ontamalimab,ontamalimab,100.0,,3.0
+1313,tivantinib,tivantinib,100.0,,3.0
+1314,carfilzomib,carfilzomib,100.0,2009.0,4.0
+1316,quetiapine fumarate,quetiapine,100.0,1997.0,4.0
+1317,velpatasvir,velpatasvir,100.0,2016.0,4.0
+1318,selegiline,selegiline,100.0,1989.0,4.0
+1328,ags-004,ags-004,100.0,,2.0
+1329,pacritinib,pacritinib,100.0,,
+1331,amiloride hcl,amiloride,100.0,1981.0,4.0
+1332,warfarin,warfarin,100.0,1954.0,4.0
+1334,voxilaprevir,voxilaprevir,100.0,2017.0,4.0
+1338,pazopanib,pazopanib,100.0,2009.0,4.0
+1339,lapatinib ditosylate,lapatinib,100.0,2007.0,4.0
+1341,crizotinib,crizotinib,100.0,2011.0,4.0
+1346,migalastat hcl,migalastat,100.0,2016.0,4.0
+1348,test chloroquine (cq) formulation,chloroquine,100.0,1949.0,4.0
+1354,tocilizumab [roactemra/actemra],tocilizumab,100.0,2005.0,4.0
+1357,bafetinib,bafetinib,100.0,,
+1358,xl765 (sar245409),xl765,100.0,,
+1360,ot-551 ophthalmic solution,ot-551,100.0,,2.0
+1362,acyclovir,acyclovir,100.0,1982.0,4.0
+1363,leuprolide acetate 22. depot,leuprolide,100.0,1985.0,4.0
+1370,enoxaparin sodium,enoxaparin,100.0,1993.0,4.0
+1371,semuloparin sodium,semuloparin,100.0,,-1.0
+1373,abemaciclib,abemaciclib,100.0,2017.0,4.0
+1374,vismodegib,vismodegib,100.0,2012.0,4.0
+1375,prasterone (gl701),prasterone,100.0,,
+1378,pramipexole,pramipexole,100.0,,
+1384,levothyroxine,levothyroxine,100.0,2000.0,4.0
+1387,prt060128 potassium,potassium,100.0,1979.0,4.0
+1388,carisbamate,carisbamate,100.0,,3.0
+1392,zavegepant,zavegepant,100.0,2023.0,4.0
+1394,azd9977,azd-9977,93.33333333333333,,2.0
+1400,tretinoin,tretinoin,100.0,,2.0
+1403,fexofenadine tablets,fexofenadine,100.0,1996.0,4.0
+1406,vt-122 (propranolol plus etodolac),propranolol,95.65217391304348,1967.0,4.0
+1407,retosiban,retosiban,100.0,,3.0
+1408,rabbit anti-thymocyte globulin,rabbit,100.0,2011.0,-1.0
+1410,pf-04965842,pf-04958242,90.9090909090909,,2.0
+1412,azd8630,azd8630,100.0,,
+1414,terlipressin,terlipressin,100.0,2022.0,4.0
+1416,bremelanotide,bremelanotide,100.0,2019.0,4.0
+1417,decitabine,decitabine,100.0,2006.0,4.0
+1420,mm-111 + herceptin,mm-111,100.0,,2.0
+1426,peptide-tet,peptide-t,90.0,,2.0
+1429,cediranib,cediranib,100.0,,3.0
+1433,isavuconazonium sulfate,isavuconazonium,100.0,2015.0,4.0
+1438,parsaclisib,parsaclisib,100.0,,1.0
+1440,tralokinumab dose 1,tralokinumab,100.0,2021.0,4.0
+1446,pralatrexate,pralatrexate,100.0,2009.0,4.0
+1449,bms-919373,bms-919373,100.0,,2.0
+1451,evacetrapib,evacetrapib,100.0,,3.0
+1453,dasiglucagon,dasiglucagon,100.0,,3.0
+1458,timolol maleate pf  ophthalmic solution,timolol,100.0,1978.0,4.0
+1461,pasireotide lar,pasireotide,100.0,,
+1466,ns2359,ns-2359,92.3076923076923,,2.0
+1472,91-day levonorgestrel oral contraceptive,levonorgestrel,100.0,1982.0,4.0
+1476,regorafenib,regorafenib,100.0,2012.0,4.0
+1477,neratinib,neratinib,100.0,2017.0,4.0
+1478,loperamide,loperamide,100.0,1976.0,4.0
+1479,colestipol,colestipol,100.0,1977.0,4.0
+1480,budesonide,budesonide,100.0,1994.0,4.0
+1486,daclizumab,daclizumab,100.0,1997.0,4.0
+1492,bapineuzumab (aab-001),bapineuzumab,100.0,,3.0
+1503,eflornithine,eflornithine,100.0,1990.0,4.0
+1510,bms-986256,bms-986251,90.0,,1.0
+1511,vir-7831 (sotrovimab),sotrovimab,90.9090909090909,2021.0,4.0
+1512,bosutinib,bosutinib,100.0,2012.0,4.0
+1513,sildenafil cream,sildenafil,100.0,1998.0,4.0
+1514,gsk239512,gsk-239512,94.73684210526316,,
+1515,aprepitant,aprepitant,100.0,,
+1517,intravenous glenzocimab (act017),glenzocimab,100.0,,2.0
+1522,pyrazoloacridine,pyrazoloacridine,100.0,,2.0
+1523,epratuzumab,epratuzumab,100.0,,3.0
+1524,s-adenosyl methionine for chronic liver disease,methionine,100.0,,
+1525,oncos-102,oncos-102,100.0,,
+1526,dexpramipexole (dose 1),dexpramipexole,100.0,,3.0
+1530,binimetinib,binimetinib,100.0,2018.0,4.0
+1531,sotorasib,sotorasib,100.0,,
+1532,osimertinib,osimertinib,100.0,2015.0,4.0
+1534,"traxiprodil (cp-101,606)",traxoprodil,90.9090909090909,,-1.0
+1535,efalizumab,efalizumab,100.0,2003.0,4.0
+1536,dalfampridine,dalfampridine,100.0,2010.0,4.0
+1539,anakinra,anakinra,100.0,2001.0,4.0
+1542,zanubrutinib,zanubrutinib,100.0,2019.0,4.0
+1543,panobinostat,panobinostat,100.0,2015.0,4.0
+1546,rh-1,rh-1,100.0,,
+1554,telaprevir,telaprevir,100.0,,
+1561,buparlisib,buparlisib,100.0,,-1.0
+1563,alprostadil,alprostadil,100.0,,-1.0
+1566,diltiazem,diltiazem,100.0,1996.0,4.0
+1567,gefapixant,gefapixant,100.0,,1.0
+1570,tavilermide ophthalmic solution,tavilermide,100.0,,3.0
+1571,tariquidar,tariquidar,100.0,,3.0
+1581,tetrathiomolybdate,tetrathiomolybdate,100.0,,1.0
+1583,c-13 labeled lysine,lysine,100.0,,4.0
+1590,ponsegromab,ponsegromab,100.0,,2.0
+1606,aminopterin,aminopterin,100.0,,2.0
+1615,tucatinib,tucatinib,100.0,2020.0,4.0
+1617,sapropterin dihydrochloride,sapropterin,100.0,2007.0,4.0
+1621,pegloticase,pegloticase,100.0,2010.0,4.0
+1626,omadacycline,omadacycline,100.0,2018.0,4.0
+1629,medi6012,medi6012,100.0,,2.0
+1630,odalasvir,odalasvir,100.0,,2.0
+1631,bleomycin sulfate,bleomycin,100.0,1973.0,4.0
+1634,canagliflozin (jnj-28431754),canagliflozin,100.0,2011.0,4.0
+1636,lumateperone,lumateperone,100.0,2019.0,4.0
+1637,chf5633,chf5633,100.0,,
+1640,bimekizumab,bimekizumab,100.0,2021.0,4.0
+1643,dabigatran,dabigatran,100.0,2008.0,4.0
+1644,selpercatinib,selpercatinib,100.0,,
+1647,palonosetron hydrochloride,palonosetron,100.0,2003.0,4.0
+1649,cariprazine,cariprazine,100.0,2015.0,4.0
+1659,lurasidone,lurasidone,100.0,2010.0,4.0
+1666,pemigatinib,pemigatinib,100.0,2020.0,4.0
+1672,pomalidomide,pomalidomide,100.0,2013.0,4.0
+1676,magrolimab,magrolimab,100.0,,3.0
+1679,enasidenib,enasidenib,100.0,2017.0,4.0
+1681,prochlorperazine 0. iv over 5 sec,prochlorperazine,100.0,,
+1688,cytochrome p450 inhibitor,cytochrome c,90.9090909090909,,
+1694,benralizumab arm a,benralizumab,100.0,2017.0,4.0
+1704,azd5153,azd-5153,93.33333333333333,,1.0
+1705,carmustine,carmustine,100.0,1977.0,4.0
+1712,jbpos0101,jbpos0101,100.0,,2.0
+1713,olanzapine,olanzapine,100.0,2009.0,4.0
+1715,valsartan,valsartan,100.0,1996.0,4.0
+1723,galunisertib,galunisertib,100.0,,2.0
+1733,apd421- amisulpride for iv injection,amisulpride,100.0,1986.0,4.0
+1738,tazemetostat,tazemetostat,100.0,2020.0,4.0
+1739,ozanezumab,ozanezumab,100.0,,2.0
+1740,pf-03463275,pf-03463275,100.0,,2.0
+1746,volasertib,volasertib,100.0,,
+1753,brivaracetam,brivaracetam,100.0,2016.0,4.0
+1754,imexon + docetaxel,imexon,100.0,,2.0
+1755,zolpidem,zolpidem,100.0,1992.0,4.0
+1758,naloxone,naloxone,100.0,,
+1760,phentolamine ophthalmic solution,phentolamine,100.0,1952.0,4.0
+1765,entrectinib test formulation (f1),entrectinib,100.0,2019.0,4.0
+1770,podofilox gel,podofilox,100.0,1990.0,4.0
+1772,nepafenac ophthalmic suspension,nepafenac,100.0,2005.0,4.0
+1775,bicalutamide,bicalutamide,100.0,1995.0,4.0
+1776,bexagliflozin,bexagliflozin,100.0,2023.0,4.0
+1780,veliparib,veliparib,100.0,,3.0
+1783,linerixibat,linerixibat,100.0,,
+1784,"cp-195,543",cp-195543,94.73684210526316,,2.0
+1788,isatuximab,isatuximab,100.0,2020.0,4.0
+1792,secukinumab,secukinumab,100.0,2015.0,4.0
+1797,matrix-m2 adjuvant (),matrix-m,94.11764705882352,,3.0
+1798,tenecteplase,tenecteplase,100.0,2000.0,4.0
+1801,trifluridine and tipiracil hydrochloride,trifluridine,100.0,1980.0,4.0
+1803,soticlestat,soticlestat,100.0,,3.0
+1804,ilorasertib,ilorasertib,100.0,,2.0
+1805,"cp-866,087",cp-866087,94.73684210526316,,2.0
+1806,tas-102,tas-102,100.0,,2.0
+1808,saxagliptin,saxagliptin,100.0,,3.0
+1810,seviteronel: given orally once daily in 28-day cycles,seviteronel,95.65217391304348,,2.0
+1817,cocaine hydrochloride,cocaine,100.0,,
+1827,tamsulosin,tamsulosin,100.0,1997.0,4.0
+1832,vedolizumab,vedolizumab,100.0,2014.0,4.0
+1836,siltuximab,siltuximab,100.0,2014.0,4.0
+1837,nisoldipine extended-release tablets,nisoldipine,100.0,1995.0,4.0
+1842,nelarabine,nelarabine,100.0,2005.0,4.0
+1843,lb-102,lb-102,100.0,,1.0
+1853,hydroxychloroquine,hydroxychloroquine,100.0,1955.0,4.0
+1861,staccato loxapine,loxapine,100.0,1975.0,4.0
+1864,isavuconazole,isavuconazole,100.0,,3.0
+1867,fms inhibitor jnj-40346527,jnj-40346527,100.0,,2.0
+1880,tasimelteon,tasimelteon,100.0,2014.0,4.0
+1881,rosiglitazone,rosiglitazone,100.0,1999.0,4.0
+1885,aee788,aee-788,92.3076923076923,,2.0
+1886,romidepsin,romidepsin,100.0,,
+1887,prx-102 (pegunigalsidase alfa),px-102,92.3076923076923,,2.0
+1889,peginesatide,peginesatide,100.0,,3.0
+1895,testosterone and standard nmes,testosterone,100.0,1953.0,4.0
+1901,pictilisib,pictilisib,100.0,,
+1903,belimumab,belimumab,100.0,2011.0,4.0
+1904,iron isomaltoside/ferric derisomaltose,iron,100.0,2000.0,4.0
+1906,lenvatinib,lenvatinib,100.0,2015.0,4.0
+1907,dcvax-l and t cells,dcvax-l,100.0,,
+1908,sparsentan,sparsentan,100.0,2023.0,4.0
+1916,diazoxide choline controlled-release tablet,diazoxide,100.0,1973.0,4.0
+1919,venlafaxine xr,venlafaxine,100.0,1993.0,4.0
+1922,vilanterol,vilanterol,100.0,2013.0,4.0
+1927,ertapenem,ertapenem,100.0,2001.0,4.0
+1930,sulopenem,sulopenem,100.0,,3.0
+1932,abacavir,abacavir,100.0,1998.0,4.0
+1933,lamivudine,lamivudine,100.0,,
+1936,rimonabant,rimonabant,100.0,2006.0,4.0
+1937,dapsone  po bid,dapsone,100.0,1979.0,4.0
+1940,acebilustat,acebilustat,100.0,,
+1945,topical aminolevulinate,hexaminolevulinate,90.9090909090909,2010.0,4.0
+1948,rocatinlimab vial injection,rocatinlimab,100.0,,3.0
+1952,ataluren,ataluren,100.0,2014.0,4.0
+1954,lamotrigine,lamotrigine,100.0,1994.0,4.0
+1958,azimilide dihydrochloride,azimilide,100.0,,3.0
+1959,miconazole  oil,miconazole,100.0,1974.0,4.0
+1965,bococizumab (pf-04950615),bococizumab,100.0,,3.0
+1970,tezosentan,tezosentan,100.0,,3.0
+1973,bemotrizinol (),bemotrizinol,100.0,,3.0
+1977,azd4877,azd-4877,93.33333333333333,,2.0
+1983,phenobarbital,phenobarbital,100.0,2022.0,4.0
+1988,calcium sodium phosphosilicate/ sodium monofluorophosphate dentifrice,calcium,100.0,1982.0,4.0
+1990,sodium monofluorophosphate dentifrice,monofluorophosphate ion,90.47619047619048,1986.0,4.0
+1993,pioglitazone,pioglitazone,100.0,1999.0,4.0
+2006,quinacrine and capecitabine,quinacrine,100.0,,-1.0
+2009,ctt1057,ctt-1057,93.33333333333333,,3.0
+2013,riluzole  (part b),riluzole,100.0,1995.0,4.0
+2016,axitinib (ag-013736),axitinib,100.0,2012.0,4.0
+2020,sevelamer hydrochloride,sevelamer,100.0,,4.0
+2021,napabucasin,napabucasin,100.0,,3.0
+2023,desvenlafaxine sustained release (dvs sr),desvenlafaxine,100.0,2008.0,4.0
+2028,romiplostim,romiplostim,100.0,2008.0,4.0
+2029,elotuzumab (bms-901608; huluc63),elotuzumab,100.0,2015.0,4.0
+2031,apocynin,apocynin,100.0,,1.0
+2033,ng nitro l arginine methyl ester,arginine,100.0,,4.0
+2044,pf-04937319,pf-04937319,100.0,,2.0
+2045,glimepiride,glimepiride,100.0,1995.0,4.0
+2052,ivacaftor,ivacaftor,100.0,2012.0,4.0
+2056,afm13,afm-13,90.9090909090909,,1.0
+2064,topiramate,topiramate,100.0,1996.0,4.0
+2070,aripiprazole,aripiprazole,100.0,2015.0,4.0
+2071,voclosporin,voclosporin,100.0,2021.0,4.0
+2072,sonelokimab (m1095),sonelokimab,100.0,,2.0
+2082,cimetidine,cimetidine,100.0,1977.0,4.0
+2085,omaveloxolone capsules (2./capsule),omaveloxolone,100.0,,
+2089,jnj-17216498,jnj-17216498,100.0,,2.0
+2091,losartan,losartan,100.0,,
+2092,pravastatin,pravastatin,100.0,1991.0,4.0
+2093,erythromycin,erythromycin,100.0,1964.0,4.0
+2100,inz-701,inz-701,100.0,,1.0
+2103,crenolanib,crenolanib,100.0,,3.0
+2104,midostaurin,midostaurin,100.0,2017.0,4.0
+2111,biib033 (opicinumab),opicinumab,90.9090909090909,,2.0
+2116,imc-a12 (cixutumumab) - 10 milligrams/kilogram (mg/kg),cixutumumab,91.66666666666666,,2.0
+2118,simvastatin,simvastatin,100.0,,2.0
+2121,itacitinib,itacitinib,100.0,,3.0
+2124,denosumab,denosumab,100.0,2010.0,4.0
+2126,st266,st266,100.0,,
+2131,rifapentine,rifapentine,100.0,1998.0,4.0
+2133,xanomeline tartrate,xanomeline,100.0,,1.0
+2134,trospium chloride,trospium,100.0,2004.0,4.0
+2139,regadenoson,regadenoson,100.0,,
+2142,tesetaxel plus capecitabine,tesetaxel,100.0,,3.0
+2153,digoxin,digoxin,100.0,1975.0,4.0
+2158,uprosertib,uprosertib,100.0,,2.0
+2161,fenretinide,fenretinide,100.0,,3.0
+2162,fluorescein sodium,fluorescein,100.0,,
+2174,fenofibrate,fenofibrate,100.0,2008.0,4.0
+2175,dolutegravir,dolutegravir,100.0,,
+2176,rlipivirine,rilpivirine,90.9090909090909,2011.0,4.0
+2178,raltegravir,raltegravir,100.0,2007.0,4.0
+2179,burosumab,burosumab,100.0,2018.0,4.0
+2180,defactinib,defactinib,100.0,,2.0
+2182,repaglinide,repaglinide,100.0,1997.0,4.0
+2186,nemtabrutinib,nemtabrutinib,100.0,,3.0
+2187,survodutide,survodutide,100.0,,2.0
+2189,ustekinumab,ustekinumab,100.0,2009.0,4.0
+2190,birinapant,birinapant,100.0,,2.0
+2192,onalespib,onalespib,100.0,,1.0
+2193,arbaclofen,arbaclofen,100.0,,3.0
+2194,pentostatin for injection,pentostatin,100.0,1991.0,4.0
+2195,11(r)-rolipram,(r)-rolipram,92.3076923076923,,
+2196,lcl161,lcl-161,92.3076923076923,,2.0
+2198,gsk2881078,gsk-2881078,95.23809523809523,,
+2199,apd791,apd791,100.0,,2.0
+2204,tegaserod,tegaserod,100.0,2002.0,4.0
+2206,olpasiran,olpasiran,100.0,,3.0
+2212,ruboxistaurin,ruboxistaurin,100.0,,3.0
+2221,dextofisopam,dextofisopam,100.0,,2.0
+2223,avacopan,avacopan,100.0,2021.0,4.0
+2224,azathioprine,azathioprine,100.0,1968.0,4.0
+2227,azd1656,azd-1656,93.33333333333333,,
+2240,vinblastine,vinblastine,100.0,,
+2244,ranolazine,ranolazine,100.0,,-1.0
+2245,ampreloxetine,ampreloxetine,100.0,,3.0
+2259,obatoclax mesylate,obatoclax,100.0,,
+2263,goserelin,goserelin,100.0,1989.0,4.0
+2264,tecemotide (l-blp25),tecemotide,100.0,,3.0
+2265,abrocitinib,abrocitinib,100.0,2021.0,4.0
+2267,mapracorat,mapracorat,100.0,,3.0
+2268,ipi-549 (eganelisib),ipi-549,100.0,,2.0
+2273,guselkumab,guselkumab,100.0,2017.0,4.0
+2276,0.070 ppm ozone concentration,ozone,100.0,,3.0
+2283,pf-06882961,pf-06882961,100.0,,2.0
+2284,linezolid,linezolid,100.0,2000.0,4.0
+2287,armodafinil,armodafinil,100.0,2007.0,4.0
+2288,epothilone d (kos-862),epothilone d,90.9090909090909,,2.0
+2291,asundexian (bay2433334),asundexian,100.0,,
+2292,ly2886721,ly-2886721,94.73684210526316,,
+2293,entinostat,entinostat,100.0,,3.0
+2297,palifermin,palifermin,100.0,2005.0,4.0
+2306,trilaciclib,trilaciclib,100.0,2021.0,4.0
+2307,tropicamide -phenylephrine  ophthalmic solution (tr/pe),tropicamide,100.0,1960.0,4.0
+2309,phenylephrine  ophthalmic solution (pe),phenylephrine,100.0,1952.0,4.0
+2320,vinflunine,vinflunine,100.0,2009.0,4.0
+2321,akt inhibitor mk2206,mk-2206,92.3076923076923,,
+2322,tamoxifen,tamoxifen,100.0,1977.0,4.0
+2325,ondansetron,ondansetron,100.0,1991.0,4.0
+2327,ceralasertib,ceralasertib,100.0,,3.0
+2332,imetelstat,imetelstat,100.0,,3.0
+2345,lixisenatide (ave0010),lixisenatide,100.0,2013.0,4.0
+2346,retapamulin,retapamulin,100.0,2007.0,4.0
+2355,estriol,estriol,100.0,,
+2362,lonafarnib,lonafarnib,100.0,2020.0,4.0
+2365,macitentan,macitentan,100.0,2010.0,4.0
+2366,selexipag,selexipag,100.0,2015.0,4.0
+2367,blinatumomab,blinatumomab,100.0,2014.0,4.0
+2373,sodium carboxymethylcellulose,carboxymethylcellulose,100.0,,4.0
+2376,pterostilbene  twice daily,pterostilbene,100.0,,
+2377,grape extract,grape,100.0,,4.0
+2388,tolcapone,tolcapone,100.0,1997.0,4.0
+2392,luliconazole solution,luliconazole,100.0,2013.0,4.0
+2403,ttax01,ttax01,100.0,,
+2416,tiotropium + olodaterol,tiotropium,100.0,2004.0,4.0
+2418,olodaterol,olodaterol,100.0,2014.0,4.0
+2430,relacorilant,relacorilant,100.0,,3.0
+2433,semaglutide,semaglutide,100.0,,
+2434,gw468816,gw-468816,94.11764705882352,,
+2436,sulindac,sulindac,100.0,1978.0,4.0
+2449,mepivacaine,mepivacaine,100.0,1960.0,4.0
+2453,pardoprunox,pardoprunox,100.0,,-1.0
+2454,prx-08066,prx-08066,100.0,,2.0
+2457,apalutamide,apalutamide,100.0,2018.0,4.0
+2462,niacin er,niacin,100.0,,4.0
+2463,sap-001,ap-001,92.3076923076923,,-1.0
+2466,clazakizumab,clazakizumab,100.0,,3.0
+2467,rilonacept,rilonacept,100.0,2008.0,4.0
+2470,resiniferatoxin,resiniferatoxin,100.0,,
+2478,erenumab,erenumab,100.0,2018.0,4.0
+2483,pracinostat,pracinostat,100.0,,3.0
+2507,dapansutrile capsules,dapansutrile,100.0,,2.0
+2508,vandetanib,vandetanib,100.0,2011.0,4.0
+2512,e2007 (perampanel),perampanel,90.9090909090909,2012.0,4.0
+2519,talabostat mesylate,talabostat,100.0,,2.0
+2525,olmesartan medoxomil-hydrochlorothiazide,olmesartan,100.0,2002.0,4.0
+2529,fasinumab,fasinumab,100.0,,3.0
+2533,bms-830216,bms-830216,100.0,,1.0
+2534,low tocotrienols group,tocotrienol,95.65217391304348,,
+2536,salmeterol,salmeterol,100.0,1994.0,4.0
+2540,vorasidenib,vorasidenib,100.0,,1.0
+2542,prasugrel,prasugrel,100.0,2009.0,4.0
+2546,eltoprazine,eltoprazine,100.0,,
+2553,alfuzosin (sl770499),alfuzosin,100.0,2003.0,4.0
+2561,gemcabene,gemcabene,100.0,,-1.0
+2564,hdac inhibitor ar-42,ar-42,100.0,,2.0
+2565,gtx-758,gtx-758,100.0,,2.0
+2568,padsevonil,padsevonil,100.0,,3.0
+2574,elezanumab,elezanumab,100.0,,2.0
+2578,xentuzumab,xentuzumab,100.0,,2.0
+2593,cavosonstat,cavosonstat,100.0,,2.0
+2596,terbinafine,terbinafine,100.0,1992.0,4.0
+2603,cemiplimab,cemiplimab,100.0,2018.0,4.0
+2604,satraplatin,satraplatin,100.0,,3.0
+2607,mupirocin intranasal creme,mupirocin,100.0,1995.0,4.0
+2616,pentobarbital,pentobarbital,100.0,1973.0,4.0
+2627,plecanatide,plecanatide,100.0,2017.0,4.0
+2631,d-cycloserine,l-cycloserine,92.3076923076923,,2.0
+2634,alogliptin,alogliptin,100.0,2013.0,4.0
+2635,flutamide (eulexin) and lupron or zoladex,flutamide,100.0,1989.0,4.0
+2640,tolbutamide,tolbutamide,100.0,1961.0,4.0
+2657,fasiglifam (tak-875),fasiglifam,100.0,,3.0
+2658,golimumab /kg iv,golimumab,100.0,2009.0,4.0
+2664,fluoxetine,fluoxetine,100.0,1987.0,4.0
+2665,trx518 monotherapy,trx-518,92.3076923076923,,1.0
+2669,fedratinib pill,fedratinib,100.0,2019.0,4.0
+2670,andecaliximab,andecaliximab,100.0,,3.0
+2672,cangrelor,cangrelor,100.0,2015.0,4.0
+2677,saroglitazar magnesium,saroglitazar,100.0,,3.0
+2683,simeprevir (smv),simeprevir,100.0,2013.0,4.0
+2692,iferanserin,iferanserin,100.0,,3.0
+2693,tizanidine,tizanidine,100.0,1996.0,4.0
+2694,ipamorelin,ipamorelin,100.0,,2.0
+2698,cefdinir for oral suspension /5ml,cefdinir,100.0,1997.0,4.0
+2700,triapine,triapine,100.0,,3.0
+2706,pf-03654746,pf-03654746,100.0,,2.0
+2716,balsalazide disodium,balsalazide,100.0,2000.0,4.0
+2717,cgc-11047 and gemcitabine,cgc-11047,100.0,,2.0
+2727,tapinarof cream,tapinarof,100.0,2022.0,4.0
+2730,sotatercept,sotatercept,100.0,,3.0
+2731,leflunomide,leflunomide,100.0,1998.0,4.0
+2732,tedisamil sesquifumarate,tedisamil,100.0,,
+2735,cranberry powder capsules,cranberry,100.0,,2.0
+2740,apremilast tablet,apremilast,100.0,2014.0,4.0
+2742,elobixibat /day,elobixibat,100.0,,3.0
+2750,st101,st-101,90.9090909090909,,2.0
+2751,a-001,at-001,90.9090909090909,,
+2761,baricitinib,baricitinib,100.0,2017.0,4.0
+2769,camostat,camostat,100.0,,3.0
+2775,glipizide,glipizide,100.0,1984.0,4.0
+2778,lorcaserin,lorcaserin,100.0,2012.0,4.0
+2781,l-arginine,l-arginine,100.0,,
+2784,diclofenac,diclofenac,100.0,1988.0,4.0
+2785,macimorelin,macimorelin,100.0,2017.0,4.0
+2787,abametapir lotion  w/w,abametapir,100.0,2020.0,4.0
+2790,nebivolol,nebivolol,100.0,2007.0,4.0
+2792,quinine,quinine,100.0,2005.0,4.0
+2794,sarilumab,sarilumab,100.0,2017.0,4.0
+2795,suramin,suramin,100.0,,
+2799,imm0306,imm-0306,93.33333333333333,,1.0
+2805,bimagrumab,bimagrumab,100.0,,3.0
+2806,teniposide,teniposide,100.0,1992.0,4.0
+2807,plx8394,plx8394,100.0,,2.0
+2812,topical resiquimod,resiquimod,100.0,,2.0
+2814,sb206  berdazimer,berdazimer,100.0,,3.0
+2815,thymoglobulin,thyroglobulin,92.3076923076923,1982.0,4.0
+2823,gantenerumab,gantenerumab,100.0,,3.0
+2836,ceftobiprole medocaril,ceftobiprole,100.0,,3.0
+2838,thiotepa,thiotepa,100.0,1959.0,4.0
+2845,emixustat hcl tablet,emixustat,100.0,,3.0
+2847,otamixaban (xrp0673),otamixaban,100.0,,3.0
+2859,palovarotene,palovarotene,100.0,2023.0,4.0
+2860,dalantercept,dalantercept,100.0,,3.0
+2862,dexelvucitabine,dexelvucitabine,100.0,,2.0
+2863,polidocanol injectable foam,polidocanol,100.0,2010.0,4.0
+2864,pf-04136309,pf-4136309,95.23809523809523,,
+2872,imiglucerase,imiglucerase,100.0,1994.0,4.0
+2875,lorazepam,lorazepam,100.0,1977.0,4.0
+2877,acamprosate,acamprosate,100.0,2004.0,4.0
+2879,broccoli sprout extract (bse),broccoli,100.0,,
+2881,linaclotide,linaclotide,100.0,2012.0,4.0
+2886,retifanlimab,retifanlimab,100.0,2023.0,4.0
+2892,fingolimod,fingolimod,100.0,2010.0,4.0
+2899,belrestotug.,belrestotug,95.65217391304348,,2.0
+2900,nelistotug,nelistotug,100.0,,2.0
+2901,masitinib,masitinib,100.0,2008.0,4.0
+2902,cpi-006 /kg + soc,cpi-006,100.0,,3.0
+2903,ampicillin,ampicillin,100.0,1965.0,4.0
+2904,amoxicillin,amoxicillin,100.0,,4.0
+2911,lornoxicam,lornoxicam,100.0,,4.0
+2913,umbralisib,umbralisib,100.0,2021.0,4.0
+2926,acetylcholine,acetylcholine,100.0,1973.0,4.0
+2928,clotrimazole,clotrimazole,100.0,1975.0,4.0
+2932,milademetan,milademetan,100.0,,2.0
+2942,tolvaptan,tolvaptan,100.0,2009.0,4.0
+2946,alprazolam orally disintegrating tablets,alprazolam,100.0,1981.0,4.0
+2955,natalizumab,natalizumab,100.0,2004.0,4.0
+2958,azd8529,azd8529,100.0,,
+2959,reproxalap ophthalmic solution (),reproxalap,100.0,,3.0
+2962,gsi-136,gsi-136,100.0,,1.0
+2972,rozerem (ramelteon),ramelteon,90.0,2005.0,4.0
+2976,lanreotide atg,lanreotide,100.0,2007.0,4.0
+2977,viaskin peanut,peanut,100.0,,4.0
+2980,sofosbuvir,sofosbuvir,100.0,2013.0,4.0
+2981,ledipasvir,ledipasvir,100.0,2014.0,4.0
+2991,acc-001 () + qs-21,qs-21,100.0,,3.0
+2998,fremanezumab,fremanezumab,100.0,2018.0,4.0
+2999,bnc105p,bnc105,92.3076923076923,,
+3000,cotadutide,cotadutide,100.0,,2.0
+3008,cohort 1: lubiprostone capsule,lubiprostone,100.0,2006.0,4.0
+3022,ethanol,ethanol,100.0,,4.0
+3041,triciribine,triciribine,100.0,,
+3042,insulin degludec/insulin aspart,insulin degludec,93.75,2013.0,4.0
+3045,tiopronin,tiopronin,100.0,1988.0,4.0
+3049,am-101 0.,amy-101,92.3076923076923,,2.0
+3050,alirocumab,alirocumab,100.0,2015.0,4.0
+3054,rivaroxaban,rivaroxaban,100.0,2008.0,4.0
+3055,brolucizumab ophthalmic solution,brolucizumab,100.0,2019.0,4.0
+3057,pf-04457845,pf-04457845,100.0,,2.0
+3070,lucitanib,lucitanib,100.0,,2.0
+3076,mesdopetam,mesdopetam,100.0,,2.0
+3077,nicotinamide,nicotinamide,100.0,,4.0
+3081,gusacitinib,gusacitinib,100.0,,2.0
+3090,ce-224535,ce-224535,100.0,,2.0
+3093,spironolactone,spironolactone,100.0,1960.0,4.0
+3100,telmisartan,telmisartan,100.0,1998.0,4.0
+3101,oxymorphone hydrochloride (hcl),oxymorphone,100.0,1959.0,4.0
+3110,nelotanserin,nelotanserin,100.0,,2.0
+3115,mepolizumab,mepolizumab,100.0,2015.0,4.0
+3119,oxybutynin,oxybutynin,100.0,1975.0,4.0
+3123,butenafine hcl  (bay1896425),butenafine,100.0,1996.0,4.0
+3124,conivaptan hydrochloride,conivaptan,100.0,2005.0,4.0
+3135,crizanlizumab,crizanlizumab,100.0,2019.0,4.0
+3137,bictegravir,bictegravir,100.0,2018.0,4.0
+3139,ramipril,ramipril,100.0,1991.0,4.0
+3144,cm-4620 injectable emulsion or cm-4620-ie,cm4620,92.3076923076923,,2.0
+3147,td-0903,td-0903,100.0,,2.0
+3150,adavosertib,adavosertib,100.0,,2.0
+3163,norepinephrine,norepinephrine,100.0,,
+3164,metyrapone & oxazepam,metyrapone,100.0,1961.0,4.0
+3165,nb-001,nb-001,100.0,,3.0
+3169,iv tedizolid phosphate,tedizolid,100.0,2014.0,4.0
+3175,elimusertib (bay1895344),elimusertib,100.0,,1.0
+3179,infigratinib,infigratinib,100.0,2021.0,4.0
+3181,carbidopa low-dose,carbidopa,100.0,1975.0,4.0
+3191,flurbiprofen,flurbiprofen,100.0,1986.0,4.0
+3204,sumatriptan succinate tablets,sumatriptan,100.0,1992.0,4.0
+3214,lipotecan,lipotecan,100.0,,2.0
+3215,tesaglitazar,tesaglitazar,100.0,,3.0
+3225,olinciguat,olinciguat,100.0,,2.0
+3227,fermented wheat germ extract (fwge),wheat,100.0,,3.0
+3250,gtb-3550 trike® phase i,gtb-3550,100.0,,
+3254,glatiramer acetate (ga),glatiramer,100.0,1996.0,4.0
+3259,bivalirudin,bivalirudin,100.0,2000.0,4.0
+3267,motavizumab (medi-524),motavizumab,100.0,,3.0
+3268,palivizumab,palivizumab,100.0,1998.0,4.0
+3273,epinephrine 1:200k,epinephrine,100.0,1965.0,4.0
+3285,apricitabine,apricitabine,100.0,,3.0
+3286,pegcetacoplan (apl-2),pegcetacoplan,100.0,2021.0,4.0
+3290,amifampridine phosphate,amifampridine,100.0,2009.0,4.0
+3298,cilengitide,cilengitide,100.0,,3.0
+3301,lurbinectedin,lurbinectedin,100.0,2020.0,4.0
+3315,rozanolixizumab,rozanolixizumab,100.0,2023.0,4.0
+3321,clobazam,clobazam,100.0,2005.0,4.0
+3322,clonazepam,clonazepam,100.0,1975.0,4.0
+3324,alvocidib,alvocidib,100.0,,2.0
+3329,methylnaltrexone,methylnaltrexone,100.0,2008.0,4.0
+3331,perifosine,perifosine,100.0,,3.0
+3332,dutasteride,dutasteride,100.0,2001.0,4.0
+3336,furosemide,furosemide,100.0,1966.0,4.0
+3339,nemolizumab,nemolizumab,100.0,,3.0
+3345,bosentan,bosentan,100.0,2001.0,4.0
+3346,navitoclax,navitoclax,100.0,,-1.0
+3347,dsp107,dsp107,100.0,,
+3351,corticosteroid: betamethasone,betamethasone,100.0,,2.0
+3353,corticosteroid: fludrocortisone,fludrocortisone,100.0,,
+3355,corticosteroid: meprednisone,meprednisone,100.0,,
+3357,corticosteroid: prednisolone,prednisolone,100.0,1973.0,4.0
+3364,efinopegdutide,efinopegdutide,100.0,,2.0
+3367,daxibotulinumtoxina,daxibotulinumtoxina,100.0,2022.0,4.0
+3372,rp-l301,rp-l301,100.0,,
+3378,oxypurinol,oxypurinol,100.0,,4.0
+3381,tpi-287 /m2,tpi-287,100.0,,
+3387,tolperisone hcl (av650),tolperisone,100.0,,3.0
+3393,cefazolin,cefazolin,100.0,1973.0,4.0
+3395,azilsartan medoxomil and amlodipine,amlodipine,100.0,2003.0,4.0
+3401,entacapone (),entacapone,100.0,1999.0,4.0
+3412,mipomersen sodium; warfarin sodium,mipomersen,100.0,2013.0,4.0
+3424,ct-011,ct-011,100.0,,2.0
+3432,irofulven,irofulven,100.0,,3.0
+3434,platinum based chemotherapy,platinum,100.0,,
+3442,amprenavir,amprenavir,100.0,1999.0,4.0
+3443,efavirenz,efavirenz,100.0,1998.0,4.0
+3446,theophylline,theophylline,100.0,1940.0,4.0
+3451,rolapitant,rolapitant,100.0,2015.0,4.0
+3452,granisetron,granisetron,100.0,1993.0,4.0
+3470,nab-sirolimus + lomustine,lomustine,100.0,1976.0,4.0
+3471,nab-sirolimus + marizomib (mrz),marizomib,100.0,,3.0
+3473,pamrevlumab,pamrevlumab,100.0,,3.0
+3475,sub-study: nintedanib,nintedanib,100.0,2014.0,4.0
+3476,diazepam,diazepam,100.0,1963.0,4.0
+3481,sarecycline,sarecycline,100.0,2018.0,4.0
+3485,deferasirox,deferasirox,100.0,2005.0,4.0
+3488,ulevostinag,ulevostinag,100.0,,2.0
+3489,isradipine,isradipine,100.0,1990.0,4.0
+3491,brigatinib,brigatinib,100.0,2017.0,4.0
+3495,fcr + lumiliximab,lumiliximab,100.0,,2.0
+3502,usl311,usl-311,92.3076923076923,,1.0
+3510,exatecan mesylate,exatecan,100.0,,3.0
+3513,dulaglutide,dulaglutide,100.0,2014.0,4.0
+3533,valproic acid and levocarnitine,levocarnitine,100.0,1985.0,4.0
+3540,roxadustat,roxadustat,100.0,2021.0,4.0
+3545,rintatolimod,rintatolimod,100.0,,3.0
+3548,tradipitant,tradipitant,100.0,,3.0
+3550,pegsitacianine,pegsitacianine,100.0,,2.0
+3551,gsk2982772,gsk-2982772,95.23809523809523,,
+3558,cysteamine bitartrate,cysteamine,100.0,1994.0,4.0
+3559,bardoxolone methyl,bardoxolone,100.0,,
+3570,cebranopadol-,cebranopadol,96.0,,3.0
+3581,epigallocatechin-3-gallate (egcg) plus ascorbic acid (vitamin c),epigallocatechin gallate,92.0,,3.0
+3584,phentermine,phentermine,100.0,1959.0,4.0
+3586,gvax,gvax,100.0,,-1.0
+3587,vadadustat,vadadustat,100.0,,4.0
+3601,delgocitinib cream,delgocitinib,100.0,,
+3606,obi-999,obi-999,100.0,,-1.0
+3609,s64315 once a week,s64315,100.0,,1.0
+3612,indinavir sulfate,indinavir,100.0,1996.0,4.0
+3614,sitaxsentan,sitaxentan,95.23809523809523,2006.0,4.0
+3646,droxidopa,droxidopa,100.0,2014.0,4.0
+3660,plerixafor,plerixafor,100.0,,
+3661,dexrazoxane,dexrazoxane,100.0,1995.0,4.0
+3662,rizatriptan,rizatriptan,100.0,1998.0,4.0
+3669,flx475,flx475,100.0,,2.0
+3682,pf-05230907,pf-05230907,100.0,,1.0
+3685,tepotinib,tepotinib,100.0,2021.0,4.0
+3686,remestemcel-l,remestemcel-l,100.0,,3.0
+3693,atamestane,atamestane,100.0,,3.0
+3700,etravirine (intelence),etravirine,100.0,2008.0,4.0
+3702,cefoxitin,cefoxitin,100.0,1978.0,4.0
+3715,fluconazole,fluconazole,100.0,1990.0,4.0
+3716,carbamazepine,carbamazepine,100.0,1968.0,4.0
+3729,glufosfamide,glufosfamide,100.0,,3.0
+3737,gentamicin sulfate,gentamicin,100.0,,
+3739,acipimox,acipimox,100.0,,4.0
+3741,dfd-03 ( tazarotene) lotion,tazarotene,95.23809523809523,1997.0,4.0
+3752,carmoterol (chf 4226),carmoterol,100.0,,2.0
+3753,pf-04634817,pf-04634817,100.0,,2.0
+3767,pantoprazole,pantoprazole,100.0,2000.0,4.0
+3768,glesatinib,glesatinib,100.0,,2.0
+3769,sitravatinib,sitravatinib,100.0,,3.0
+3770,mocetinostat,mocetinostat,100.0,,2.0
+3773,a-101,av-101,90.9090909090909,,3.0
+3777,vixarelimab,vixarelimab,100.0,,2.0
+3778,ephedrine [synonyms: ephedra,ephedrine,100.0,2016.0,4.0
+3789,atazanavir (immediate switch),atazanavir,100.0,2003.0,4.0
+3802,celivarone,celivarone,100.0,,3.0
+3803,amiodarone,amiodarone,100.0,1985.0,4.0
+3810,tolterodine + tamsulosin,tolterodine,100.0,,
+3816,intravenous iclaprim or intravenous linezolid,iclaprim,100.0,,3.0
+3823,standardized turmeric root extract,turmeric,100.0,,3.0
+3825,bromelain,bromelains,94.73684210526316,,4.0
+3827,ly2090314,ly-2090314,94.73684210526316,,2.0
+3830,ags-16c3f,ags-16c3f,100.0,,2.0
+3835,doripenem,doripenem,100.0,2007.0,4.0
+3836,meropenem,meropenem,100.0,1996.0,4.0
+3844,sage  chlorhexidine gluconate cloth patient preoperative skin preparation,sage,100.0,2023.0,4.0
+3845,guanfacine xr 3mgs/daily,guanfacine,100.0,1986.0,4.0
+3847,morab-009 (amatuximab),amatuximab,90.9090909090909,,2.0
+3854,carvedilol mr,carvedilol,100.0,2006.0,4.0
+3855,atenolol,atenolol,100.0,1981.0,4.0
+3856,lisinopril,lisinopril,100.0,1987.0,4.0
+3859,voxelotor,voxelotor,100.0,2019.0,4.0
+3861,trebananib,trebananib,100.0,,3.0
+3867,inhaled pt001,pnt001,90.9090909090909,,
+3888,calcipotriol,calcipotriol,100.0,,
+3891,alefacept,alefacept,100.0,2003.0,4.0
+3899,thc and iomazenil,iomazenil,100.0,,2.0
+3906,apadenoson spect-mpi,apadenoson,100.0,,3.0
+3907,adenosine spect-mpi,adenosine,100.0,,
+3908,inclacumab,inclacumab,100.0,,3.0
+3910,inosine,inosine,100.0,,4.0
+3914,tbx-3400,tbx-3400,100.0,,
+3927,patiromer,patiromer,100.0,,3.0
+3929,otelixizumab infusion plus physician determined standard of care,otelixizumab,100.0,,3.0
+3931,ketotifen,ketotifen,100.0,1999.0,4.0
+3932,naphazoline,naphazoline,100.0,1971.0,4.0
+3933,ptc299,ptc299,100.0,,2.0
+3935,quercetin,quercetin,100.0,,3.0
+3936,curcumin (rqc),curcumin,100.0,,
+3943,permethrin,permethrin,100.0,1986.0,4.0
+3944,romosozumab,romosozumab,100.0,2019.0,4.0
+3945,indacaterol,indacaterol,100.0,2009.0,4.0
+3952,atogepant,atogepant,100.0,2021.0,4.0
+3963,clevidipine,clevidipine,100.0,2008.0,4.0
+3967,oseltamivir (tamiflu),oseltamivir,100.0,1999.0,4.0
+3968,av-001,avb-001,92.3076923076923,,
+3974,tivozanib,tivozanib,100.0,2017.0,4.0
+3993,revusiran (aln-ttrsc),revusiran,100.0,,3.0
+3996,lebrikizumab,lebrikizumab,100.0,,3.0
+4012,pyrimethamine,pyrimethamine,100.0,1953.0,4.0
+4013,netarsudil ophthalmic solution,netarsudil,100.0,2017.0,4.0
+4018,sobi003,sobi-003,93.33333333333333,,1.0
+4019,pegozafermin,pegozafermin,100.0,,3.0
+4020,megestrol acetate,megestrol,100.0,1971.0,4.0
+4023,np10679,np-10679,93.33333333333333,,1.0
+4026,alitretinoin,alitretinoin,100.0,1999.0,4.0
+4027,gebasaxturev iv,gebasaxturev,100.0,,2.0
+4031,ublituximab,ublituximab,100.0,2022.0,4.0
+4033,degarelix,degarelix,100.0,2008.0,4.0
+4034,tezampanel,tezampanel,100.0,,2.0
+4045,mometasone furoate,mometasone,100.0,,-1.0
+4053,menadione topical lotion,menadione,100.0,,4.0
+4060,pelareorep,pelareorep,100.0,,3.0
+4066,ivabradine,ivabradine,100.0,2015.0,4.0
+4073,cx516 (ampalex),cx516,100.0,,
+4092,bermekimab monoclonal antibody,bermekimab,100.0,,3.0
+4119,zibotentan,zibotentan,100.0,,3.0
+4131,oprozomib,oprozomib,100.0,,2.0
+4141,epx-100 (clemizole hydrochloride),clemizole,94.73684210526316,,2.0
+4146,azelastine hydrochloride nasal spray,azelastine,100.0,1996.0,4.0
+4148,levocetirizine,levocetirizine,100.0,2007.0,4.0
+4153,dianhydrogalactitol,dianhydrogalactitol,100.0,,3.0
+4168,anrukinzumab,anrukinzumab,100.0,,2.0
+4187,gevokizumab,gevokizumab,100.0,,3.0
+4191,black raspberry (brb) slurry,raspberry,100.0,,-1.0
+4195,auranofin,auranofin,100.0,1985.0,4.0
+4205,mirabegron,mirabegron,100.0,2012.0,4.0
+4207,atacicept,atacicept,100.0,,3.0
+4210,methacholine,methacholine,100.0,1986.0,4.0
+4213,nabilone,nabilone,100.0,1985.0,4.0
+4219,ixmyelocel-t,ixmyelocel-t,100.0,,3.0
+4224,relamorelin,relamorelin,100.0,,3.0
+4228,tetrahydrouridine,tetrahydrouridine,100.0,,2.0
+4229,ethosuximide,ethosuximide,100.0,1960.0,4.0
+4230,rociletinib,rociletinib,100.0,,3.0
+4238,ompenaclid,ompenaclid,100.0,,2.0
+4240,proflavine,proflavine,100.0,,
+4245,vibegron,vibegron,100.0,2018.0,4.0
+4265,baminercept,baminercept,100.0,,2.0
+4267,brincidofovir,brincidofovir,100.0,2021.0,4.0
+4273,pegcrisantaspase,pegcrisantaspase,100.0,,
+4274,fosbretabulin,fosbretabulin,100.0,,2.0
+4275,daptomycin,daptomycin,100.0,,
+4276,dactinomycin,dactinomycin,100.0,,
+4288,futibatinib,futibatinib,100.0,2022.0,4.0
+4299,ly2623091,ly-2623091,94.73684210526316,,2.0
+4310,sulforaphane,sulforaphane,100.0,,3.0
+4312,xl888,xl-888,90.9090909090909,,1.0
+4316,ligelizumab,ligelizumab,100.0,,3.0
+4322,op-101,orp-101,92.3076923076923,,2.0
+4324,emricasan,emricasan,100.0,,2.0
+4328,psi-352938,psi-352938,100.0,,2.0
+4348,taselisib,taselisib,100.0,,3.0
+4349,ulixacaltamide,ulixacaltamide,100.0,,
+4356,balstilimab (bal),balstilimab,100.0,,3.0
+4358,vs-5584 and vs-6063,vs-5584,100.0,,1.0
+4360,irbesartan,irbesartan,100.0,1997.0,4.0
+4375,clobetasol propionate,clobetasol,100.0,,2.0
+4376,bnc210,bnc-210,92.3076923076923,,2.0
+4377,sunpg18_07 i (tildrakizumab ),tildrakizumab,96.2962962962963,2018.0,4.0
+4380,mk-0777,mk-0777,100.0,,
+4381,hsp90 inhibitor auy922,auy922,100.0,,
+4383,ci-1040,ci-1040,100.0,,2.0
+4384,aminophylline,aminophylline,100.0,1940.0,4.0
+4385,methazolamide,methazolamide,100.0,1959.0,4.0
+4387,amrubicin,amrubicin,100.0,,3.0
+4390,ozanimod,ozanimod,100.0,2020.0,4.0
+4392,vilazodone,vilazodone,100.0,2011.0,4.0
+4398,combination of varlilumab and ipilimumab,varlilumab,100.0,,2.0
+4404,tisagenlecleucel,tisagenlecleucel,100.0,2018.0,4.0
+4405,cohort 1- vs-4718,vs-4718,100.0,,1.0
+4413,avatrombopag,avatrombopag,100.0,2018.0,4.0
+4427,tirofiban hydrochloride (aggrastat®),tirofiban,100.0,1998.0,4.0
+4430,axatilimab,axatilimab,100.0,,2.0
+4431,cvt-427 (zolmitriptan inhalation powder),zolmitriptan,96.0,1997.0,4.0
+4433,talnetant,talnetant,100.0,,2.0
+4435,f-18 (fallypride),fallypride,90.9090909090909,,3.0
+4437,tiratricol,tiratricol,100.0,,
+4455,ulipristal acetate,ulipristal,100.0,,4.0
+4457,belumosudil mesylate,belumosudil,100.0,,
+4459,bms-986004,bms-986094,90.0,,
+4482,pti-801,pti-801,100.0,,
+4484,pegvisomant,pegvisomant,100.0,2002.0,4.0
+4491,tipifarnib,tipifarnib,100.0,,3.0
+4495,botensilimab,botensilimab,100.0,,2.0
+4500,fezolinetant,fezolinetant,100.0,2023.0,4.0
+4501,np2,np2,100.0,,
+4506,aluminum hydroxide adjuvant (alum),aluminium,94.11764705882352,,4.0
+4508,zx008 (fenfluramine hydrochloride),fenfluramine,96.0,1963.0,4.0
+4518,zoliflodacin,zoliflodacin,100.0,,3.0
+4521,mecasermin,mecasermin,100.0,2005.0,4.0
+4528,sulodexide,sulodexide,100.0,,3.0
+4530,snx-5422 plus ibrutinib,snx-5422,100.0,,2.0
+4531,iodine i 124 monoclonal antibody m5a,iodine,100.0,,4.0
+4572,mitomycin c,mitomycin,100.0,,
+4573,abt-072,abt-072,100.0,,2.0
+4574,radezolid,radezolid,100.0,,
+4576,abaloparatide,abaloparatide,100.0,2017.0,4.0
+4578,apg-1387 for injection,apg-1387,100.0,,2.0
+4580,aliskiren,aliskiren,100.0,2007.0,4.0
+4581,lanadelumab,lanadelumab,100.0,2018.0,4.0
+4586,pexacerfont,pexacerfont,100.0,,3.0
+4589,briciclib,briciclib,100.0,,2.0
+4590,tanezumab sc,tanezumab,100.0,,3.0
+4595,picoplatin,picoplatin,100.0,,3.0
+4596,engensis,engensis,100.0,,
+4607,semaxanib,semaxanib,100.0,,3.0
+4614,eliglustat,eliglustat,100.0,2014.0,4.0
+4615,ceritinib (ldk378),ceritinib,100.0,2014.0,4.0
+4618,anti-tgf-beta monoclonal antibody sar-439459,sar-439459,100.0,,1.0
+4622,teriparatide,teriparatide,100.0,1987.0,4.0
+4634,verteporfin,verteporfin,100.0,2000.0,4.0
+4635,odiparcil,odiparcil,100.0,,2.0
+4638,deferoxamine mesylate,deferoxamine,100.0,,
+4641,fluvoxamine,fluvoxamine,100.0,1994.0,4.0
+4650,radafaxine,radafaxine,100.0,,-1.0
+4651,immunotherapeutic sb719125 (primary),sb719125,100.0,,
+4674,inclisiran,inclisiran,100.0,,3.0
+4682,drospirenone,drospirenone,100.0,,
+4683,ctx-1301 - dexmethylphenidate,dexmethylphenidate,100.0,2001.0,4.0
+4685,licarbazepine,eslicarbazepine,92.85714285714286,2009.0,4.0
+4687,coti2,coti-2,90.9090909090909,,
+4709,tafamidis,tafamidis,100.0,2011.0,4.0
+4710,agi-134,agi-134,100.0,,1.0
+4716,exisulind,exisulind,100.0,,3.0
+4727,alteplase,alteplase,100.0,1996.0,4.0
+4728,vonoprazan,vonoprazan,100.0,2022.0,4.0
+4729,lansoprazole,lansoprazole,100.0,1995.0,4.0
+4730,upadacitinib,upadacitinib,100.0,2019.0,4.0
+4743,emb-001,emb-01,92.3076923076923,,2.0
+4749,avidin,avidin,100.0,,3.0
+4762,azx100 drug product,azx-100,92.3076923076923,,2.0
+4765,dexlansoprazole,dexlansoprazole,100.0,2009.0,4.0
+4770,fludeoxyglucose f 18,fludeoxyglucose,100.0,1994.0,4.0
+4778,american ginseng,ginseng,100.0,,2.0
+4783,ulocuplumab,ulocuplumab,100.0,,2.0
+4790,lifitegrast,lifitegrast,100.0,2016.0,4.0
+4799,a4250 (odevixibat),odevixibat,90.9090909090909,2021.0,4.0
+4809,oyster mushroom,oyster,100.0,2006.0,4.0
+4818,granulated mesalamine,mesalazine,90.0,1987.0,4.0
+4823,brivanib,brivanib,100.0,,3.0
+4828,cladribine,cladribine,100.0,1993.0,4.0
+4831,ezabenlimab,ezabenlimab,100.0,,2.0
+4833,lycopene,lycopene,100.0,,3.0
+4834,taspoglutide,taspoglutide,100.0,,3.0
+4843,velusetrag,velusetrag,100.0,,2.0
+4845,plitidepsin,plitidepsin,100.0,,3.0
+4851,crenezumab,crenezumab,100.0,,3.0
+4853,qr-1123,qr-1123,100.0,,
+4854,asp8731,asp-8731,93.33333333333333,,
+4870,dasotraline,dasotraline,100.0,,3.0
+4872,nitrogen,nitrogen,100.0,2015.0,4.0
+4882,bisacodyl,bisacodyl,100.0,2004.0,4.0
+4886,etrumadenant,etrumadenant,100.0,,2.0
+4892,asparaginase,asparagine,90.9090909090909,,-1.0
+4921,spartalizumab,spartalizumab,100.0,,3.0
+4935,remdesivir,remdesivir,100.0,,
+4941,pentamidine,pentamidine,100.0,,
+4947,talampanel,talampanel,100.0,,2.0
+4952,verinurad,verinurad,100.0,,2.0
+4955,cycloserine,cycloserine,100.0,1964.0,4.0
+4956,nifedipine,nifedipine,100.0,,
+4957,lirilumab,lirilumab,100.0,,2.0
+4958,urelumab,urelumab,100.0,,2.0
+4966,gsk376501,gsk-376501,94.73684210526316,,1.0
+4969,sapacitabine,sapacitabine,100.0,,3.0
+4977,faldaprevir,faldaprevir,100.0,,-1.0
+4985,gcs-100,gcs-100,100.0,,
+4990,pf-04991532,pf-04991532,100.0,,2.0
+4993,tirbanibulin ointment,tirbanibulin,100.0,,1.0
+5001,tislelizumab,tislelizumab,100.0,,4.0
+5002,d-amphetamine,amphetamine,91.66666666666666,1955.0,4.0
+5010,bifeprunox,bifeprunox,100.0,,3.0
+5013,sta-9090 (ganetespib),ganetespib,90.9090909090909,,3.0
+5014,proglumide,proglumide,100.0,,4.0
+5015,sb-509,sb-509,100.0,,
+5021,merotocin,merotocin,100.0,,
+5025,xl999,xl999,100.0,,2.0
+5038,mek162 + raf265,raf-265,92.3076923076923,,2.0
+5041,zilucoplan (ra101495),zilucoplan,100.0,,3.0
+5042,gedatolisib,gedatolisib,100.0,,
+5043,neutral protamine hagedorn (nph) insulin,protamine,100.0,1969.0,4.0
+5047,ptk 787 (vatalanib),vatalanib,90.0,,3.0
+5051,mkc-1,mkc-1,100.0,,
+5059,dalcetrapib (ro4607381),dalcetrapib,100.0,,3.0
+5060,idebenone,idebenone,100.0,2015.0,4.0
+5063,paliperidone er,paliperidone,100.0,2009.0,4.0
+5065,tinzaparin sodium,tinzaparin,100.0,2000.0,4.0
+5066,eptifibatide,eptifibatide,100.0,1998.0,4.0
+5073,colistin and meropenem,colistin,100.0,,
+5078,setmelanotide,setmelanotide,100.0,,
+5084,pb127 for injectable suspension,pb127,100.0,,
+5089,fluciclovine f18,fluciclovine,100.0,2016.0,4.0
+5092,phenytoin (ascoli),phenytoin,100.0,1956.0,4.0
+5098,solanezumab,solanezumab,100.0,,3.0
+5099,orlistat,orlistat,100.0,1999.0,4.0
+5103,outpatient dinoprostone,dinoprostone,100.0,1977.0,4.0
+5107,ibodutant,ibodutant,100.0,,3.0
+5109,amantadine,amantadine,100.0,1968.0,4.0
+5110,seliciclib,seliciclib,100.0,,2.0
+5111,triptorelin,triptorelin,100.0,2000.0,4.0
+5114,desogestrel,desogestrel,100.0,1992.0,4.0
+5140,bumetanide,bumetanide,100.0,1983.0,4.0
+5141,losmapimod  oral tablet,losmapimod,100.0,,3.0
+5154,glofitamab,glofitamab,100.0,2023.0,4.0
+5163,indole-3-carbinol,indole-3-carbinol,100.0,,2.0
+5164,silibinin,silibinin,100.0,,
+5188,bdb001,bdb-001,92.3076923076923,,
+5197,choline magnesium trisalicylate,choline,100.0,,0.5
+5204,cosibelimab,cosibelimab,100.0,,3.0
+5211,hiltonol® (poly-iclc),hiltonol,94.11764705882352,,2.0
+5213,salsalate + dha,salsalate,100.0,,4.0
+5216,somatostatin,somatostatin,100.0,,
+5219,phenazopyridine hydrochloride,phenazopyridine,100.0,1987.0,4.0
+5224,faricimab,faricimab,100.0,2022.0,4.0
+5241,gsk1521498,gsk-1521498,95.23809523809523,,2.0
+5246,rhendostatin,endostatin,90.9090909090909,,3.0
+5247,danoprevir,danoprevir,100.0,,-1.0
+5258,carfentanil,carfentanil,100.0,,-1.0
+5259,reduced glutathione,glutathione,100.0,,
+5260,galinpepimut-s,galinpepimut-s,100.0,,3.0
+5272,nitrates,nitrate,93.33333333333333,,
+5276,abexinostat,abexinostat,100.0,,3.0
+5279,clozapine,clozapine,100.0,,
+5280,amlexanox,amlexanox,100.0,1996.0,4.0
+5285,vt-1161,vt-111,92.3076923076923,,1.0
+5286,brazikumab,brazikumab,100.0,,3.0
+5287,capmatinib,capmatinib,100.0,2020.0,4.0
+5288,trasylol (aprotinin,aprotinin,94.73684210526316,1993.0,4.0
+5290,dn-101 (calcitriol),dyn-101,92.3076923076923,,
+5295,milnacipran,milnacipran,100.0,2009.0,4.0
+5316,probenecid,probenecid,100.0,1951.0,4.0
+5322,relugolix,relugolix,100.0,2019.0,4.0
+5323,17-hydroxyprogesterone caproate  or .,hydroxyprogesterone,92.6829268292683,,
+5331,edotecarin,edotecarin,100.0,,3.0
+5340,posaconazole,posaconazole,100.0,2005.0,4.0
+5345,cmx157,cx157,90.9090909090909,,2.0
+5357,vamikibart,vamikibart,100.0,,2.0
+5358,lampalizumab,lampalizumab,100.0,,3.0
+5360,emapunil,emapunil,100.0,,2.0
+5387,iopamidol,iopamidol,100.0,1985.0,4.0
+5395,demcizumab,demcizumab,100.0,,2.0
+5405,gc5107,gc5107,100.0,,
+5409,edoxaban low dose,edoxaban,100.0,,
+5413,kisspeptin 112-121,kisspeptin,100.0,,2.0
+5415,bms-986120,bms-986012,90.0,,2.0
+5426,tasquinimod,tasquinimod,100.0,,3.0
+5430,tagraxofusp,tagraxofusp,100.0,2018.0,4.0
+5431,glyburide for injection,glyburide,100.0,1984.0,4.0
+5440,ly3499446,ly-3499446,94.73684210526316,,1.0
+5441,famciclovir  tablets,famciclovir,100.0,1994.0,4.0
+5447,ezatiostat hydrochlorine,ezatiostat,100.0,,2.0
+5448,sj733,sj-733,90.9090909090909,,
+5449,cobicistat,cobicistat,100.0,2012.0,4.0
+5450,talaporfin sodium,talaporfin,100.0,,3.0
+5474,metoprolol,metoprolol,100.0,1992.0,4.0
+5481,ppi-1019 (apan),ppi-1019,100.0,,
+5490,edasalonexent,edasalonexent,100.0,,3.0
+5494,hemin,hemin,100.0,,
+5497,pimavanserin,pimavanserin,100.0,2016.0,4.0
+5501,msi-1256f (squalamine lactate),squalamine,95.23809523809523,,3.0
+5504,bomedemstat,bomedemstat,100.0,,1.0
+5505,venglustat gz/sar402671,venglustat,100.0,,3.0
+5513,epinastine nasal spray,epinastine,100.0,2003.0,4.0
+5516,oritavancin,oritavancin,100.0,2014.0,4.0
+5518,micafungin,micafungin,100.0,2005.0,4.0
+5519,liposomal amphotericin b,amphotericin b,92.3076923076923,1964.0,4.0
+5520,stannsoporfin,stannsoporfin,100.0,,3.0
+5535,oblimersen sodium,oblimersen,100.0,,2.0
+5541,elacestrant,elacestrant,100.0,2023.0,4.0
+5542,msx-122,msx-122,100.0,,1.0
+5543,fluocinolone acetonide intravitreal implant,fluocinolone,100.0,1963.0,4.0
+5547,nelipepimut-s plus gm-csf vaccine,nelipepimut-s,100.0,,2.0
+5550,anamorelin hcl,anamorelin,100.0,,3.0
+5551,branebrutinib,branebrutinib,100.0,,2.0
+5556,spinosad (the active ingredient in natrova),spinosad,100.0,,
+5560,selonsertib,selonsertib,100.0,,3.0
+5561,olopatadine  nasal spray,olopatadine,100.0,1996.0,4.0
+5563,deflazacort,deflazacort,100.0,2017.0,4.0
+5566,tilsotolimod,tilsotolimod,100.0,,3.0
+5572,bocidelpar,bocidelpar,100.0,,2.0
+5573,lactobacillus (l.) casei,casein,90.9090909090909,,
+5576,anidulafungin,anidulafungin,100.0,2006.0,4.0
+5577,et140203 autologous t cell product,et140203,100.0,,
+5582,pancrelipase delayed release,pancrelipase,100.0,1996.0,4.0
+5596,tosedostat,tosedostat,100.0,,2.0
+5600,cetrelimab,cetrelimab,100.0,,3.0
+5602,luxsol copper containing cream,copper,100.0,,4.0
+5618,cefepime and tazobactam combination,cefepime,100.0,1996.0,4.0
+5628,vesatolimod,vesatolimod,100.0,,2.0
+5629,nimotuzumab,nimotuzumab,100.0,,3.0
+5637,afamelanotide,afamelanotide,100.0,2014.0,4.0
+5641,civamide (zucapsaicin),zucapsaicin,91.66666666666666,,3.0
+5642,dihydroergotamine,dihydroergotamine,100.0,1946.0,4.0
+5648,ravulizumab,ravulizumab,100.0,2018.0,4.0
+5654,risdiplam,risdiplam,100.0,2020.0,4.0
+5657,luspatercept,luspatercept,100.0,2019.0,4.0
+5668,sapanisertib,sapanisertib,100.0,,
+5669,dextroamphetamine,dextroamphetamine,100.0,1960.0,4.0
+5680,bq-123,bq-123,100.0,,2.0
+5704,pilocarpine hydrochloride,pilocarpine,100.0,,4.0
+5710,risankizumab,risankizumab,100.0,2019.0,4.0
+5714,danirixin  fbe,danirixin,100.0,,2.0
+5733,methylselenocysteine,methylselenocysteine,100.0,,1.0
+5738,mk-0752,mk-0752,100.0,,
+5747,gi-6207 [recombinant saccharomyces cerevisiae-cea (610d)],gi-6207,100.0,,
+5751,somavaratan,somavaratan,100.0,,3.0
+5753,ponatinib,ponatinib,100.0,2012.0,4.0
+5754,pf-07304814,pf-07304814,100.0,,3.0
+5779,gepotidacin,gepotidacin,100.0,,-1.0
+5781,bms-986242,bms-986142,90.0,,2.0
+5787,reldesemtiv,reldesemtiv,100.0,,3.0
+5789,teplizumab herold regimen,teplizumab,100.0,2022.0,4.0
+5798,surufatinib,surufatinib,100.0,,3.0
+5805,gadobutrol (gadovist,gadobutrol,100.0,2011.0,4.0
+5815,incb054329 monotherapy,incb-054329,95.23809523809523,,
+5817,apl-9,apl-9,100.0,,2.0
+5823,alt-801,alt-801,100.0,,2.0
+5824,lovastatin,lovastatin,100.0,,-1.0
+5828,haloperidol,haloperidol,100.0,1986.0,4.0
+5831,tyrosinase peptide,tyrosinase,100.0,,3.0
+5833,uridine,uridine,100.0,,
+5838,avapritinib,avapritinib,100.0,2020.0,4.0
+5843,perflutren lipid microsphere,perflutren,100.0,2001.0,4.0
+5850,iohexol,iohexol,100.0,1985.0,4.0
+5859,luvadaxistat,luvadaxistat,100.0,,2.0
+5863,temoporfin,temoporfin,100.0,2001.0,4.0
+5867,ergocalciferol,ergocalciferol,100.0,1941.0,4.0
+5870,aramchol free acid tablet,aramchol,100.0,,3.0
+5877,rivoceranib,rivoceranib,100.0,,3.0
+5881,mirvetuximab soravtansine,mirvetuximab,100.0,2022.0,4.0
+5887,linagliptin,linagliptin,100.0,,
+5888,econazole nitrate foam,econazole,100.0,1982.0,4.0
+5919,cenerimod,cenerimod,100.0,,3.0
+5933,oral cabotegravir (cab),cabotegravir,100.0,2021.0,4.0
+5945,dronedarone (sr33589),dronedarone,100.0,2009.0,4.0
+5950,gemfibrozil,gemfibrozil,100.0,1981.0,4.0
+5954,midomafetamine,midomafetamine,100.0,,3.0
+5964,mezigdomide,mezigdomide,100.0,,3.0
+5967,bl-1020,bl-1020,100.0,,2.0
+5983,vidofludimus calcium,vidofludimus,100.0,,3.0
+6002,ficlatuzumab,ficlatuzumab,100.0,,2.0
+6010,monocyte derived dcs loaded with krn7000,krn-7000,93.33333333333333,,
+6013,entospletinib,entospletinib,100.0,,3.0
+6023,abbv-cls-7262,abbv-cls-7262,100.0,,2.0
+6041,zidovudine,zidovudine,100.0,,
+6042,edp1815,edp1815,100.0,,
+6049,danazol,danazol,100.0,1976.0,4.0
+6067,vosaroxin,vosaroxin,100.0,,3.0
+6068,pindolol,pindolol,100.0,,
+6069,dantrolene,dantrolene,100.0,1974.0,4.0
+6076,capivasertib,capivasertib,100.0,2023.0,4.0
+6086,hsk3486,hsk-3486,93.33333333333333,,3.0
+6105,apitegromab,apitegromab,100.0,,3.0
+6111,aprocitentan 12.,aprocitentan,100.0,,3.0
+6136,uproleselan,uproleselan,100.0,,3.0
+6147,chlorambucil,chlorambucil,100.0,1957.0,4.0
+6175,sibutramine,sibutramine,100.0,1997.0,4.0
+6187,10ppm oral silver particle,silver,100.0,,4.0
+6202,tezacitabine (fmdc),tezacitabine,100.0,,2.0
+6205,pepinemab + pembrolizumab,pepinemab,100.0,,2.0
+6212,oleclumab,oleclumab,100.0,,3.0
+6216,lemborexant,lemborexant,100.0,2020.0,4.0
+6222,davunetide,davunetide,100.0,,2.0
+6223,ibandronate [bonviva/boniva],ibandronate,100.0,2003.0,4.0
+6231,stage 1 active methylenedioxymethamphetamine,methylenedioxyethamphetamine,98.24561403508771,,
+6238,cilofexor,cilofexor,100.0,,3.0
+6249,fostemsavir,fostemsavir,100.0,2020.0,4.0
+6255,lobeline,lobeline,100.0,,
+6257,ubrogepant,ubrogepant,100.0,2019.0,4.0
+6274,linifanib,linifanib,100.0,,
+6293,orticumab,orticumab,100.0,,2.0
+6310,ganciclovir,ganciclovir,100.0,1989.0,4.0
+6319,valdecoxib,valdecoxib,100.0,2001.0,4.0
+6321,cpo107,cpo-107,92.3076923076923,,
+6323,darunavir  oad,darunavir,100.0,2006.0,4.0
+6328,vilaprisan (bay1002670),vilaprisan,100.0,,3.0
+6329,rapa-201 autologous t cells,rapa-201,100.0,,
+6333,patritumab,patritumab,100.0,,3.0
+6336,pf-05180999,pf-05180999,100.0,,1.0
+6339,histamine,histamine,100.0,2008.0,4.0
+6342,ibalizumab,ibalizumab,100.0,2018.0,4.0
+6376,savolitinib,savolitinib,100.0,,3.0
+6377,umeclidinium,umeclidinium,100.0,2013.0,4.0
+6387,etaracizumab,etaracizumab,100.0,,2.0
+6399,rufinamide,rufinamide,100.0,2007.0,4.0
+6402,reslizumab,reslizumab,100.0,2016.0,4.0
+6409,alpelisib,alpelisib,100.0,2019.0,4.0
+6420,seltorexant,seltorexant,100.0,,
+6423,neomycin,neomycin,100.0,,
+6424,hymecromone (h01),hymecromone,100.0,,2.0
+6432,sunobinop,sunobinop,100.0,,2.0
+6439,mavrilimumab,mavrilimumab,100.0,,2.0
+6441,nitazoxanide,nitazoxanide,100.0,2002.0,4.0
+6448,etomidate () or midazolam (),etomidate,100.0,1982.0,4.0
+6460,trabedersen,trabedersen,100.0,,3.0
+6477,citrate-free mirikizumab,mirikizumab,100.0,2023.0,4.0
+6478,dordaviprone (onc201),dordaviprone,100.0,,3.0
+6479,bq-788,bq-788,100.0,,2.0
+6488,xl019,xl019,100.0,,
+6492,tositumomab,tositumomab,100.0,2003.0,4.0
+6497,glecaprevir + pibrentasvir pediatric formulation,glecaprevir,100.0,2017.0,4.0
+6508,herpes zoster vaccine gsk1437173a,hepes,90.9090909090909,,
+6515,tak-593,tak-593,100.0,,1.0
+6519,ubenimex,ubenimex,100.0,,2.0
+6523,mrx0518,mrx0518,100.0,,
+6538,delafloxacin,delafloxacin,100.0,2017.0,4.0
+6539,fitusiran (sar439774),fitusiran,100.0,,3.0
+6543,galcanezumab,galcanezumab,100.0,2018.0,4.0
+6545,galidesivir,galidesivir,100.0,,
+6547,phe885,phe885,100.0,,
+6560,mexiletine,mexiletine,100.0,1985.0,4.0
+6561,remimazolam,remimazolam,100.0,2020.0,4.0
+6562,tr-701 fa with tyramine,tyramine,100.0,,3.0
+6565,oglemilast,oglemilast,100.0,,2.0
+6571,grn163l in combination with trastuzumab,grn163l,100.0,,3.0
+6576,zagotenemab,zagotenemab,100.0,,2.0
+6582,ponesimod,ponesimod,100.0,2021.0,4.0
+6583,gdc-0349,gdc-0349,100.0,,
+6593,cenderitide,cenderitide,100.0,,2.0
+6603,tobramycin solution for inhalation (tobi),tobramycin,100.0,1975.0,4.0
+6621,nalbuphine hcl er,nalbuphine,100.0,,4.0
+6623,minnelide,minnelide,100.0,,2.0
+6624,rice,rice,100.0,,-1.0
+6626,visilizumab,visilizumab,100.0,,3.0
+6629,s-777469,s-777469,100.0,,2.0
+6644,investigational agent: vl-2397,vl-2397,100.0,,
+6662,obeldesivir,obeldesivir,100.0,,3.0
+6664,laronidase,laronidase,100.0,2003.0,4.0
+6671,fosfomycin disodium,fosfomycin,100.0,1996.0,4.0
+6679,dotarem (gadoterate meglumine),meglumine,94.73684210526316,1985.0,4.0
+6682,rubitecan,rubitecan,100.0,,3.0
+6685,trabodenoson  bid,trabodenoson,100.0,,3.0
+6694,bms-986189,bms-986158,90.0,,1.0
+6698,ispinesib,ispinesib,100.0,,2.0
+6699,gatifloxacin  eye drops,gatifloxacin,100.0,1999.0,4.0
+6705,malg (malathion) treatment,malathion,90.0,1982.0,4.0
+6707,clesrovimab,clesrovimab,100.0,,3.0
+6723,lonapegsomatropin,lonapegsomatropin,100.0,2021.0,4.0
+6734,canfosfamide hydrochloride,canfosfamide,100.0,,3.0
+6739,baxdrostat,baxdrostat,100.0,,
+6747,n-acetylgalactosamine 4-sulfatase,n-acetylglucosamine,90.0,,2.0
+6752,derazantinib low dose range,derazantinib,100.0,,2.0
+6763,thr-184,thr-184,100.0,,2.0
+6780,procarbazine hydrochloride,procarbazine,100.0,1969.0,4.0
+6783,pimasertib capsule (part a),pimasertib,100.0,,2.0
+6811,adagrasib,adagrasib,100.0,2022.0,4.0
+6820,ulimorelin intravenously (iv),ulimorelin,100.0,,3.0
+6824,rivoglitazone,rivoglitazone,100.0,,3.0
+6825,ulixertinib,ulixertinib,100.0,,2.0
+6853,bucillamine,bucillamine,100.0,,3.0
+6865,topical nasal rev131,rev131,100.0,,2.0
+6874,elsubrutinib,elsubrutinib,100.0,,2.0
+6879,rasburicase,rasburicase,100.0,2001.0,4.0
+6903,xanthohumol,xanthohumol,100.0,,
+6904,zanamivir,zanamivir,100.0,,
+6918,lyo avexitide,avexitide,100.0,,3.0
+6920,sun-101  bid eflow (cs) nebulizer,sun-101,100.0,,
+6921,pr104,pr-104,90.9090909090909,,1.0
+6928,caplacizumab,caplacizumab,100.0,2018.0,4.0
+6932,teicoplanin,teicoplanin,100.0,,
+6933,nafcillin,nafcillin,100.0,1965.0,4.0
+6934,oxacillin,oxacillin,100.0,1971.0,4.0
+6935,flucloxacillin,flucloxacillin,100.0,,
+6939,topical vaginal application of uc-781 gel,uc-781,100.0,,1.0
+6940,filgotinib,filgotinib,100.0,2020.0,4.0
+6950,bulevirtide,bulevirtide,100.0,,4.0
+6957,linzagolix tablet,linzagolix,100.0,2022.0,4.0
+6959,ecraprost in lipid emulsion,ecraprost,100.0,,3.0
+6960,mitotane,mitotane,100.0,1970.0,4.0
+6966,favipiravir,favipiravir,100.0,,3.0
+6975,metolazone  + iv diuretics,metolazone,100.0,1973.0,4.0
+6978,burlulipase,burlulipase,100.0,,
+6990,giredestrant,giredestrant,100.0,,3.0
+7000,sodium ferric gluconate complex in sucrose injection,sucrose,100.0,2000.0,4.0
+7001,pimozide,pimozide,100.0,1984.0,4.0
+7018,methylprednisone,methylprednisone,100.0,,
+7019,elvucitabine,elvucitabine,100.0,,2.0
+7023,sar422459,sar422459,100.0,,
+7044,glp-1,rglp-1,90.9090909090909,,2.0
+7049,esterified estrogens 1. and methyltestosterone 2.,methyltestosterone,100.0,1973.0,4.0
+7052,amitriptyline hydrochloride,amitriptyline,100.0,1961.0,4.0
+7060,dfv890,dfv890,100.0,,
+7072,trihexyphenidyl,trihexyphenidyl,100.0,1949.0,4.0
+7074,nitrofurantoin,nitrofurantoin,100.0,1953.0,4.0
+7075,evinacumab,evinacumab,100.0,2021.0,4.0
+7076,afimoxifene,afimoxifene,100.0,,3.0
+7089,stavudine,stavudine,100.0,,
+7091,wu-nk-101,wu-nk-101,100.0,,
+7103,tecovirimat,tecovirimat,100.0,2018.0,4.0
+7118,mechlorethamine,mechlorethamine,100.0,1949.0,4.0
+7119,dacomitinib,dacomitinib,100.0,2018.0,4.0
+7130,camlipixant,camlipixant,100.0,,3.0
+7135,obicetrapib,obicetrapib,100.0,,3.0
+7139,acyline,acyline,100.0,,
+7142,aminocamptothecin,9-aminocamptothecin,94.44444444444444,,
+7152,catridecacog,catridecacog,100.0,2012.0,4.0
+7167,osi-461,osi-461,100.0,,2.0
+7171,agatolimod sodium,agatolimod,100.0,,3.0
+7191,autologous human fibroblasts (azficel-t),azficel-t,90.0,,3.0
+7192,pentoxifylline,pentoxifylline,100.0,1984.0,4.0
+7196,oxcarbazepine,oxcarbazepine,100.0,2000.0,4.0
+7197,tafasitamab,tafasitamab,100.0,2020.0,4.0
+7200,ly3023414,ly-3023414,94.73684210526316,,2.0
+7201,temodar and o6-benzylguanine,6-o-benzylguanine,90.9090909090909,,3.0
+7208,lactulose,lactulose,100.0,1976.0,4.0
+7212,disulfiram,disulfiram,100.0,1951.0,4.0
+7214,meclizine oral tablet,meclizine,100.0,1957.0,4.0
+7225,sirukumab,sirukumab,100.0,,3.0
+7228,aurexis® (tefibazumab),tefibazumab,91.66666666666666,,2.0
+7232,orvepitant maleate,orvepitant,100.0,,2.0
+7239,mosunetuzumab,mosunetuzumab,100.0,2022.0,4.0
+7241,tapentadol ir,tapentadol,100.0,2008.0,4.0
+7244,brinzolamide  + timolol  eye drops,brinzolamide,100.0,1998.0,4.0
+7262,genistein,genistein,100.0,,2.0
+7275,solabegron,solabegron,100.0,,-1.0
+7278,linoleic acid/oleic acid,oleic acid,90.0,,2.0
+7280,berzosertib,berzosertib,100.0,,2.0
+7281,fesoterodine,fesoterodine,100.0,2007.0,4.0
+7298,osi-7904l,osi-7904l,100.0,,2.0
+7316,thyrotropin releasing hormone (trh),thyrotropin,100.0,1953.0,4.0
+7341,nv1020,nv1020,100.0,,
+7346,cyclobenzaprine,cyclobenzaprine,100.0,1977.0,4.0
+7355,ancrod (viprinex),ancrod,100.0,,3.0
+7356,isoflurane,isoflurane,100.0,1979.0,4.0
+7366,ac430,ac-430,90.9090909090909,,1.0
+7367,avenciguat (bi 685509),avenciguat,100.0,,2.0
+7387,abt-751,abt-751,100.0,,
+7388,titanium dioxide (ti02) microfine  alone (formula rv3131a-mv1209),titanium,100.0,2006.0,4.0
+7390,bisoctrizole  alone (formula rv3131a-mv1237),bisoctrizole,100.0,,2.0
+7410,recombinant ephb4-hsa fusion protein,sephb4-hsa,94.73684210526316,,2.0
+7411,suzetrigine,suzetrigine,100.0,,2.0
+7414,gsk2636771,gsk-2636771,95.23809523809523,,2.0
+7419,peramivir,peramivir,100.0,2014.0,4.0
+7448,gamma tocopherol,tocopherol,100.0,,2.0
+7453,acolbifene hydrochloride,acolbifene,100.0,,2.0
+7471,lonigutamab,lonigutamab,100.0,,1.0
+7472,cad106,cad106,100.0,,2.0
+7487,and  clofazimine),clofazimine,95.65217391304348,1986.0,4.0
+7501,rhodamine 6g,rhodamine b,90.0,,
+7513,tinostamustine,tinostamustine,100.0,,2.0
+7514,ph94b nasal spray,ph94b,100.0,,3.0
+7515,naproxcinod  bid,naproxcinod,100.0,,3.0
+7525,eleclazine,eleclazine,100.0,,3.0
+7532,tamibarotene,tamibarotene,100.0,2005.0,4.0
+7535,zio-101 (darinaparsin),darinaparsin,92.3076923076923,,2.0
+7541,filanesib,filanesib,100.0,,2.0
+7549,ly3200882,ly-3200882,94.73684210526316,,1.0
+7551,tba-7371,tba-7371,100.0,,2.0
+7556,gdc-0134 f09 formulation,gdc-0134,100.0,,
+7576,evobrutinib,evobrutinib,100.0,,3.0
+7589,ap1903,ap103,90.9090909090909,,
+7590,poziotinib,poziotinib,100.0,,3.0
+7600,adu-s100,adu-s100,100.0,,
+7633,dorzagliatin,dorzagliatin,100.0,,3.0
+7649,duvelisib,duvelisib,100.0,,
+7655,fondaparinux,fondaparinux,100.0,2001.0,4.0
+7669,kin-3248,kin-3248,100.0,,
+7680,active pregnenolone,pregnenolone,100.0,,3.0
+7681,mizagliflozin,mizagliflozin,100.0,,2.0
+7683,bepotastine besilate,bepotastine,100.0,2009.0,4.0
+7693,liposomal annamycin,annamycin,100.0,,
+7702,fb825 in intravenous route,fb-825,90.9090909090909,,2.0
+7703,bms-690514,bms-690514,100.0,,2.0
+7707,olorofim,olorofim,100.0,,3.0
+7708,intravenous gr270773- phospholipid emulsion,gr270773,94.11764705882352,,
+7709,oxandrolone,oxandrolone,100.0,1964.0,4.0
+7711,loratadine,loratadine,100.0,,
+7728,rav12,rav12,100.0,,2.0
+7730,jnj-42165279 (),jnj-42165279,100.0,,2.0
+7735,esketamine,esketamine,100.0,2019.0,4.0
+7740,promethazine,promethazine,100.0,1951.0,4.0
+7753,sifalimumab,sifalimumab,100.0,,2.0
+7755,(w/v) tempol alcohol-based gel (mts-01),tempol,100.0,,2.0
+7757,semapimod,semapimod,100.0,,2.0
+7762,irx-2,irx-2,100.0,,2.0
+7764,oral tacrine,tacrine,100.0,1993.0,4.0
+7765,lanraplenib,lanraplenib,100.0,,2.0
+7772,emactuzumab,emactuzumab,100.0,,3.0
+7798,ebt-101,et-101,92.3076923076923,,
+7802,cenersen,cenersen,100.0,,2.0
+7815,sufentanil nanotab,sufentanil,100.0,1984.0,4.0
+7817,masoprocol,masoprocol,100.0,1992.0,4.0
+7821,methoxsalen,methoxsalen,100.0,1954.0,4.0
+7824,pf-06700841,pf-06700841,100.0,,
+7833,darolutamide,darolutamide,100.0,2019.0,4.0
+7835,lorlatinib,lorlatinib,100.0,2018.0,4.0
+7839,milvexian,milvexian,100.0,,3.0
+7847,aro-apoc3,aro-apoc3,100.0,,3.0
+7851,mobocertinib,mobocertinib,100.0,2021.0,4.0
+7864,fosaprepitant,fosaprepitant,100.0,2008.0,4.0
+7866,soy isoflavone nutritional supplements,isoflavone,100.0,,
+7891,cn-105,cn-105,100.0,,2.0
+7898,diacerein  ointment,diacerein,100.0,,4.0
+7910,cxa-10,cxa-10,100.0,,2.0
+7912,cudc-101,cudc-101,100.0,,1.0
+7920,nonoxynol-9,nonoxynol-9,100.0,,4.0
+7925,ctx110,ctx110,100.0,,
+7927,ceftibuten,ceftibuten,100.0,1995.0,4.0
+7935,phase i: x-396 (ensartinib),x-396,100.0,,
+7952,patupilone,patupilone,100.0,,
+7956,etrasimod,etrasimod,100.0,2023.0,4.0
+7966,cer-001,cer-001,100.0,,
+7967,fulranumab,fulranumab,100.0,,3.0
+7970,cabiralizumab,cabiralizumab,100.0,,2.0
+7973,serpinpc,serpinpc,100.0,,
+7980,roluperidone,roluperidone,100.0,,3.0
+7983,etokimab,etokimab,100.0,,2.0
+7987,cetrizine,cetirizine,94.73684210526316,1995.0,4.0
+7988,olezarsen,olezarsen,100.0,,3.0
+8008,ginsenoside re,ginsenosides,95.65217391304348,,
+8013,pamiparib,pamiparib,100.0,,
+8014,tipiracil,tipiracil,100.0,2015.0,4.0
+8016,ter-101,tern-101,93.33333333333333,,2.0
+8021,viagenpumatucel-l,viagenpumatucel-l,100.0,,2.0
+8026,enoblituzumab,enoblituzumab,100.0,,2.0
+8043,telaglenastat,telaglenastat,100.0,,1.0
+8050,rimegepant,rimegepant,100.0,2020.0,4.0
+8052,bexicaserin,bexicaserin,100.0,,2.0
+8058,atyr1940,atyr-1940,94.11764705882352,,1.0
+8059,urodilatin (ularitide,ularitide,94.73684210526316,,3.0
+8072,perfosfamide,perfosfamide,100.0,,2.0
+8073,v116517  tablets,v116517,100.0,,
+8080,brensocatib,brensocatib,100.0,,3.0
+8089,phosphorus supplement,phosphorus,100.0,1987.0,4.0
+8092,momelotinib,momelotinib,100.0,2023.0,4.0
+8094,dapivirine 4789,dapivirine,100.0,,3.0
+8096,gti-2040,gti-2040,100.0,,2.0
+8100,aleglitazar,aleglitazar,100.0,,3.0
+8109,istaroxime,istaroxime,100.0,,
+8126,epcoritamab,epcoritamab,100.0,2023.0,4.0
+8127,custirsen sodium,custirsen,100.0,,3.0
+8133,"uk-390,957",uk-390957,94.73684210526316,,2.0
+8137,skl27969,skl-27969,94.11764705882352,,1.0
+8146,dopamine,dopamine,100.0,1974.0,4.0
+8160,tanespimycin,tanespimycin,100.0,,
+8167,daprodustat,daprodustat,100.0,2023.0,4.0
+8179,pf-05175157,pf-05175157,100.0,,2.0
+8185,mibefradil,mibefradil,100.0,1997.0,4.0
+8225,atrasentan,atrasentan,100.0,,3.0
+8234,ly2608204,ly-2608204,94.73684210526316,,2.0
+8247,acoramidis,acoramidis,100.0,,1.0
+8253,siplizumab,siplizumab,100.0,,2.0
+8260,naldemedine,naldemedine,100.0,2017.0,4.0
+8269,rivipansel,rivipansel,100.0,,3.0
+8275,telithromycin,telithromycin,100.0,2001.0,4.0
+8276,maralixibat,maralixibat,100.0,2021.0,4.0
+8279,asciminib,asciminib,100.0,2021.0,4.0
+8280,beraprost sodium modified release,beraprost,100.0,,3.0
+8291,tirasemtiv,tirasemtiv,100.0,,3.0
+8309,enobosarm,enobosarm,100.0,,3.0
+8317,l-phenylalanine mustard,d-phenylalanine,93.33333333333333,,
+8319,muromonab,muromonab,100.0,1986.0,4.0
+8321,peficitinib,peficitinib,100.0,2019.0,4.0
+8331,topical pexiganan cream,pexiganan,100.0,,3.0
+8342,denenicokin,denenicokin,100.0,,2.0
+8351,tezepelumab,tezepelumab,100.0,2021.0,4.0
+8352,condoliase,condoliase,100.0,,3.0
+8353,tesevatinib,tesevatinib,100.0,,3.0
+8361,gdc-0425,gdc-0425,100.0,,
+8365,prx-100,prtx-100,93.33333333333333,,2.0
+8367,ir viloxazine,viloxazine,100.0,2021.0,4.0
+8369,guadecitabine,guadecitabine,100.0,,3.0
+8376,danavorexton,danavorexton,100.0,,2.0
+8382,telavancin,telavancin,100.0,2009.0,4.0
+8390,abrilumab,abrilumab,100.0,,2.0
+8394,zilovertamab vedotin,zilovertamab,100.0,,3.0
+8413,vigabatrin,vigabatrin,100.0,2009.0,4.0
+8452,ecallantide subcutaneous dosing,ecallantide,100.0,2009.0,4.0
+8460,glycine,glycine,100.0,,4.0
+8463,mp-101 (,amp-101,92.3076923076923,,
+8464,opium tincture (ot)),opium,100.0,,3.0
+8470,artesunate ointment,artesunate,100.0,2020.0,4.0
+8471,etripamil ns,etripamil,100.0,,3.0
+8473,galantamine,galantamine,100.0,2001.0,4.0
+8474,travoprost intraocular implant,travoprost,100.0,2001.0,4.0
+8481,krn5500,krn-5500,93.33333333333333,,
+8497,plx-pad,plx-pad,100.0,,1.0
+8498,forodesine,forodesine,100.0,,2.0
+8504,pac-1,pac-1,100.0,,
+8509,peresolimab,peresolimab,100.0,,2.0
+8520,tirapazamine,tirapazamine,100.0,,3.0
+8528,imsidolimab,imsidolimab,100.0,,3.0
+8531,merestinib,merestinib,100.0,,2.0
+8541,varespladib,varespladib,100.0,,3.0
+8551,dalbavancin,dalbavancin,100.0,2014.0,4.0
+8552,cefadroxil,cefadroxil,100.0,1978.0,4.0
+8553,cta018 injection,cta018,100.0,,2.0
+8574,cinacalcet,cinacalcet,100.0,2004.0,4.0
+8580,obp-801,obp-801,100.0,,1.0
+8600,zyesami™ (aviptadil acetate),aviptadil,94.73684210526316,,3.0
+8603,sipuleucel-t,sipuleucel-t,100.0,,4.0
+8608,ocriplasmin,ocriplasmin,100.0,2010.0,4.0
+8641,fisetin,fisetin,100.0,,2.0
+8646,pradigastat (lcq908),pradigastat,100.0,,2.0
+8648,tp-271,tp-271,100.0,,1.0
+8649,perindopril,perindopril,100.0,1993.0,4.0
+8652,tomivosertib (eft-508),tomivosertib,100.0,,2.0
+8664,polyglutamate camptothecin,camptothecin,100.0,,-1.0
+8666,terpinen-4-ol,terpinen-4-ol,100.0,,
+8670,etx2514 and sulbactam,sulbactam,100.0,1986.0,4.0
+8683,azd8418,azd-8418,93.33333333333333,,1.0
+8687,articaine injection,articaine,100.0,,
+8688,relatlimab,relatlimab,100.0,2022.0,4.0
+8694,invac-1,invac-1,100.0,,2.0
+8700,regular insulin + pramlintide,pramlintide,100.0,2005.0,4.0
+8714,aquavan® (fospropofol disodium) injection,fospropofol,95.65217391304348,2008.0,4.0
+8719,palifosfamide,palifosfamide,100.0,,-1.0
+8721,cere-120 (adeno-associated virus serotype 2 [aav2]-neurturin [ntn]),cere-120,100.0,,
+8729,nizatidine (axid),nizatidine,100.0,1988.0,4.0
+8736,etodolac,etodolac,100.0,1991.0,4.0
+8742,paromomycin +gentamicin topical cream,paromomycin,100.0,1969.0,4.0
+8752,labetalol,labetalol,100.0,1984.0,4.0
+8753,desoximetasone  once daily,desoximetasone,100.0,1977.0,4.0
+8760,peppermint oil,peppermint,100.0,,3.0
+8761,coconut oil,coconut,100.0,,4.0
+8770,namilumab,namilumab,100.0,,2.0
+8771,secnidazole,secnidazole,100.0,2017.0,4.0
+8773,vopratelimab,vopratelimab,100.0,,2.0
+8784,sarizotan low dose,sarizotan,100.0,,3.0
+8789,abt-510,abt-510,100.0,,2.0
+8792,balovaptan,balovaptan,100.0,,3.0
+8810,osilodrostat,osilodrostat,100.0,2020.0,4.0
+8818,doxercalciferol,doxercalciferol,100.0,1999.0,4.0
+8826,taribavirin,taribavirin,100.0,,3.0
+8829,xl844,xl844,100.0,,1.0
+8830,galiximab,galiximab,100.0,,3.0
+8844,radioactive iodine-labeled monoclonal antibody omburtamab,omburtamab,100.0,,2.0
+8886,tak-071,tak-071,100.0,,2.0
+8901,ve303,ve303,100.0,,
+8912,hydrogen,hydrogen,100.0,2017.0,4.0
+8924,idasanutlin,idasanutlin,100.0,,3.0
+8943,iniparib,iniparib,100.0,,3.0
+8946,ataciguat (hmr1766),ataciguat,100.0,,2.0
+8963,hypericin,hypericin,100.0,,
+8965,rexlemestrocel-l,rexlemestrocel-l,100.0,,3.0
+8978,tigulixostat,tigulixostat,100.0,,3.0
+8979,nanatinostat in combination with valganciclovir,nanatinostat,100.0,,2.0
+8991,bms-582949,bms-582949,100.0,,2.0
+8995,arhalofenate,arhalofenate,100.0,,2.0
+9019,rocuronium,rocuronium,100.0,1994.0,4.0
+9028,ff-10501-01,ff-10501-01,100.0,,
+9036,quarfloxin,quarfloxin,100.0,,2.0
+9038,biib021,biib021,100.0,,2.0
+9055,abbv-744,abbv-744,100.0,,1.0
+9072,elafin,elafin,100.0,,2.0
+9078,qr-333,qr-333,100.0,,
+9092,udonitrectag,udonitrectag,100.0,,2.0
+9096,spleen tyrosine kinase inhibitor tak-659,tyrosine,100.0,,
+9134,nirsevimab,nirsevimab,100.0,2022.0,4.0
+9137,anx005,anx-005,92.3076923076923,,3.0
+9171,avotermin,avotermin,100.0,,3.0
+9175,iodixanol,iodixanol,100.0,1996.0,4.0
+9179,motrin,morin,90.9090909090909,,
+9182,telotristat etiprate,telotristat,100.0,2017.0,4.0
+9188,gdc-0810,gdc-0810,100.0,,
+9201,larotaxel (rpr109881,larotaxel,100.0,,3.0
+9228,ro6870810,ro-6870810,94.73684210526316,,1.0
+9234,abt-384,abt-384,100.0,,2.0
+9238,pco371,pco-371,92.3076923076923,,1.0
+9269,monalizumab,monalizumab,100.0,,3.0
+9277,dexmecamylamine,dexmecamylamine,100.0,,3.0
+9278,imlunestrant,imlunestrant,100.0,,1.0
+9294,pimodivir,pimodivir,100.0,,-1.0
+9300,ultevursen,ultevursen,100.0,,2.0
+9303,ioforminol 160 mgi/ml,ioforminol,100.0,,2.0
+9306,oteseconazole (vt-1161)  capsule,oteseconazole,100.0,2022.0,4.0
+9319,farletuzumab,farletuzumab,100.0,,3.0
+9329,vabicaserin,vabicaserin,100.0,,2.0
+9338,mb07803,mb-07803,93.33333333333333,,2.0
+9351,cidofovir,cidofovir,100.0,1996.0,4.0
+9363,laquinimod,laquinimod,100.0,,3.0
+9364,tinidazole,tinidazole,100.0,2004.0,4.0
+9385,aeg35156,aeg35156,100.0,,
+9386,pelacarsen,pelacarsen,100.0,,3.0
+9390,abx464,abx-464,92.3076923076923,,3.0
+9391,azd7762,azd-7762,93.33333333333333,,1.0
+9400,caspofungin,caspofungin,100.0,,
+9401,neramexane,neramexane,100.0,,3.0
+9406,a-dmdt390-bisfv(ucht1),a-dmdt390-bisfv(ucht1),100.0,,2.0
+9407,givosiran,givosiran,100.0,,3.0
+9419,fruquintinib,fruquintinib,100.0,2023.0,4.0
+9421,betaine,betaine,100.0,1996.0,4.0
+9423,prazosin,prazosin,100.0,1976.0,4.0
+9424,loteprednol etabonate gel (bid),loteprednol,100.0,,3.0
+9450,basmisanil,basmisanil,100.0,,2.0
+9451,flumazenil and gabapentin,flumazenil,100.0,,
+9455,ensifentrine,ensifentrine,100.0,,3.0
+9482,isoniazid,isoniazid,100.0,1952.0,4.0
+9488,matuzumab,matuzumab,100.0,,2.0
+9494,np-g2-044,np-g2-044,100.0,,1.0
+9500,sevoflurane inhalant product,sevoflurane,100.0,1995.0,4.0
+9507,buckwheat honey,buckwheat,100.0,,
+9511,carlumab,carlumab,100.0,,2.0
+9532,ly2874455,ly-2874455,94.73684210526316,,1.0
+9536,miglustat  oral capsule,miglustat,100.0,,
+9537,samalizumab,samalizumab,100.0,,2.0
+9550,lgd-6972 solution,lgd-6972,100.0,,2.0
+9554,laromustine,laromustine,100.0,,3.0
+9558,gi-5005,gi-5005,100.0,,
+9584,rp-l201,rp-l201,100.0,,
+9593,ombrabulin (ave8062),ombrabulin,100.0,,3.0
+9605,dutogliptin,dutogliptin,100.0,,3.0
+9609,mbl-hcv1,mbl-hcv1,100.0,,2.0
+9622,zinc dtpa,zinc,100.0,2006.0,4.0
+9625,pnb01 fixed dose combination of pipamperone and citalopram,pipamperone,100.0,,3.0
+9632,maplirpacept,maplirpacept,100.0,,2.0
+9633,vorolanib,vorolanib,100.0,,2.0
+9643,gpi-0100,gpi-0100,100.0,,2.0
+9650,piperacillin,piperacillin,100.0,1981.0,4.0
+9653,tzp-102,tzp-102,100.0,,2.0
+9658,hesperidin,hesperidin,100.0,,3.0
+9661,nxn-188,nxn-188,100.0,,
+9669,doxapram hydrochloride,doxapram,100.0,1965.0,4.0
+9672,satralizumab,satralizumab,100.0,2020.0,4.0
+9678,glembatumumab vedotin and cdx-301,cdx-301,100.0,,2.0
+9684,terameprocol (em-1421),terameprocol,100.0,,2.0
+9697,azd8055,azd-8055,93.33333333333333,,1.0
+9722,fosmanogepix,fosmanogepix,100.0,,2.0
+9733,fedovapagon,fedovapagon,100.0,,2.0
+9736,reserpine,reserpine,100.0,1960.0,4.0
+9760,enpatoran low dose,enpatoran,100.0,,2.0
+9769,n-methanocarbathymidine,north-methanocarbathymidine,92.0,,1.0
+9772,apx3330,apx-3330,93.33333333333333,,2.0
+9773,donanemab,donanemab,100.0,,3.0
+9792,arfolitixorin,folitixorin,91.66666666666666,,3.0
+9793,v590,v590,100.0,,
+9795,cdx-1135,cdx-1135,100.0,,1.0
+9805,mas825,mas825,100.0,,2.0
+9847,margetuximab,margetuximab,100.0,2020.0,4.0
+9848,tebotelimab,tebotelimab,100.0,,2.0
+9849,idraparinux sodium,idraparinux,100.0,,3.0
+9851,ss1(dsfv)pe38 - lot 073i0809,ss1(dsfv)-pe38,96.2962962962963,,1.0
+9858,ly377604,ly-377604,94.11764705882352,,
+9863,inavolisib,inavolisib,100.0,,3.0
+9870,tp-05 (lotilaner oral),lotilaner,94.73684210526316,2017.0,4.0
+9895,uv1,uv1,100.0,,
+9902,ged-0507-34-levo,ged-0507-34-levo,100.0,,
+9903,huperzine a,huperzine b,90.0,,
+9912,ciraparantag,ciraparantag,100.0,,2.0
+9914,lerociclib + letrozole or fulvestrant,lerociclib,100.0,,3.0
+9927,ly2181308 sodium,ly2181308,100.0,,2.0
+9936,nemiralisib,nemiralisib,100.0,,-1.0
+9940,etarfolatide (ec20),etarfolatide,100.0,,2.0
+9942,flucytosine,flucytosine,100.0,1971.0,4.0
+9947,molindone,molindone,100.0,1974.0,4.0
+9955,oki-179 + binimetinib,oki-179,100.0,,1.0
+9961,tropifexor (ljn452),tropifexor,100.0,,2.0
+9963,gsk1363089 (foretinib),foretinib,90.0,,2.0
+9964,flotetuzumab,flotetuzumab,100.0,,2.0
+9970,parecoxib sodium/valdecoxib,parecoxib,100.0,2002.0,4.0
+9972,pf-05089771,pf-05089771,100.0,,2.0
+9977,icatibant (),icatibant,100.0,2008.0,4.0
+9978,zabofloxacin,zabofloxacin,100.0,,3.0
+9982,pd-0299685,pd-0299685,100.0,,2.0
+9986,zotiraciclib (tg02),zotiraciclib,100.0,,1.0
+9993,rg4733,rg-4733,92.3076923076923,,
+10029,somatrogon,somatrogon,100.0,2022.0,4.0
+10045,edrecolomab,edrecolomab,100.0,,3.0
+10078,at9283,at9283,100.0,,
+10080,glucosamine,glucosamine,100.0,,
+10083,sgx523 capsules,sgx-523,92.3076923076923,,1.0
+10092,t-62 dose 1,t-62,100.0,,
+10109,vk2809,vk-2809,92.3076923076923,,
+10125,murepavadin,murepavadin,100.0,,3.0
+10127,chloroprocaine,chloroprocaine,100.0,1955.0,4.0
+10128,cynk-001,cynk-001,100.0,,
+10133,tafluprost,tafluprost,100.0,2012.0,4.0
+10142,fluvastatin,fluvastatin,100.0,1993.0,4.0
+10143,cholestyramine,cholestyramine,100.0,1973.0,4.0
+10144,amonafide l-malate,amonafide,100.0,,3.0
+10148,finasteride,finasteride,100.0,,
+10150,aldafermin,aldafermin,100.0,,2.0
+10169,nop-1a,nop-1a,100.0,,0.5
+10174,bromfenac ophthalmic solution,bromfenac,100.0,1997.0,4.0
+10187,cadazolid,cadazolid,100.0,,3.0
+10189,slx-4090,slx-4090,100.0,,2.0
+10192,st-100 (vezocolmitide),stx-100,92.3076923076923,,2.0
+10193,sugammadex,sugammadex,100.0,2015.0,4.0
+10194,pexelizumab in conjunction with cabg,pexelizumab,100.0,,3.0
+10207,lavender and chamomile essential oils,chamomile,100.0,,3.0
+10212,pentazocine,pentazocine,100.0,1967.0,4.0
+10214,inotersen,inotersen,100.0,,4.0
+10215,eplontersen,eplontersen,100.0,,3.0
+10223,darigabat,darigabat,100.0,,2.0
+10242,cetylpyridinium chloride,cetylpyridinium,100.0,,4.0
+10243,otilimab,otilimab,100.0,,3.0
+10246,asimadoline,asimadoline,100.0,,3.0
+10250,lc16m8 smallpox vaccine,lc16m8,100.0,,
+10251,gadopiclenol,gadopiclenol,100.0,2022.0,4.0
+10262,arformoterol,arformoterol,100.0,2006.0,4.0
+10275,kt-333,kt-333,100.0,,
+10287,kava dietary supplement,kava,100.0,,
+10290,talactoferrin alfa,lactoferrin,91.66666666666666,,3.0
+10292,bms955176,bms-955176,94.73684210526316,,2.0
+10300,belzutifan,belzutifan,100.0,2021.0,4.0
+10305,lenzilumab,lenzilumab,100.0,,3.0
+10306,pixantrone (bbr 2778),pixantrone,100.0,,
+10331,trazodone,trazodone,100.0,1981.0,4.0
+10333,amp-224,amp-224,100.0,,1.0
+10337,vidutolimod,vidutolimod,100.0,,2.0
+10343,begelomab,begelomab,100.0,,3.0
+10346,lopinavir,lopinavir,100.0,2000.0,4.0
+10347,refametinib (bay86-9766),refametinib,100.0,,2.0
+10349,d-serine,d-serine,100.0,,3.0
+10350,moexipril,moexipril,100.0,1995.0,4.0
+10363,alvespimycin hydrochloride,alvespimycin,100.0,,
+10371,ep0057,ep0057,100.0,,
+10408,adefovir dipivoxil (adv),adefovir,100.0,2002.0,4.0
+10428,cmx-2043,cmx-2043,100.0,,2.0
+10429,lisofylline,lisofylline,100.0,,2.0
+10432,troriluzole,troriluzole,100.0,,3.0
+10438,aln-ttr02 (patisiran) administered by intravenous (iv) infusion,patisiran,90.0,,4.0
+10445,povidone iodine,povidone,100.0,,4.0
+10447,magic shave powder gold,gold,100.0,,4.0
+10450,raloxifene,raloxifene,100.0,,
+10451,glepaglutide,glepaglutide,100.0,,3.0
+10455,gadoteridol,gadoteridol,100.0,1992.0,4.0
+10464,carbetocin,carbetocin,100.0,,4.0
+10465,baloxavir marboxil,baloxavir,100.0,,2.0
+10467,elinzanetant (bay3427080),elinzanetant,100.0,,3.0
+10481,plamotamab,plamotamab,100.0,,2.0
+10488,agomelatine (ago178c),agomelatine,100.0,2009.0,4.0
+10490,tiragolumab,tiragolumab,100.0,,3.0
+10512,ta-nic,ta-nic,100.0,,
+10522,testolactone,testolactone,100.0,1969.0,4.0
+10541,cep-701 (lestaurtinib),lestaurtinib,92.3076923076923,,
+10552,cts-1027,cts-1027,100.0,,2.0
+10556,apt-1011,apt-101,93.33333333333333,,
+10567,13c-pyruvate 13c-lactate and dichloroacetate,trichloroacetate,90.32258064516128,,
+10572,emicizumab,emicizumab,100.0,2017.0,4.0
+10580,methenamine hippurate 1 g tablet,methenamine,100.0,1967.0,4.0
+10592,vt-1598,vt-1598,100.0,,1.0
+10600,pitavastatin,pitavastatin,100.0,2009.0,4.0
+10613,pf-06291874,pf-06291874,100.0,,2.0
+10632,acitretin,acitretin,100.0,1996.0,4.0
+10633,tildacerfont,tildacerfont,100.0,,2.0
+10637,orismilast modified release tablets,orismilast,100.0,,2.0
+10648,azd0328,azd-0328,93.33333333333333,,2.0
+10650,islatravir,islatravir,100.0,,-1.0
+10660,pf-04447943,pf-04447943,100.0,,2.0
+10698,mavacamten,mavacamten,100.0,2022.0,4.0
+10710,tt301,tt-301,90.9090909090909,,1.0
+10711,ta-cin (arm),ta-cin,100.0,,
+10717,ab-101,avb-101,92.3076923076923,,
+10730,albuvirtide,albuvirtide,100.0,,3.0
+10736,ly2334737,ly-2334737,94.73684210526316,,1.0
+10743,azeliragon,azeliragon,100.0,,3.0
+10758,nx-1207,nx-1207,100.0,,
+10770,sprifermin,sprifermin,100.0,,2.0
+10790,azd1940,azd-1940,93.33333333333333,,
+10793,cdc7-inhibitor (bms-863233),bms-863233,90.9090909090909,,2.0
+10794,avagacestat,avagacestat,100.0,,2.0
+10809,metyrosine,metyrosine,100.0,1979.0,4.0
+10828,sintilimab,sintilimab,100.0,,3.0
+10849,deucravacitinib,deucravacitinib,100.0,2022.0,4.0
+10867,trimethoprim  tablet,trimethoprim,100.0,1995.0,4.0
+10894,fp-1305 (bexmarilimab),bexmarilimab,92.3076923076923,,2.0
+10899,raavrh74.mck.galgt2,raavrh74.mck.galgt2,100.0,,
+10938,envafolimab,envafolimab,100.0,,3.0
+10952,lutein,lutein,100.0,,3.0
+10954,lefamulin,lefamulin,100.0,2019.0,4.0
+10955,eniluracil,eniluracil,100.0,,3.0
+10957,tanfanercept ophthalmic solution,tanfanercept,100.0,,1.0
+10964,gsk1292263,gsk-1292263,95.23809523809523,,2.0
+10976,ly518674,ly-518674,94.11764705882352,,2.0
+10980,piromelatine,piromelatine,100.0,,2.0
+10991,samidorphan,samidorphan,100.0,2021.0,4.0
+10992,pm02734,pm02734,100.0,,
+11000,radioactive xenon-133 scintigraphy (active comparator),xenon-133,100.0,,4.0
+11019,eravacycline,eravacycline,100.0,2018.0,4.0
+11020,avadomide (cc-122),avadomide,100.0,,2.0
+11028,presatovir,presatovir,100.0,,2.0
+11033,bromocriptine,bromocriptine,100.0,,
+11047,betahistine,betahistine,100.0,,4.0
+11049,emraclidine,emraclidine,100.0,,1.0
+11051,pegilodecakin,pegilodecakin,100.0,,3.0
+11087,ozarelix,ozarelix,100.0,,3.0
+11093,molnupiravir,molnupiravir,100.0,,3.0
+11095,xp21279,xp21279,100.0,,
+11097,gimatecan® (st-1481),gimatecan,94.73684210526316,,2.0
+11098,elacytarabine plus idarubicin,elacytarabine,100.0,,3.0
+11108,bms-833923,bms-833923,100.0,,2.0
+11119,avp-786 (d6-dextromethorphan hydrobromide and quinidine sulfate combination),quinidine,100.0,1950.0,4.0
+11135,carrimycin,carrimycin,100.0,,3.0
+11141,sns-032 injection,sns-032,100.0,,1.0
+11143,sasanlimab,sasanlimab,100.0,,3.0
+11145,nirogacestat oral tablet,nirogacestat,100.0,,1.0
+11151,ornithine phenylacetate,ornithine,100.0,,3.0
+11160,tegobuvir (gs-9190),tegobuvir,100.0,,2.0
+11180,rasagiline mesylate,rasagiline,100.0,2006.0,4.0
+11185,pegtarviliase iv,pegtarviliase,100.0,,2.0
+11194,pcs499,pcs-499,92.3076923076923,,2.0
+11208,patidegib topical gel,patidegib,100.0,,2.0
+11228,fluciclatide injection - (ah111585 (f18)),fluciclatide,100.0,,2.0
+11239,dexloxiglumide,dexloxiglumide,100.0,,3.0
+11253,bemcentinib,bemcentinib,100.0,,2.0
+11263,nrx-1074,nrx-1074,100.0,,2.0
+11265,an2718,an-2718,92.3076923076923,,1.0
+11270,mze001,mze001,100.0,,
+11282,sevuparin,sevuparin,100.0,,2.0
+11291,cabergoline,cabergoline,100.0,1996.0,4.0
+11299,efaproxiral,efaproxiral,100.0,,-1.0
+11303,ad-rts-hil-12,ad-rts-hil-12,100.0,,
+11304,veledimex,veledimex,100.0,,2.0
+11321,torsemide,torasemide,94.73684210526316,1993.0,4.0
+11325,vxa-cov2-1,vxa-cov2-1,100.0,,2.0
+11331,apaziquone,apaziquone,100.0,,3.0
+11341,emapalumab,emapalumab,100.0,2018.0,4.0
+11353,perphenazine,perphenazine,100.0,1957.0,4.0
+11358,deslorelin,deslorelin,100.0,2007.0,-1.0
+11382,fosamprenavir,fosamprenavir,100.0,2003.0,4.0
+11385,ulodesine,ulodesine,100.0,,-1.0
+11401,azd1981,azd-1981,93.33333333333333,,2.0
+11403,18f dcfbc,dcfbc,100.0,,0.5
+11408,carotuximab (trc105),carotuximab,100.0,,3.0
+11421,sp-2577 seclidemstat,seclidemstat,100.0,,1.0
+11443,sulfasalazine,sulfasalazine,100.0,1950.0,4.0
+11446,posoleucel (formerly known as alvr105) cells,posoleucel,100.0,,3.0
+11456,rindopepimut (cdx-110) with gm-csf,rindopepimut,100.0,,3.0
+11460,ipragliflozin,ipragliflozin,100.0,2014.0,4.0
+11464,concizumab,concizumab,100.0,,3.0
+11471,lorecivivint,lorecivivint,100.0,,3.0
+11472,bitopertin [ro4917838],bitopertin,100.0,,3.0
+11479,edit-101,edit-101,100.0,,
+11485,nikkomycin z,nikkomycin z,90.9090909090909,,
+11486,ultratracetm iobenguane i 131 imaging,iobenguane,100.0,2018.0,4.0
+11504,aztreonam,aztreonam,100.0,1986.0,4.0
+11512,itolizumab [bmab 600],itolizumab,100.0,,3.0
+11524,dolastatin 10,dopastatin,90.0,,2.0
+11525,racivir,racivir,100.0,,2.0
+11527,cb-103,cb-103,100.0,,2.0
+11533,gallium dotatate,dotatate,100.0,2020.0,4.0
+11537,efpeglenatide sar439977,efpeglenatide,100.0,,3.0
+11541,arzoxifene,arzoxifene,100.0,,2.0
+11545,azd7325,azd-7325,93.33333333333333,,1.0
+11547,oat flour,oat,100.0,,
+11561,bilastine,bilastine,100.0,,4.0
+11602,aticaprant,aticaprant,100.0,,3.0
+11605,env-101 (taladegib),taladegib,90.0,,2.0
+11613,atosiban,atosiban,100.0,2000.0,4.0
+11617,pinometostat,pinometostat,100.0,,2.0
+11625,n6022,n-6022,90.9090909090909,,
+11627,ly2811376,ly-2811376,94.73684210526316,,
+11635,ides® (imlifidase),imlifidase,90.9090909090909,2020.0,4.0
+11645,l-tryptophan supplementation,d-tryptophan,91.66666666666666,,
+11666,calcifediol,calcifediol,100.0,1980.0,4.0
+11676,dorzolamide,dorzolamide,100.0,1994.0,4.0
+11700,ubidecarenone injectable nanosuspension,ubidecarenone,100.0,,3.0
+11704,trk-250,trk-250,100.0,,
+11714,tozuleristide,tozuleristide,100.0,,2.0
+11719,alclometasone cream,alclometasone,100.0,1982.0,4.0
+11722,esmolol,esmolol,100.0,1986.0,4.0
+11732,lumasiran,lumasiran,100.0,,4.0
+11738,alfimeprase,alfimeprase,100.0,,3.0
+11742,gen-001,gen-001,100.0,,
+11743,fasudil hydrochloride,fasudil,100.0,,3.0
+11748,pirtobrutinib,pirtobrutinib,100.0,2023.0,4.0
+11750,ginger,ginger,100.0,,4.0
+11763,carisoprodol sr,carisoprodol,100.0,1959.0,4.0
+11767,crs-207,crs-207,100.0,,
+11769,nerispirdine,nerispirdine,100.0,,2.0
+11772,rvt-101,rvt-3101,93.33333333333333,,
+11773,ridinilazole,ridinilazole,100.0,,3.0
+11774,fidaxomicin,fidaxomicin,100.0,,
+11794,nicardipine hydrochloride,nicardipine,100.0,1988.0,4.0
+11803,amlitelimab dp1,amlitelimab,100.0,,2.0
+11815,bemnifosbuvir (bem)/ruzasvir (rzr) fdc under fasting conditions,bemnifosbuvir,100.0,,3.0
+11833,bevasiranib,bevasiranib,100.0,,3.0
+11842,aldosterone,aldosterone,100.0,,
+11852,ganirelix - early puberty ganirelix visit,ganirelix,100.0,1999.0,4.0
+11855,darusentan,darusentan,100.0,,3.0
+11864,ofloxacin,ofloxacin,100.0,1990.0,4.0
+11866,alvimopan,alvimopan,100.0,2008.0,4.0
+11871,oral cinnamon extract,cinnamon,100.0,,3.0
+11882,primaquine,primaquine,100.0,,
+11886,sar405838,sar-405838,94.73684210526316,,1.0
+11894,saquinavir [invirase],saquinavir,100.0,,
+11899,tu-100,tu-100,100.0,,2.0
+11900,mbx-2982,mbx-2982,100.0,,2.0
+11901,dazucorilant,dazucorilant,100.0,,1.0
+11910,dsm265  sdd granules,dsm-265,92.3076923076923,,2.0
+11914,cs0159 (linafexor),linafexor,90.0,,
+11919,netupitant,netupitant,100.0,2014.0,4.0
+11925,nidufexor,nidufexor,100.0,,2.0
+11938,pegzilarginase,pegzilarginase,100.0,,3.0
+11940,eteplirsen,eteplirsen,100.0,2016.0,4.0
+11941,epi-589,epi-589,100.0,,2.0
+11965,nystatin,nystatin,100.0,1964.0,4.0
+11977,acp-01,acp-015,92.3076923076923,,2.0
+11981,pri-724,pri-724,100.0,,2.0
+11982,ft-1101,ft-1101,100.0,,
+11983,resmetirom,resmetirom,100.0,,3.0
+12003,lifileucel,lifileucel,100.0,,3.0
+12016,a166,a166,100.0,,
+12017,dipyridamole (mg),dipyridamole,100.0,1961.0,4.0
+12026,lanifibranor,lanifibranor,100.0,,3.0
+12029,argatroban,argatroban,100.0,,
+12031,valbenazine,valbenazine,100.0,2017.0,4.0
+12034,2-methoxyestradiol,2-methoxyestradiol,100.0,,2.0
+12045,vamorolone 0./kg/day,vamorolone,100.0,2023.0,4.0
+12056,desmopressin acetate,desmopressin,100.0,1978.0,4.0
+12058,e7820,e-7820,90.9090909090909,,2.0
+12072,cefpodoxime.,cefpodoxime,95.65217391304348,,4.0
+12087,levoketoconazole,levoketoconazole,100.0,2021.0,4.0
+12088,sor-c13,sor-c13,100.0,,1.0
+12101,ferumoxides 11. solution for injection,ferumoxides,100.0,1996.0,4.0
+12106,fx-1006a,fx-1006a,100.0,,2.0
+12109,crolibulin,crolibulin,100.0,,2.0
+12112,elsamitrucin,elsamitrucin,100.0,,2.0
+12116,azd9496,azd-9496,93.33333333333333,,1.0
+12118,oncolytic measles virus encoding thyroidal sodium iodide symporter,iodide,100.0,,-1.0
+12122,sb-743921,sb-743921,100.0,,
+12129,gsk923295,gsk-923295,94.73684210526316,,1.0
+12134,rezafungin for injection,rezafungin,100.0,2023.0,4.0
+12138,ds-2325a,ds-2325a,100.0,,1.0
+12148,ladarixin,ladarixin,100.0,,
+12162,pf-06650833,pf-06650833,100.0,,2.0
+12177,cobitolimod,cobitolimod,100.0,,3.0
+12191,tivanisiran sodium ophthalmic solution,tivanisiran,100.0,,3.0
+12193,(r)-propafenone,(r)-propafenone,100.0,1989.0,4.0
+12194,(s)-propafenone,(s)-propafenone,100.0,,
+12236,aducanumab,aducanumab,100.0,2021.0,4.0
+12251,pm060184,pm-060184,94.11764705882352,,2.0
+12254,nv-5138,nv-5138,100.0,,2.0
+12256,alagebrium (generic: alt-711),alagebrium,100.0,,2.0
+12264,aldoxorubicin hcl,aldoxorubicin,100.0,,3.0
+12265,etbx-011,etbx-011,100.0,,
+12266,etbx-021,etbx-021,100.0,,
+12267,etbx-051,etbx-051,100.0,,
+12268,etbx-061,etbx-061,100.0,,
+12269,gi-4000,gi-4000,100.0,,
+12271,gi-6301,gi-6301,100.0,,
+12303,azd7648,azd-7648,93.33333333333333,,1.0
+12315,remibrutinib,remibrutinib,100.0,,3.0
+12344,glucarpidase,glucarpidase,100.0,2012.0,4.0
+12351,galicaftor,galicaftor,100.0,,2.0
+12352,navocaftor,navocaftor,100.0,,2.0
+12366,tc-6987,tc-6987,100.0,,2.0
+12374,lucinactant delivered via investigational delivery device,lucinactant,100.0,2012.0,4.0
+12377,plant cell expressed recombinant glucocerebrosidase (prgcd),peg-glucocerebrosidase,90.0,,
+12384,carboxyamidotriazole,carboxyamidotriazole,100.0,,3.0
+12385,bbv152,bbv152,100.0,,3.0
+12388,enfuvirtide,enfuvirtide,100.0,,
+12389,carnosine,carnosine,100.0,,2.0
+12403,mavorixafor,mavorixafor,100.0,,3.0
+12404,neflamapimod,neflamapimod,100.0,,2.0
+12413,vb-201,vb-201,100.0,,2.0
+12423,lexatumumab alone,lexatumumab,100.0,,2.0
+12428,nilutamide,nilutamide,100.0,1996.0,4.0
+12429,jnj39758979,jnj-39758979,95.65217391304348,,2.0
+12435,rodatristat ethyl  tablet bid,rodatristat,100.0,,2.0
+12448,bevirimat,bevirimat,100.0,,2.0
+12458,grapiprant,grapiprant,100.0,2018.0,2.0
+12463,elafibranor,elafibranor,100.0,,3.0
+12464,azd3759,azd-3759,93.33333333333333,,
+12466,chinese red yeast rice (cryr),yeast,100.0,,-1.0
+12484,lomitapide,lomitapide,100.0,2012.0,4.0
+12488,sofpironium bromide gel,sofpironium,100.0,,3.0
+12501,efzofitimod /kg,efzofitimod,100.0,,
+12504,iti-214,iti-214,100.0,,2.0
+12507,leuvectin,leuvectin,100.0,,
+12541,apomorphine,apomorphine,100.0,2001.0,4.0
+12542,pridopidine,pridopidine,100.0,,3.0
+12545,eluxadoline,eluxadoline,100.0,2015.0,4.0
+12550,dulanermin,dulanermin,100.0,,2.0
+12557,treosulfan,treosulfan,100.0,2019.0,4.0
+12561,lademirsen (sar339375),lademirsen,100.0,,2.0
+12564,diflunisal,diflunisal,100.0,1982.0,4.0
+12572,80 milligrams nsi-189,nsi-189,100.0,,2.0
+12586,raav1-cb-haat,raav1-cb-haat,100.0,,
+12595,ricolinostat,ricolinostat,100.0,,2.0
+12606,zaleplon  capsules,zaleplon,100.0,1999.0,4.0
+12613,nortriptyline,nortriptyline,100.0,1964.0,4.0
+12618,oregovomab,oregovomab,100.0,,3.0
+12624,mk-8189,mk-8189,100.0,,2.0
+12633,imvotamab,imvotamab,100.0,,2.0
+12652,true test allergens fragrance mix and thimerosol,thimerosal,90.0,,4.0
+12653,nabumetone  tablets,nabumetone,100.0,1991.0,4.0
+12670,px-12,px-12,100.0,,2.0
+12671,setanaxib,setanaxib,100.0,,2.0
+12692,intuvax (inn: ilixadencel),ilixadencel,95.65217391304348,,
+12703,camizestrant,camizestrant,100.0,,3.0
+12726,ima901,ima901,100.0,,
+12733,lb-100 for injection,lb-100,100.0,,2.0
+12735,gs-9191 ointment,gs-9191,100.0,,1.0
+12749,tributyrin,tributyrin,100.0,,1.0
+12750,freeze-dried strawberry powder,strawberry,100.0,,
+12759,zb131,zb131,100.0,,
+12772,ontorpacept (tti-621),ontorpacept,100.0,,2.0
+12773,sinecatechins ointment,sinecatechins,100.0,2006.0,4.0
+12781,ao-176,ao-176,100.0,,
+12810,taurine,taurine,100.0,,4.0
+12829,fluphenazine hcl,fluphenazine,100.0,1967.0,4.0
+12834,deferitazole (disodium salt,deferitazole,100.0,,2.0
+12851,glpg1205,glpg-1205,94.11764705882352,,2.0
+12852,cenicriviroc,cenicriviroc,100.0,,3.0
+12867,motixafortide,motixafortide,100.0,,3.0
+12869,adxs31-164,adxs-31164,90.0,,2.0
+12870,alomfilimab,alomfilimab,100.0,,1.0
+12875,teprotumumab,teprotumumab,100.0,2020.0,4.0
+12881,sgs-742,sgs-742,100.0,,2.0
+12885,cep-1347,cep-1347,100.0,,
+12891,icrucumab,icrucumab,100.0,,2.0
+12893,acapatamab,acapatamab,100.0,,1.0
+12895,sabatolimab,sabatolimab,100.0,,3.0
+12901,nadolol,nadolol,100.0,1979.0,4.0
+12916,cpi-1205,cpi-1205,100.0,,1.0
+12917,bemarituzumab,bemarituzumab,100.0,,3.0
+12922,boceprevir,boceprevir,100.0,,
+12934,sgi-1776,sgi-1776,100.0,,1.0
+12938,bethanechol (),bethanechol,100.0,1948.0,4.0
+12958,the-630,the-630,100.0,,
+12964,oms103hp,oms-103hp,94.11764705882352,,-1.0
+12968,alisporivir,alisporivir,100.0,,3.0
+12994,trimethobenzamide hydrochloride,trimethobenzamide,100.0,1974.0,4.0
+13011,survaxm,survaxm,100.0,,2.0
+13017,trv120027,trv-120027,94.73684210526316,,2.0
+13020,zd6126,zd-6126,92.3076923076923,,2.0
+13030,ave9633,ave9633,100.0,,1.0
+13053,zw25 (zanidatamab),zanidatamab,91.66666666666666,,3.0
+13110,avi-7537,avi-7537,100.0,,1.0
+13118,tonabacase (lsvt-1701),tonabacase,100.0,,
+13127,rilotumumab,rilotumumab,100.0,,3.0
+13131,nacubactam,nacubactam,100.0,,3.0
+13136,activated charcoal and apple juice,apple,100.0,,-1.0
+13184,lanicemine,lanicemine,100.0,,2.0
+13196,dinutuximab,dinutuximab,100.0,2015.0,4.0
+13217,tnp-470,tnp-470,100.0,,
+13256,denufosol tetrasodium (ins37217) intravitreal injection,denufosol,100.0,,3.0
+13263,defibrotide,defibrotide,100.0,,3.0
+13272,secoisolariciresinol,secoisolariciresinol,100.0,,2.0
+13289,cemdisiran,cemdisiran,100.0,,3.0
+13290,pozelimab,pozelimab,100.0,2023.0,4.0
+13300,tecadenoson,tecadenoson,100.0,,
+13308,doravirine (dor),doravirine,100.0,2018.0,4.0
+13310,ganitumab,ganitumab,100.0,,3.0
+13318,bucindolol hydrochloride,bucindolol,100.0,,2.0
+13336,fcr001,fcr001,100.0,,
+13338,scopolamine,scopolamine,100.0,,4.0
+13349,tabalumab auto-injector,tabalumab,100.0,,3.0
+13386,tabelecleucel,tabelecleucel,100.0,2022.0,4.0
+13390,fisogatinib (blu-554),fisogatinib,100.0,,2.0
+13406,bms-908662,bms-908662,100.0,,2.0
+13432,indoximod,indoximod,100.0,,2.0
+13435,epelsiban,epelsiban,100.0,,2.0
+13459,tak-733,tak-733,100.0,,1.0
+13474,cti-1601,cti-1601,100.0,,2.0
+13484,concentrated beet root juice,beet,100.0,,
+13498,aro-ang 3 injection,aro-ang3,93.33333333333333,,3.0
+13506,safinimide 50-/day,safinamide,90.0,2015.0,4.0
+13517,utomilumab,utomilumab,100.0,,3.0
+13536,ino-1001,ino-1001,100.0,,
+13537,guaifenesin,guaifenesin,100.0,2002.0,4.0
+13542,stx107,stx-107,92.3076923076923,,2.0
+13560,carbomer 980 (1146a),carbomer,100.0,,4.0
+13574,codeine,codeine,100.0,1952.0,4.0
+13596,cnp-201,cn-201,92.3076923076923,,
+13597,mol4239,mol-4239,93.33333333333333,,2.0
+13624,phase 1 - oxi4503,oxi-4503,93.33333333333333,,1.0
+13633,azd4547,azd-4547,93.33333333333333,,2.0
+13643,benzocaine infusion into duodenum,benzocaine,100.0,,4.0
+13650,srt2104,srt-2104,93.33333333333333,,2.0
+13658,merimepodib,merimepodib,100.0,,2.0
+13661,pimecrolimus cream,pimecrolimus,100.0,2001.0,4.0
+13673,cefiderocol,cefiderocol,100.0,2019.0,4.0
+13685,cd101 iv,cxd101,90.9090909090909,,2.0
+13690,saredutant succinate (sr48968c),saredutant,100.0,,
+13692,sonidegib,sonidegib,100.0,2015.0,4.0
+13695,lirentelimab (ak002),lirentelimab,100.0,,3.0
+13716,azd9056,azd-9056,93.33333333333333,,2.0
+13720,medi0680 (amp-514),medi0680,100.0,,
+13749,lerodalcibep,lerodalcibep,100.0,,3.0
+13750,galactose,galactose,100.0,,3.0
+13751,bms-754807,bms-754807,100.0,,2.0
+13752,combination of neostigmine and glycopyrrolate,neostigmine,100.0,2013.0,4.0
+13768,nafithromycin,nafithromycin,100.0,,2.0
+13770,citocoline,citicoline,90.0,,3.0
+13771,tenalisib,tenalisib,100.0,,2.0
+13801,pepcan,pecan,90.9090909090909,,
+13813,ripasudil,ripasudil,100.0,,3.0
+13814,oxabact oc5 - oxalobacter formigenes strain hc-1,oxabact,100.0,,
+13819,conatumumab,conatumumab,100.0,,2.0
+13837,budiglimab,budigalimab,95.23809523809523,,2.0
+13850,wve-210201 (suvodirsen),suvodirsen,90.9090909090909,,2.0
+13851,denagliptin (gw823093),denagliptin,100.0,,2.0
+13863,pln-74809,pln-74809,100.0,,2.0
+13873,orforglipron,orforglipron,100.0,,1.0
+13877,opaganib,opaganib,100.0,,2.0
+13886,active: wst-057 4ml ( pirenzepine free base monohydrate) topical solution,pirenzepine,100.0,,-1.0
+13887,plinabulin,plinabulin,100.0,,3.0
+13897,ipratropium bromide  and albuterol sulfate,ipratropium,100.0,1986.0,4.0
+13910,cxa-101/ tazobactam and metronidazole,tazobactam,100.0,,
+13911,batiraxcept,batiraxcept,100.0,,3.0
+13934,bempegaldesleukin,bempegaldesleukin,100.0,,3.0
+13940,"cp-547,632",cp-547632,94.73684210526316,,
+13942,h3b-8800 (rvt-2001),h3b-8800,100.0,,1.0
+13943,zafirlukast,zafirlukast,100.0,1996.0,4.0
+13948,retinoid 9cuab30,9cuab30,100.0,,1.0
+13965,oncolytic adenovirus (serotype 5) - cg0070,cg0070,100.0,,3.0
+13991,ethambutol,ethambutol,100.0,1967.0,4.0
+14000,vitamin k antagonist (warfarin or acenocoumarol) tablets,acenocoumarol,96.2962962962963,,4.0
+14006,phenoxybenzamine,phenoxybenzamine,100.0,1953.0,4.0
+14022,darifenacin,darifenacin,100.0,2004.0,4.0
+14026,vatiquinone,vatiquinone,100.0,,3.0
+14053,nitisinone,nitisinone,100.0,2002.0,4.0
+14055,nnc0114-0006,nnc0114-0006,100.0,,2.0
+14073,bamlanivimab,bamlanivimab,100.0,,3.0
+14081,casirivimab + imdevimab,casirivimab,100.0,,3.0
+14129,pagoclone,pagoclone,100.0,,2.0
+14134,cenobamate,cenobamate,100.0,2020.0,4.0
+14141,[11c] raclopride,raclopride,100.0,,1.0
+14142,ino-4800,ino-4800,100.0,,2.0
+14146,vernakalant injection,vernakalant,100.0,2010.0,4.0
+14153,ht-0712,ht-0712,100.0,,
+14171,bms-813160,bms-813160,100.0,,2.0
+14190,norgestrel 0.,norgestrel,100.0,1968.0,4.0
+14213,99mtechnicium (sestamibi or tetrofosmin),tetrofosmin,95.65217391304348,,3.0
+14216,zotatifin,zotatifin,100.0,,2.0
+14235,ang1005,ang1005,100.0,,3.0
+14254,hm15912,hm15912,100.0,,
+14260,inhaled nebulized milrinone,milrinone,100.0,1987.0,4.0
+14263,crs3123  capsule,crs-3123,93.33333333333333,,2.0
+14270,posiphen,posiphen,100.0,,1.0
+14278,cx-2009,cx-2009,100.0,,2.0
+14287,astx029,astx-029,93.33333333333333,,1.0
+14331,atx01,atx-01,90.9090909090909,,
+14338,human placenta-derived cells pda001- (cenplacel-l),cenplacel-l,91.66666666666666,,2.0
+14371,verubulin,verubulin,100.0,,-1.0
+14387,firsocostat,firsocostat,100.0,,2.0
+14401,erdafitinib,erdafitinib,100.0,2019.0,4.0
+14419,piritrexim,piritrexim,100.0,,-1.0
+14438,leronlimab,leronlimab,100.0,,3.0
+14443,tbi-223 oral suspension,tbi-223,100.0,,
+14454,cgx1321,cgx-1321,93.33333333333333,,
+14455,encorafenib,encorafenib,100.0,2018.0,4.0
+14503,eugenol based zinc oxide and ferric sulfate,eugenol,100.0,,0.5
+14505,os2966,os2966,100.0,,
+14519,vistusertib,vistusertib,100.0,,2.0
+14523,silicon phthalocyanine 4,silicon,100.0,,3.0
+14528,8-chloroadenosine,8-chloroadenosine,100.0,,
+14559,pleconaril,pleconaril,100.0,,2.0
+14585,ctx130,ctx130,100.0,,
+14632,xevinapant,xevinapant,100.0,,3.0
+14638,minoxidil solution,minoxidil,100.0,1979.0,4.0
+14639,alanyl-glutamine,alanyl glutamine,93.75,,3.0
+14652,motolimod,motolimod,100.0,,2.0
+14657,av608,av608,100.0,,
+14660,nomacopan (rva576),nomacopan,100.0,,3.0
+14661,tl-895,tl-895,100.0,,
+14662,orteronel,orteronel,100.0,,3.0
+14678,depemokimab (gsk3511294),depemokimab,100.0,,3.0
+14679,ibudilast,ibudilast,100.0,1989.0,4.0
+14683,elsulfavirine,elsulfavirine,100.0,,1.0
+14697,afegostat tartrate,afegostat,100.0,,2.0
+14699,garlic powder standardized to allicin,garlic,100.0,,3.0
+14717,maltodextrin,maltodextrin,100.0,,4.0
+14719,mapatumumab,mapatumumab,100.0,,2.0
+14726,tricaprilin,tricaprylin,90.9090909090909,,3.0
+14741,triazolam and pentobarbital,triazolam,100.0,1978.0,4.0
+14748,clascoterone  solution,clascoterone,100.0,2020.0,4.0
+14777,feladilimab,feladilimab,100.0,,3.0
+14783,irx5183,irx-5183,93.33333333333333,,
+14789,dolasetron,dolasetron,100.0,1997.0,4.0
+14798,tesamorelin,tesamorelin,100.0,2010.0,4.0
+14815,pegaptanib sodium,pegaptanib,100.0,2004.0,4.0
+14820,noscapine,noscapine,100.0,,-1.0
+14834,ceftolozane,ceftolozane,100.0,2014.0,4.0
+14836,zetomipzomib,zetomipzomib,100.0,,1.0
+14849,axs-12 (reboxetine),reboxetine,90.9090909090909,,
+14878,combretastatin a-4 phosphate + paclitaxel + carboplatin,combretastatin,100.0,,1.0
+14892,futuximab,futuximab,100.0,,3.0
+14893,modotuximab,modotuximab,100.0,,3.0
+14920,pf-04691502,pf-04691502,100.0,,2.0
+14924,atiprimod,atiprimod,100.0,,-1.0
+14929,rthrombin,rhthrombin,94.73684210526316,,
+14935,gw406381,gw-406381,94.11764705882352,,3.0
+14940,get73,get-73,90.9090909090909,,1.0
+14951,figitumumab,figitumumab,100.0,,3.0
+14956,egg oral immunotherapy,egg,100.0,,3.0
+14967,naloxegol,naloxegol,100.0,2014.0,4.0
+14982,kd7040 topical gel,kd7040,100.0,,2.0
+14993,alicaforsen,alicaforsen,100.0,,3.0
+14997,ex-527 (selisistat),selisistat,90.9090909090909,,
+15004,pudexacianinium chloride,pudexacianinium,100.0,,3.0
+15006,gtx-102,gtx-102,100.0,,2.0
+15026,apg-157,apg-157,100.0,,2.0
+15030,methylone,methylone,100.0,,1.0
+15091,antroquinonol,antroquinonol,100.0,,2.0
+15107,intetumumab,intetumumab,100.0,,2.0
+15110,lemzoparlimab,lemzoparlimab,100.0,,3.0
+15112,sn-38 liposome,sn-38,100.0,,
+15119,verdiperstat,verdiperstat,100.0,,3.0
+15123,bb-1701,bb-1701,100.0,,1.0
+15145,isoquercetin,isoquercetin,100.0,,
+15150,tiagabine,tiagabine,100.0,1997.0,4.0
+15166,th-4000 (tarloxotinib),tarloxotinib,92.3076923076923,,
+15171,didanosine,didanosine,100.0,,
+15172,nevirapine,nevirapine,100.0,1996.0,4.0
+15210,favezelimab,favezelimab,100.0,,3.0
+15211,quavonlimab,quavonlimab,100.0,,3.0
+15222,avp-21d9,avp-21d9,100.0,,1.0
+15229,ripretinib,ripretinib,100.0,2020.0,4.0
+15230,ddp225,ddp-225,92.3076923076923,,2.0
+15233,ly3039478,ly-3039478,94.73684210526316,,
+15240,volagidemab,volagidemab,100.0,,2.0
+15280,ty800,ty800,100.0,,
+15286,tibulizumab (ly3090106),tibulizumab,100.0,,2.0
+15288,brm421 ophthalmic solution,brm-421,92.3076923076923,,2.0
+15297,donidalorsen,donidalorsen,100.0,,3.0
+15300,elx-02,elx-02,100.0,,2.0
+15302,metadoxine,metadoxine,100.0,1985.0,4.0
+15303,esuberaprost,esuberaprost,100.0,,3.0
+15304,abiprubart,abiprubart,100.0,,2.0
+15311,fenobam,fenobam,100.0,,2.0
+15314,phylloquinone (k1),phylloquinone,100.0,,4.0
+15315,menatetranone (mk4),menatetrenone,92.3076923076923,,3.0
+15316,plx51107,plx51107,100.0,,1.0
+15319,sincalide,sincalide,100.0,1976.0,4.0
+15320,tg100-115,tg100-115,100.0,,2.0
+15324,razuprotafib subcutaneous solution,razuprotafib,100.0,,2.0
+15349,gsbr-1290 (capsule/tablet),gsbr-1290,100.0,,
+15356,0. pf-04995274,pf-04995274,100.0,,1.0
+15379,fasitibant- low dose,fasitibant,95.23809523809523,,2.0
+15382,eplivanserin (sr46349),eplivanserin,100.0,,-1.0
+15384,trimetrexate glucuronate,trimetrexate,100.0,1993.0,4.0
+15397,mitoglitazone,mitoglitazone,100.0,,2.0
+15400,d-methionine,d-methionine,100.0,,
+15414,trofinetide,trofinetide,100.0,2023.0,4.0
+15417,apc-100,ac-100,92.3076923076923,,
+15420,tryptophan,tryptophan,100.0,,4.0
+15432,pimonidazole,pimonidazole,100.0,,2.0
+15436,av-412,av-412,100.0,,
+15440,dapoxetine,dapoxetine,100.0,,4.0
+15452,opebacan,opebacan,100.0,,2.0
+15463,elnd005 (scyllo-inositol),scyllo-inositol,93.75,,2.0
+15474,cobolimab,cobolimab,100.0,,2.0
+15483,bradykinin,bradykinin,100.0,,
+15513,menthol,menthol,100.0,2008.0,4.0
+15519,trodusquemine (msi-1436),trodusquemine,100.0,,2.0
+15522,reparixin,reparixin,100.0,,3.0
+15528,obi-3424,obi-3424,100.0,,2.0
+15535,fluorometholone  topical ocular steroid,fluorometholone,100.0,1972.0,4.0
+15539,african potato (hypoxis obtusa),potato,100.0,,-1.0
+15544,ly2300559,ly-2300559,94.73684210526316,,2.0
+15556,serine proteinase-1 (serp-1),serine,100.0,,3.0
+15560,onapristone er,onapristone,100.0,,4.0
+15562,abequolixron,abequolixron,100.0,,1.0
+15565,papaverine,papaverine,100.0,,4.0
+15590,lorundrostat dose 1,lorundrostat,100.0,,2.0
+15627,isa101b,isa101b,100.0,,1.0
+15646,topical acetyl hexapeptide-8,hexapeptide-2,92.3076923076923,,
+15650,recifercept,recifercept,100.0,,2.0
+15662,gsk2798745 micronized api without sls and hypermellose (tablet a),gsk2798745,100.0,,2.0
+15667,clenbuterol,clenbuterol,100.0,,4.0
+15685,tilarginine acetate injection intravenous infusion,tilarginine,100.0,,
+15687,zenocutuzumab,zenocutuzumab,100.0,,2.0
+15691,seribantumab,seribantumab,100.0,,2.0
+15702,ft516,ft516,100.0,,
+15717,cantharidin,cantharidin,100.0,2023.0,4.0
+15725,iratumumab,iratumumab,100.0,,2.0
+15728,iseganan hydrochloride,iseganan,100.0,,3.0
+15731,nipocalimab,nipocalimab,100.0,,3.0
+15770,terconazole,terconazole,100.0,,
+15774,azd1386,azd-1386,93.33333333333333,,2.0
+15782,bertilimumab,bertilimumab,100.0,,2.0
+15784,soybean oil soft gel,soybean,100.0,,4.0
+15823,satavaptan,satavaptan,100.0,,3.0
+15865,activated charcoal with sorbitol,sorbitol,100.0,,4.0
+15867,vestipitant,vestipitant,100.0,,2.0
+15882,abbv-011,abbv-011,100.0,,2.0
+15887,ilaprazole,ilaprazole,100.0,,3.0
+15900,auriclosene solution,auriclosene,100.0,,2.0
+15902,suvn-g3031,suvn-g3031,100.0,,2.0
+15909,amuvatinib (mp-470),amuvatinib,100.0,,2.0
+15919,glumetinib,glumetinib,100.0,,2.0
+15932,bbp-671,bbp-671,100.0,,
+15953,tipranavir,tipranavir,100.0,,-1.0
+15968,biotin labeled red blood cells,biotin,100.0,1985.0,4.0
+15997,avtx-803,vtx-803,93.33333333333333,,
+16002,ifetroban sodium,ifetroban,100.0,,2.0
+16016,neosaxitoxin in saline,neosaxitoxin,100.0,,1.0
+16027,telbivudine (ldt),telbivudine,100.0,2006.0,4.0
+16035,mrx-4dp0004,mrx-4dp0004,100.0,,1.0
+16045,vericiguat (bay1021189) (1.),vericiguat,100.0,2021.0,4.0
+16098,lgh447,lgh-447,92.3076923076923,,1.0
+16109,ly2452473,ly-2452473,94.73684210526316,,
+16113,e6201,e-6201,90.9090909090909,,2.0
+16132,5-hydroxytryptophan,2-hydroxy-tryptophan,92.3076923076923,,4.0
+16169,iclepertin,iclepertin,100.0,,3.0
+16173,danaparoid sodium,danaparoid,100.0,1996.0,4.0
+16199,substance p-saporin,substance p,90.0,,
+16206,iopromide  i/ml,iopromide,100.0,1995.0,4.0
+16250,danicamtiv,danicamtiv,100.0,,2.0
+16300,tp-3654,tp-3654,100.0,,1.0
+16314,ecabet ophthalmic solution,ecabet,100.0,,3.0
+16344,ica-105665,ica-105665,100.0,,
+16345,indium in 111 anti-cd45 monoclonal antibody bc8,indium,100.0,1994.0,4.0
+16370,tibolone,tibolone,100.0,,4.0
+16374,etonogestrel contraceptive implant,etonogestrel,100.0,2001.0,4.0
+16376,filibuvir,filibuvir,100.0,,3.0
+16390,bms-986104,bms-986104,100.0,,1.0
+16404,ssr591813l (dianicline),dianicline,90.9090909090909,,3.0
+16408,vintafolide iv bolus,vintafolide,100.0,,3.0
+16425,durlobactam,durlobactam,100.0,2023.0,4.0
+16437,morab-066,morab-066,100.0,,
+16469,tas-117,tas-117,100.0,,2.0
+16474,epetraborole,epetraborole,100.0,,2.0
+16491,isosorbide dinitrate,isosorbide,100.0,1974.0,4.0
+16495,vlx-1005,vlx-1005,100.0,,2.0
+16503,idalopirdine,idalopirdine,100.0,,3.0
+16506,vitamin d + l-cysteine,d-cysteine,90.0,,
+16509,sea-bcma,sea-bcma,100.0,,1.0
+16519,tavapadon,tavapadon,100.0,,3.0
+16521,molidustat (bay 85-3934),molidustat,100.0,,2.0
+16536,sutezolid,sutezolid,100.0,,2.0
+16538,naftifine hydrochloride,naftifine,100.0,1988.0,4.0
+16560,zimberelimab,zimberelimab,100.0,,3.0
+16561,besifloxacin ophthalmic suspension,besifloxacin,100.0,2009.0,4.0
+16563,mezagitamab,mezagitamab,100.0,,2.0
+16582,neurovax,neurovax,100.0,,
+16608,labetuzumab govitecan (lg),labetuzumab,100.0,,2.0
+16610,gsk690693,gsk-690693,94.73684210526316,,1.0
+16612,onl1204 ophthalmic solution,onl-1204,93.33333333333333,,2.0
+16621,ami multistem cells,multistem,100.0,,
+16632,pf-04620110,pf-04620110,100.0,,1.0
+16646,atn-161,atn-161,100.0,,2.0
+16652,ponezumab,ponezumab,100.0,,2.0
+16683,azd7268,azd-7268,93.33333333333333,,2.0
+16697,naquotinib,naquotinib,100.0,,3.0
+16715,cep-9722,cep-9722,100.0,,1.0
+16720,solriamfetol,solriamfetol,100.0,2019.0,4.0
+16723,pitolisant oral tablet,pitolisant,100.0,2019.0,4.0
+16725,betrixaban,betrixaban,100.0,2017.0,4.0
+16726,povorcitinib,povorcitinib,100.0,,3.0
+16743,ertugliflozin,ertugliflozin,100.0,2017.0,4.0
+16744,astegolimab,astegolimab,100.0,,3.0
+16774,evorpacept (alx148),evorpacept,100.0,,2.0
+16798,tranilast,tranilast,100.0,,3.0
+16800,nepadutant,nepadutant,100.0,,2.0
+16813,rebamipide  ophthalmic suspension,rebamipide,100.0,,3.0
+16817,sphingosine kinase-2 inhibitor abc294640,sphingosine,100.0,,
+16881,pf-06835919,pf-06835919,100.0,,2.0
+16885,emerfetamab,emerfetamab,100.0,,1.0
+16888,asenapine,asenapine,100.0,2009.0,4.0
+16905,metreleptin,metreleptin,100.0,2014.0,4.0
+16919,simethicone solution,simethicone,100.0,1996.0,4.0
+16931,ceftazidime,ceftazidime,100.0,1985.0,4.0
+16953,mitapivat,mitapivat,100.0,2022.0,4.0
+16956,lusutrombopag,lusutrombopag,100.0,2018.0,4.0
+16964,talacotuzumab,talacotuzumab,100.0,,2.0
+16966,sonazoid (perflubutane),perflubutane,92.3076923076923,,3.0
+17010,np-120 (ifenprodil),ifenprodil,90.9090909090909,,4.0
+17023,fispemifene once daily for 4 weeks,fispemifene,100.0,,2.0
+17030,ab001 patch,abh001,90.9090909090909,,
+17062,kb105,kb105,100.0,,2.0
+17071,pexidartinib,pexidartinib,100.0,2019.0,4.0
+17075,wp1066,wp-1066,92.3076923076923,,1.0
+17109,abagovomab,abagovomab,100.0,,3.0
+17120,pf-03382792 cohort 1,pf-03382792,100.0,,1.0
+17135,vilobelimab,vilobelimab,100.0,,2.0
+17143,imgn779,imgn779,100.0,,1.0
+17151,volanesorsen,volanesorsen,100.0,,4.0
+17176,brilacidin,brilacidin,100.0,,2.0
+17182,salvinorin a,salvinorin a,90.9090909090909,,1.0
+17192,lecanemab,lecanemab,100.0,2023.0,4.0
+17193,icosabutate,icosabutate,100.0,,2.0
+17210,revefenacin inhalation solution [yupelri],revefenacin,100.0,2018.0,4.0
+17221,tj003234,tj003234,100.0,,2.0
+17237,tonapofylline,tonapofylline,100.0,,3.0
+17240,bradanicline,bradanicline,100.0,,-1.0
+17258,ace393,ace393,100.0,,
+17261,deferiprone dr tablets  (low dosage),deferiprone,100.0,1999.0,4.0
+17272,boserolimab,boserolimab,100.0,,2.0
+17273,mk-4830,mk-4830,100.0,,
+17274,mk-0482,mk-0482,100.0,,
+17279,cyc116,cyc116,100.0,,1.0
+17302,selicrelumab,selicrelumab,100.0,,2.0
+17303,vanucizumab,vanucizumab,100.0,,2.0
+17308,hydroxocobalamin,hydroxocobalamin,100.0,2007.0,4.0
+17317,dl-alpha-tocopherol,dl-alpha-tocopherol,100.0,,
+17322,revumenib,revumenib,100.0,,2.0
+17325,ensartinib,ensartinib,100.0,,3.0
+17332,eo-3021,eo-3021,100.0,,
+17334,sar443122,sar443122,100.0,,2.0
+17335,dcll9718s,dcll-9718s,94.73684210526316,,1.0
+17343,ro5045337,ro-5045337,94.73684210526316,,
+17356,azd7687,azd-7687,93.33333333333333,,1.0
+17362,ct-2584,ct-2584,100.0,,2.0
+17375,acetylated and butyrylated high amylose maize starch,amylose,100.0,,
+17448,gc4419 (avasopasem manganese),avasopasem,95.23809523809523,,3.0
+17501,moxidectin oral product,moxidectin,100.0,2018.0,4.0
+17512,colistimethate sodium,colistimethate,100.0,1970.0,4.0
+17521,col-118 facial gel (1. brimonidine),col-118,100.0,,-1.0
+17531,rofecoxib,rofecoxib,100.0,,
+17542,ser-287,ser-287,100.0,,
+17544,ly2140023,ly2140023,100.0,,1.0
+17546,amibegron (sr58611a),amibegron,100.0,,3.0
+17547,tofersen,tofersen,100.0,2023.0,4.0
+17550,mango juice,mango,100.0,,
+17569,tti-101,tti-101,100.0,,2.0
+17571,neuropeptide y,neuropeptide y,92.3076923076923,,
+17632,udenafil,udenafil,100.0,,3.0
+17644,mivavotinib,mivavotinib,100.0,,2.0
+17646,oral azelaprag (bge-105),azelaprag,100.0,,
+17650,sumanirole,sumanirole,100.0,,
+17651,s-warfarin,(s)-warfarin,90.9090909090909,,
+17664,anagrelide cr,anagrelide,100.0,1997.0,4.0
+17688,aficamten (,aficamten,100.0,,3.0
+17707,opevesostat,opevesostat,100.0,,2.0
+17712,rimexolone,rimexolone,100.0,1994.0,4.0
+17716,edivoxetine,edivoxetine,100.0,,3.0
+17721,ronacaleret ( tablet),ronacaleret,100.0,,-1.0
+17749,progerinin,progerinin,100.0,,2.0
+17753,xl820,xl820,100.0,,2.0
+17759,bacitracin ointment,bacitracin,100.0,1948.0,4.0
+17789,apto-253,apto-253,100.0,,1.0
+17794,cere-110: adeno-associated virus injection surgery,cere-110,94.11764705882352,,
+17801,oral racemic fenoterol,fenoterol,100.0,,4.0
+17802,brilaroxazine,brilaroxazine,100.0,,3.0
+17810,lasofoxifene,lasofoxifene,100.0,2009.0,4.0
+17824,piclozotan,piclozotan,100.0,,2.0
+17840,uracil cream,uracil,100.0,,3.0
+17865,medi6469,medi-6469,94.11764705882352,,2.0
+17866,depatuxizumab mafodotin,depatuxizumab,100.0,,2.0
+17867,omigapil,omigapil,100.0,,2.0
+17880,bbp-711,bbp-711,100.0,,
+17884,cyanocobalamin,cyanocobalamin,100.0,,4.0
+17890,pelitrexol,pelitrexol,100.0,,2.0
+17906,etavopivat,etavopivat,100.0,,2.0
+17909,xanthine oxidase inhibitor,xanthine,100.0,,
+17917,oliceridine,oliceridine,100.0,2020.0,4.0
+17919,pyridoxine,pyridoxine,100.0,1985.0,4.0
+17930,cedirogant,cedirogant,100.0,,2.0
+17978,inositol lower volume,inositol,100.0,,2.0
+18008,latiglutenase,latiglutenase,100.0,,2.0
+18036,medi-547,medi-547,100.0,,1.0
+18070,paltusotine,paltusotine,100.0,,1.0
+18083,sgn-30,sgn-30,100.0,,3.0
+18111,pf-05190457,pf-5190457,95.23809523809523,,2.0
+18133,desflurane,desflurane,100.0,1992.0,4.0
+18140,kos-1584,kos-1584,100.0,,2.0
+18147,gimsilumab,gimsilumab,100.0,,2.0
+18159,osi-027,osi-027,100.0,,2.0
+18167,tru-015,tru-015,100.0,,2.0
+18170,natamycin,natamycin,100.0,1978.0,4.0
+18171,iberdomide,iberdomide,100.0,,3.0
+18188,epigallocatechin gallate (egcg),epigallocatechin,100.0,,
+18195,nip292 tablet,nip-292,92.3076923076923,,
+18204,sonrotoclax,sonrotoclax,100.0,,2.0
+18211,duvoglustat,duvoglustat,100.0,,2.0
+18213,adaptavir (monomeric dapta),dapta,90.9090909090909,,
+18227,bleselumab,bleselumab,100.0,,2.0
+18230,brequinar,brequinar,100.0,,2.0
+18240,melperone hcl,melperone,100.0,,3.0
+18242,low dose of kbp-covid-19,kbp-covid-19,100.0,,2.0
+18250,nimodipine,nimodipine,100.0,,
+18254,mericitabine,mericitabine,100.0,,2.0
+18272,ptr-01,ptr-01,100.0,,
+18273,azd8330,azd-8330,93.33333333333333,,1.0
+18288,itepekimab ai,itepekimab,100.0,,3.0
+18293,zandelisib,zandelisib,100.0,,3.0
+18305,semagacestat,semagacestat,100.0,,
+18308,roniciclib (bay1000394),roniciclib,100.0,,
+18333,fenoldopam,fenoldopam,100.0,,
+18336,albendazole,albendazole,100.0,1996.0,4.0
+18341,xtmab-16 /kg,xtmab-16,100.0,,3.0
+18369,oprelvekin,oprelvekin,100.0,1997.0,4.0
+18381,agt-182,agt-182,100.0,,
+18408,gsk2879552,gsk-2879552,95.23809523809523,,
+18411,cisatracurium + neostigmine,cisatracurium,100.0,1995.0,4.0
+18433,90y ibritumomabtiuxetan,ibritumomab tiuxetan,97.43589743589743,2002.0,4.0
+18469,cinaciguat (bay58-2667),cinaciguat,100.0,,2.0
+18472,cetrorelix  +,cetrorelix,100.0,1999.0,4.0
+18475,thymalfasin,thymalfasin,100.0,,3.0
+18492,fluocinonide cream,fluocinonide,100.0,1971.0,4.0
+18499,divarasib,divarasib,100.0,,1.0
+18516,tnx-201,tn-201,92.3076923076923,,
+18520,cholesterol cream,cholesterol,100.0,,
+18522,lumacaftor plus ivacaftor combination,lumacaftor,100.0,2015.0,4.0
+18524,iowh032,iowh-032,93.33333333333333,,2.0
+18533,cvac,cvac,100.0,,
+18554,kite-222,kite-222,100.0,,
+18572,nm-702 (phosphodiesterase inhibitor),nm-702,100.0,,
+18584,blz945,blz-945,92.3076923076923,,
+18597,methyl-d9-choline,methyl-d9-choline,100.0,,0.5
+18598,lecozotan sr (sra-333),lecozotan,100.0,,3.0
+18617,brivoligide injection /6 ml,brivoligide,100.0,,2.0
+18629,serotonin agonist -,serotonin,100.0,,
+18639,chlorcyclizine hcl,chlorcyclizine,100.0,,1.0
+18642,begacestat,begacestat,100.0,,2.0
+18654,golidocitinib,golidocitinib,100.0,,2.0
+18700,almotriptan malate,almotriptan,100.0,2001.0,4.0
+18703,levomilnacipran er,levomilnacipran,100.0,2013.0,4.0
+18706,tideglusib,tideglusib,100.0,,2.0
+18716,incb052793,incb052793,100.0,,
+18739,itopride,itopride,100.0,,3.0
+18751,carboprost tromethamine,carboprost,100.0,1979.0,4.0
+18757,safingol,safingol,100.0,,2.0
+18767,cts21166 (zpq-21166),cts-21166,94.11764705882352,,
+18771,avid200,avid-200,93.33333333333333,,1.0
+18798,azd8165,azd-8165,93.33333333333333,,1.0
+18800,emibetuzumab,emibetuzumab,100.0,,2.0
+18807,epc2407 (crinobulin),epc2407,100.0,,2.0
+18818,k-134,k-134,100.0,,2.0
+18822,kw-6356,kw-6356,100.0,,1.0
+18829,nov-002,nov-002,100.0,,
+18834,drisapersen,drisapersen,100.0,,3.0
+18844,crisaborole,crisaborole,100.0,2016.0,4.0
+18873,recombinant human porphobilinogen deaminase (porphozym),porphobilinogen,100.0,,
+18887,mgb-bp-3,mgb-bp-3,100.0,,2.0
+18888,alvelestat,alvelestat,100.0,,2.0
+18906,plg0206,plg-0206,93.33333333333333,,1.0
+18915,clazosentan 5 m/h,clazosentan,100.0,,1.0
+18938,tulisokibart,tulisokibart,100.0,,2.0
+18944,unesbulin,unesbulin,100.0,,2.0
+18951,volociximab,volociximab,100.0,,3.0
+18955,intrathecal mafosfamide,mafosfamide,100.0,,2.0
+18961,ranirestat,ranirestat,100.0,,3.0
+18963,leucine,leucine,100.0,,3.0
+18998,nnz-2591,nnz-2591,100.0,,2.0
+19002,afimetoran,afimetoran,100.0,,2.0
+19003,talotrexin ammonium,talotrexin,100.0,,1.0
+19013,idronoxil,idronoxil,100.0,,2.0
+19092,lactose monohydrate powder,lactose,100.0,,3.0
+19150,epicatechin,epicatechin,100.0,,2.0
+19155,asp4058,asp-4058,93.33333333333333,,
+19166,chromoendoscopy (indigo carmine),indigo,92.3076923076923,,3.0
+19175,elranatamab,elranatamab,100.0,2023.0,4.0
+19182,fb-001,fkb-001,92.3076923076923,,
+19210,1 drop of  syl040012 (bamosiran),bamosiran,90.0,,2.0
+19240,mb07811,mb07811,100.0,,2.0
+19242,telitacicept,telitacicept,100.0,,3.0
+19267,vx-765,vx-765,100.0,,
+19280,estetrol monohydrate,estetrol,100.0,2021.0,4.0
+19304,pf-04856884,pf-04856884,100.0,,2.0
+19305,td101,td101,100.0,,
+19306,samarium sm-153 lexidronam + docetaxel,samarium,100.0,,3.0
+19315,activated prothrombin complex concentrate (feiba),prothrombin,100.0,,3.0
+19318,pf-04217903,pf-04217903,100.0,,1.0
+19389,gmi-1359,gmi-1359,100.0,,
+19402,tonabersat,tonabersat,100.0,,2.0
+19425,pvc suppression using flecainide,flecainide,100.0,1985.0,4.0
+19430,pegargiminase,pegargiminase,100.0,,3.0
+19439,"5-methoxy-n,n-dimethyltryptamine succinate salt","5-methoxy-n,n-dimethyltryptamine",100.0,,2.0
+19443,ec-17,ec-17,100.0,,2.0
+19447,he3286,he3286,100.0,,2.0
+19450,tzp-101,tz-101,92.3076923076923,,
+19459,succinylcholine 1 minute after rocuronium pretreatment,succinylcholine,100.0,,
+19475,lff571,lff-571,92.3076923076923,,2.0
+19482,ico-007 intravitreal injection,ico-007,100.0,,
+19493,pomegranate tablet,pomegranate,100.0,,
+19499,segesterone acetate and ethinyl estradiol,segesterone,100.0,2018.0,4.0
+19503,zalutumumab,zalutumumab,100.0,,3.0
+19506,ly2275796,ly2275796,100.0,,
+19515,trimethaphan,trimethaphan,100.0,1982.0,4.0
+19520,bms-741672,bms-741672,100.0,,2.0
+19533,edecesertib,edecesertib,100.0,,2.0
+19535,icariin,icariin,100.0,,3.0
+19554,intravenous fructose challenge,fructose,100.0,,
+19556,5-fluoro-2'-deoxycytidine (fdcyd) + tetrahydrouridine (thu),5-fluoro-2'-deoxycytidine,100.0,,
+19557,levamlodipine,levamlodipine,100.0,2019.0,4.0
+19568,olorinab,olorinab,100.0,,2.0
+19574,difluprednate  ophthalmic emulsion,difluprednate,100.0,,
+19591,deoxyspergualin,deoxyspergualin,100.0,,
+19609,cyproheptadine,cyproheptadine,100.0,1961.0,4.0
+19716,avanafil and enalapril,avanafil,100.0,,
+19781,rtl1000 (recombinant t cell receptor ligand),rtl-1000,93.33333333333333,,
+19816,benserazide only product,benserazide,100.0,,
+19838,cytisine,cytisine,100.0,,3.0
+19862,tetrodotoxin,tetrodotoxin,100.0,,3.0
+19871,rosnilimab,rosnilimab,100.0,,2.0
+19876,alpha-lipoic acid and acetyl-l-carnitine,acetylcarnitine,90.9090909090909,,4.0
+19878,ot-730 ophthalmic solution,ot-730,100.0,,
+19903,triclosan,triclosan,100.0,1997.0,4.0
+19931,exebacase,exebacase,100.0,,3.0
+19975,nedosiran,nedosiran,100.0,2023.0,4.0
+19981,ventaprost (inhaled epoprostenol delivered via a dedicated delivery system),epoprostenol,100.0,1995.0,4.0
+19985,medi3506,medi3506,100.0,,3.0
+20000,jtk-853,jtk-853,100.0,,1.0
+20014,tegavivint,tegavivint,100.0,,2.0
+20063,ls11,ls11,100.0,,
+20106,etelcalcetide,etelcalcetide,100.0,2016.0,4.0
+20113,implitapide,implitapide,100.0,,2.0
+20119,qr-313,qr-313,100.0,,
+20128,ezogabine: usan retigabine (international nonproprietary name),ezogabine,94.73684210526316,2011.0,4.0
+20129,cesium 131,cesium,100.0,,
+20158,eptinezumab,eptinezumab,100.0,2020.0,4.0
+20166,nofazinlimab (cs1003)+lenvatinib,nofazinlimab,100.0,,3.0
+20170,benzonatate -,benzonatate,100.0,1958.0,4.0
+20219,2-deoxyglucose (2dg),2-deoxyglucose,100.0,,
+20232,aqx-1125,aqx-1125,100.0,,3.0
+20243,benfotiamine,benfotiamine,100.0,,3.0
+20245,tsn084,tsn-084,92.3076923076923,,1.0
+20254,ach-0141625 (sovaprevir),sovaprevir,90.9090909090909,,2.0
+20289,iltamiocel,iltamiocel,100.0,,3.0
+20320,subretinally injected retinostat,remetinostat,90.9090909090909,,2.0
+20324,siponimod,siponimod,100.0,2019.0,4.0
+20346,tenapanor,tenapanor,100.0,2019.0,4.0
+20412,tg4010,tg4010,100.0,,2.0
+20437,volinanserin,volinanserin,100.0,,3.0
+20438,difamilast,difamilast,100.0,,3.0
+20456,nalfurafine hydrochloride(mt-9938) 2.,nalfurafine,100.0,2009.0,4.0
+20469,sepofarsen,sepofarsen,100.0,,2.0
+20472,semorinemab,semorinemab,100.0,,2.0
+20473,ciclopirox olamine oral,ciclopirox,100.0,1982.0,4.0
+20481,sq109,sq-109,90.9090909090909,,2.0
+20482,indibulin,indibulin,100.0,,2.0
+20483,selitrectinib (bay2731954) adult tablet,selitrectinib,100.0,,2.0
+20490,rusfertide,rusfertide,100.0,,3.0
+20507,abx196,abx-196,92.3076923076923,,1.0
+20523,mirdametinib (pd-0325901) oral capsule or dispersible tablet,mirdametinib,100.0,,2.0
+20543,alt-2074,alt-2074,100.0,,2.0
+20545,brexanolone,brexanolone,100.0,2019.0,4.0
+20555,berubicin hydrochloride (rta 744),berubicin,100.0,,2.0
+20568,cerc-301,cerc-301,100.0,,
+20574,xl228,xl228,100.0,,1.0
+20583,necuparanib,necuparanib,100.0,,2.0
+20589,hydroxyproline and leucine,hydroxyproline,100.0,,
+20606,bentracimab (pb2452) infusion,bentracimab,100.0,,3.0
+20627,gw810781,gw810781,100.0,,2.0
+20628,indapamide,indapamide,100.0,1983.0,4.0
+20629,zilebesiran,zilebesiran,100.0,,2.0
+20638,lersivirine,lersivirine,100.0,,2.0
+20644,rontalizumab,rontalizumab,100.0,,2.0
+20665,quinagolide,quinagolide,100.0,,
+20673,stro-001,stro-001,100.0,,1.0
+20675,g207,g207,100.0,,
+20683,pyridoxal 5'-phosphate,pyridoxal,100.0,,3.0
+20689,strata 1 cxl-1020,cxl-1020,100.0,,2.0
+20719,ly2584702,ly-2584702,94.73684210526316,,1.0
+20720,quinapril hydrochloride tablets,quinapril,100.0,,
+20745,tas-108,tas-108,100.0,,2.0
+20748,miricorilant,miricorilant,100.0,,2.0
+20774,adh-1,adh-1,100.0,,1.0
+20787,cephalosporin or clindamycin/vancomycin antibiotics..,cephalosporin c,92.85714285714286,,-1.0
+20795,pf-00477736,pf-477736,90.0,,1.0
+20800,go-203-2c,go-203-2c,100.0,,1.0
+20801,terbutaline,terbutaline,100.0,1974.0,4.0
+20804,cortisone,cortisone,100.0,1950.0,4.0
+20836,chlorpheniramine polistirex equivalent to  of chlorpheniramine maleate and hydrocodone polistirex equivalent to  of hydrocodone bitartrate capsule,chlorpheniramine,100.0,,
+20861,anc-501,anc-501,100.0,,2.0
+20880,seletracetam (ucb44212),seletracetam,100.0,,3.0
+20904,reloxaliase,reloxaliase,100.0,,3.0
+20906,plevitrexed,plevitrexed,100.0,,2.0
+20916,telisotuzumab vedotin,telisotuzumab,100.0,,2.0
+20943,brostallicin,brostallicin,100.0,,2.0
+20954,arry-502,arry-502,100.0,,2.0
+20962,daxdilimab,daxdilimab,100.0,,2.0
+20964,elesclomol sodium,elesclomol,100.0,,3.0
+20977,nifurtimox,nifurtimox,100.0,,
+20986,zasocitinib,zasocitinib,100.0,,2.0
+21001,(18f)flutemetamol,flutemetamol (18f),97.14285714285714,2013.0,4.0
+21003,ei-1071,ei-1071,100.0,,
+21007,ispronicline (nicotinic acetylcholine receptor agonist),ispronicline,100.0,,2.0
+21011,tilpisertib,tilpisertib,100.0,,2.0
+21033,cagrilintide,cagrilintide,100.0,,3.0
+21052,mrna-1345,mrna-1345,100.0,,
+21066,nolatrexed dihydrochloride,nolatrexed,100.0,,
+21082,sotigalimab,sotigalimab,100.0,,2.0
+21088,veru-111,veru-111,100.0,,3.0
+21098,efatutazone,efatutazone,100.0,,2.0
+21101,bbt-877 single dose,bbt-877,100.0,,
+21148,bia 2-093  once daily,bia,100.0,,
+21154,gaboxadol (hlx-0206),gaboxadol,100.0,,
+21162,xmt-1001,xmt-1001,100.0,,1.0
+21170,methocarbamol,methocarbamol,100.0,1957.0,4.0
+21173,stp707,stp-707,92.3076923076923,,
+21184,ifx-hu2.0,ifx-hu2.0,100.0,,2.0
+21189,ferric carboxy maltose,maltose,100.0,,3.0
+21237,wu-cart-007,wu-cart-007,100.0,,
+21275,ndx-3315 and ndx-3324,ndx-3315,100.0,,
+21289,mavodelpar,mavodelpar,100.0,,2.0
+21311,ambroxol,ambroxol,100.0,,3.0
+21325,part a: azd8186 monotherapy,azd-8186,93.33333333333333,,1.0
+21343,ca-170,ca-170,100.0,,1.0
+21388,velafermin,velafermin,100.0,,2.0
+21401,img-7289,img-7289,100.0,,2.0
+21408,pf-05212377 (sam-760),pf-05212377,100.0,,2.0
+21440,methyldopa,methyldopa,100.0,1962.0,4.0
+21459,scy-635,scy-635,100.0,,2.0
+21472,sns01-t,sns01-t,100.0,,4.0
+21486,prulifloxacin,prulifloxacin,100.0,,3.0
+21512,combined chemotherapy with streptozotocin,streptozocin,92.3076923076923,,
+21525,mf101,mf101,100.0,,3.0
+21530,cashew or shrimp oral immunotherapy,cashew,100.0,,
+21536,citarinostat,citarinostat,100.0,,2.0
+21554,atg-101,atg-101,100.0,,
+21570,ikt-001pro,ikt-001pro,100.0,,1.0
+21589,adl5859,adl5859,100.0,,2.0
+21618,cefepime/vnrx-5133 (taniborbactam),taniborbactam,92.85714285714286,,3.0
+21632,alosetron,alosetron,100.0,2000.0,4.0
+21703,alo-02,al-02,90.9090909090909,,
+21726,local tetracycline,tetracycline,100.0,1953.0,4.0
+21730,enoximone,enoximone,100.0,,4.0
+21757,vatelizumab,vatelizumab,100.0,,2.0
+21760,b27pd,b27pd,100.0,,1.0
+21774,tipelukast,tipelukast,100.0,,2.0
+21784,taliglucerase alfa,alglucerase,91.66666666666666,1991.0,4.0
+21792,gma161,gma-161,92.3076923076923,,1.0
+21845,batefenterol,batefenterol,100.0,,
+21896,livoletide,livoletide,100.0,,2.0
+21943,sotalol (monotherapy),sotalol,100.0,1992.0,4.0
+21955,selatogrel,selatogrel,100.0,,3.0
+21956,diannexin,dianexin,94.11764705882352,,2.0
+21961,ft-2102 (olutasidenib),olutasidenib,92.3076923076923,2022.0,4.0
+21977,tetraethylammonium (tea),tetraethylammonium,100.0,,2.0
+21996,vesleteplirsen,vesleteplirsen,100.0,,
+22016,synb1020,synb1020,100.0,,
+22052,galegenimab,galegenimab,100.0,,2.0
+22060,harmine hydrochloride capsules,harmine,100.0,,1.0
+22070,zidebactam,zidebactam,100.0,,3.0
+22087,oltipraz,oltipraz,100.0,,3.0
+22099,18f-fludeoxyglucose (18f-fdg),fludeoxyglucose (18f),90.0,1994.0,4.0
+22110,cvn424,cvn-424,92.3076923076923,,2.0
+22161,mt-401,mt-401,100.0,,
+22164,trc093 recombinant humanized igg1k monoclonal antibody,trc093,100.0,,1.0
+22166,viralym-c,viralym-c,100.0,,3.0
+22182,belcesiran,belcesiran,100.0,,2.0
+22187,pf-03715455,pf-03715455,100.0,,2.0
+22210,fevipiprant,fevipiprant,100.0,,3.0
+22211,aclarubicin,aclarubicin,100.0,,
+22218,tirabrutinib,tirabrutinib,100.0,2020.0,4.0
+22231,intranodal injection of ad-isf35,ad-isf35,100.0,,
+22237,br101801 (phase ia),br101801,100.0,,
+22257,is-001,isp-001,92.3076923076923,,
+22340,trehalose for iv infusion,trehalose,100.0,,3.0
+22362,ertumaxomab,ertumaxomab,100.0,,2.0
+22374,remune,remune,100.0,,
+22379,ono-7579,ono-7579,100.0,,
+22401,bta798,bta798,100.0,,2.0
+22412,cibisatamab,cibisatamab,100.0,,2.0
+22415,doxepin hydrochloride oral solution,doxepin,100.0,,
+22435,dt2216,dt2216,100.0,,
+22465,glycerin suppository,glycerin,100.0,1982.0,4.0
+22472,nivatrotamab,nivatrotamab,100.0,,1.0
+22485,muscimol,muscimol,100.0,,1.0
+22488,burixafor hydrobromide,burixafor,100.0,,
+22491,gsk364735,gsk-364735,94.73684210526316,,2.0
+22493,cc-115,cc-115,100.0,,2.0
+22503,sunvozertinib,sunvozertinib,100.0,,3.0
+22505,lobradimil,labradimil,90.0,,2.0
+22511,vebicorvir (vbr),vebicorvir,100.0,,2.0
+22530,talc,talc,100.0,1997.0,4.0
+22531,zongertinib (bi 1810631),zongertinib,100.0,,2.0
+22532,me-344,me-344,100.0,,1.0
+22533,ascentage pharma hqp1351 bioavailable inhibitor,hqp1351,100.0,,3.0
+22548,navarixin,navarixin,100.0,,2.0
+22554,pidilizumab,pidilizumab,100.0,,2.0
+22558,ciforadenant,ciforadenant,100.0,,2.0
+22562,veligrotug (vrdn-001) phase 1/2 mad (hv and ted),veligrotug,100.0,,2.0
+22586,ly3295668 erbumine,erbumine,100.0,1993.0,4.0
+22588,ro7296682,ro7296682,100.0,,2.0
+22589,ub-612,ub-612,100.0,,
+22593,dienogest (natazia,dienogest,100.0,2010.0,4.0
+22598,kb001,kb001,100.0,,2.0
+22604,lenacapavir,lenacapavir,100.0,2022.0,4.0
+22613,sy-5609,sy-5609,100.0,,1.0
+22616,moclobemide,moclobemide,100.0,1990.0,4.0
+22620,methohexital,methohexital,100.0,1960.0,4.0
+22621,neihulizumab (altb-168),neihulizumab,100.0,,2.0
+22627,acr16,acr-16,90.9090909090909,,
+22628,trichostatin a,trichostatin a,92.3076923076923,,
+22645,troxatyl™ (troxacitabine),troxacitabine,92.85714285714286,,-1.0
+22651,dar-100a,dar-0100a,94.11764705882352,,2.0
+22662,apomine,apomine,100.0,,
+22675,ropidoxuridine,ropidoxuridine,100.0,,2.0
+22693,gelatin sponge,gelatin,100.0,,4.0
+22702,vk0214,vk-0214,92.3076923076923,,1.0
+22723,atx201,atx-201,92.3076923076923,,1.0
+22750,apricoxib,apricoxib,100.0,,2.0
+22758,pf-03758309,pf-03758309,100.0,,1.0
+22770,tg100801,tg-100801,94.11764705882352,,2.0
+22775,gsk1059615,gsk-1059615,95.23809523809523,,1.0
+22819,avutometinib (vs-6766),avutometinib,100.0,,2.0
+22825,ipi-493,ipi-493,100.0,,
+22837,pf-00217830,pf-00217830,100.0,,2.0
+22869,dispersion of  bemt in petrolatum,petrolatum,100.0,2006.0,4.0
+22878,butoconazole nitrate,butoconazole,100.0,1985.0,4.0
+22882,lunasin regimen,lunasine,93.33333333333333,,
+22883,nasovax,nasovax,100.0,,
+22914,pritelivir,pritelivir,100.0,,3.0
+22945,lerafaon,lerafaon,100.0,,
+22961,azd1305,azd-1305,93.33333333333333,,2.0
+22969,sbp-101,sp-101,92.3076923076923,,
+22972,mt-0169,mt-0169,100.0,,
+22976,sucralfate,sucralfate,100.0,1981.0,4.0
+22984,ensitrelvir,ensitrelvir,100.0,,3.0
+22993,vorapaxar,vorapaxar,100.0,2014.0,4.0
+22998,incb013739,incb13739,94.73684210526316,,1.0
+23005,sagopilone (zk 219477),sagopilone,100.0,,2.0
+23036,navtemadlin,navtemadlin,100.0,,2.0
+23043,nimacimab,nimacimab,100.0,,2.0
+23051,golcadomide,golcadomide,100.0,,2.0
+23092,gsk232802,gsk232802,100.0,,2.0
+23093,edi200,edi-200,92.3076923076923,,2.0
+23100,sutimlimab (bivv009),sutimlimab,100.0,2022.0,4.0
+23107,benazepril hydrochloride,benazepril,100.0,1991.0,4.0
+23122,recombinant human thrombopoietin,thrombopoietin,100.0,,3.0
+23141,sf1126,sf1126,100.0,,
+23154,navicixizumab monotherapy,navicixizumab,100.0,,3.0
+23222,at-100,ata-100,92.3076923076923,,
+23231,aab-001,ab-001,92.3076923076923,,2.0
+23246,phendimetrazine,phendimetrazine,100.0,1976.0,4.0
+23277,girentuximab,girentuximab,100.0,,3.0
+23319,lucerastat,lucerastat,100.0,,3.0
+23329,pf-06260414,pf-06260414,100.0,,1.0
+23344,benztropine mesylate 0. daily,benzatropine,95.65217391304348,,
+23365,elenbecestat,elenbecestat,100.0,,3.0
+23371,cilomilast,cilomilast,100.0,,
+23390,zalifrelimab,zalifrelimab,100.0,,2.0
+23402,cynk-101,cynk-101,100.0,,
+23403,cevimeline,cevimeline,100.0,2000.0,4.0
+23423,tofimilast,tofimilast,100.0,,2.0
+23424,lisuride transdermal system,lisuride,100.0,,
+23440,foscarnet,foscarnet,100.0,1991.0,4.0
+23443,darvadstrocel,darvadstrocel,100.0,2018.0,4.0
+23471,bms-770767,bms-770767,100.0,,2.0
+23485,suvecaltamide,suvecaltamide,100.0,,1.0
+23496,dontinurad,dotinurad,94.73684210526316,,3.0
+23498,t-guard,t-guard,100.0,,4.0
+23502,ab8939,ab-8939,92.3076923076923,,1.0
+23510,amikacin inhalation solution (bay41-6551),amikacin,100.0,,
+23523,astaxanthin,astaxanthin,100.0,,3.0
+23554,ibuzatrelvir,ibuzatrelvir,100.0,,
+23562,palmidrol,palmidrol,100.0,,3.0
+23567,leucovorin/ levoleucovorin,levoleucovorin,100.0,2008.0,4.0
+23597,tropisetron,tropisetron,100.0,,
+23605,ar9281,ar-9281,92.3076923076923,,
+23620,dilanubicel,dilanubicel,100.0,,2.0
+23622,inebilizumab,inebilizumab,100.0,2020.0,4.0
+23632,sp-420,sp-420,100.0,,2.0
+23646,sph3127,sph-3127,93.33333333333333,,3.0
+23653,betoptic s (betaxolol hcl),betaxolol,94.73684210526316,1985.0,4.0
+23657,mitiglinide,mitiglinide,100.0,,3.0
+23661,clocortolone pivalate,clocortolone,100.0,1977.0,4.0
+23697,isunakinra,isunakinra,100.0,,3.0
+23720,pimivalimab,pimivalimab,100.0,,2.0
+23735,artificial tears preserved with benzalkonium chloride,benzalkonium,100.0,,4.0
+23737,0. conbercept intravitreal injection,conbercept,100.0,,3.0
+23740,tm5614,tm5614,100.0,,
+23751,rhgad65,rhgad65,100.0,,3.0
+23791,pyrotinib,pyrotinib,100.0,,3.0
+23793,zirconium zr 89 crefmirlimab berdoxam,crefmirlimab,100.0,,2.0
+23814,pactimibe,pactimibe,100.0,,2.0
+23823,blosozumab,blosozumab,100.0,,2.0
+23825,garadacimab,garadacimab,100.0,,
+23826,viltolarsen,viltolarsen,100.0,2020.0,4.0
+23845,cenegermin,cenegermin,100.0,2017.0,4.0
+23866,adrabetadex,adrabetadex,100.0,,3.0
+23883,osanetant,osanetant,100.0,,2.0
+23900,vofatamab,vofatamab,100.0,,2.0
+23945,sb-773812,sb-773812,100.0,,2.0
+23950,nt219,nt-219,90.9090909090909,,1.0
+23957,velneperit,velneperit,100.0,,2.0
+23964,felzartamab,felzartamab,100.0,,3.0
+23974,ibezapolstat,ibezapolstat,100.0,,2.0
+23988,licaminlimab,licaminlimab,100.0,,2.0
+23994,opicapone,opicapone,100.0,2020.0,4.0
+24002,ruzasvir,ruzasvir,100.0,,2.0
+24003,varlitinib,varlitinib,100.0,,2.0
+24012,sabirnetug (acu193),sabirnetug,100.0,,2.0
+24036,setrusumab,setrusumab,100.0,,3.0
+24043,bezlotoxumab,bezlotoxumab,100.0,2016.0,4.0
+24077,lx201,lx201,100.0,,
+24078,allovectin-7®,allovectin-7,96.0,,
+24088,flunisolide,flunisolide,100.0,1981.0,4.0
+24122,dolcanatide,dolcanatide,100.0,,2.0
+24170,beta-carotene,beta carotene,92.3076923076923,,4.0
+24216,dofetilide and diltiazem,dofetilide,100.0,1999.0,4.0
+24232,part 1 (dose escalation): duvortuxizumab,duvortuxizumab,100.0,,2.0
+24242,fosphenytoin,fosphenytoin,100.0,1996.0,4.0
+24245,soc plus /kg eb05 iv,eb05,100.0,,
+24266,rolipram,rolipram,100.0,,
+24268,ly2624803,ly-2624803,94.73684210526316,,
+24348,lv305,lv305,100.0,,
+24349,g305,g305,100.0,,
+24354,jnj-40411813,jnj-40411813,100.0,,
+24359,osi-211 (liposomal lurtotecan),lurtotecan,95.23809523809523,,-1.0
+24434,lcp-atorfen,lcp-atorfen,100.0,,
+24449,sertindole,sertindole,100.0,1996.0,4.0
+24456,kt-253,kt-253,100.0,,
+24480,e7107,e7107,100.0,,1.0
+24500,123 i - altropane®,altropane,94.73684210526316,,3.0
+24548,proxalutamide (gt0918),proxalutamide,100.0,,3.0
+24602,incb7839,incb7839,100.0,,
+24611,dextran,dextran,100.0,,3.0
+24631,omiganan  gel,omiganan,100.0,,3.0
+24662,oxfendazole,oxfendazole,100.0,,2.0
+24695,dimethandrolone-undecanoate,dimethandrolone undecanoate,96.2962962962963,2014.0,4.0
+24721,spheramine (bay86-5280),spheramine,100.0,,
+24723,prialt (ziconotide),ziconotide,90.9090909090909,2004.0,4.0
+24738,risuteganib,risuteganib,100.0,,2.0
+24739,nerinetide,nerinetide,100.0,,3.0
+24765,tetrahydrocannabivarin,tetrahydrocannabivarin,100.0,,
+24783,eprosartan,eprosartan,100.0,1997.0,4.0
+24795,kc706,kc706,100.0,,2.0
+24816,bicifadine,bicifadine,100.0,,-1.0
+24840,rifalazil,rifalazil,100.0,,3.0
+24862,rebastinib,rebastinib,100.0,,2.0
+24889,jab-21822 (kras g12c inhibitor),jab-21822,100.0,,1.0
+24922,khk2455,khk2455,100.0,,
+24923,neocartilage implant/denovo® et (engineered tissue graft),neocartilage,100.0,,
+24939,vlts-934,vlts-934,100.0,,
+24940,siremadlin,siremadlin,100.0,,1.0
+24946,nefazodone,nefazodone,100.0,1994.0,4.0
+24960,abivertinib,abivertinib,100.0,,3.0
+24964,chloraprep hi-lite orange,orange,100.0,,
+24968,ux053,ux053,100.0,,
+24972,ctx120,ctx120,100.0,,
+24983,gdc-0927,gdc-0927,100.0,,1.0
+25005,miltefosine,miltefosine,100.0,2014.0,4.0
+25022,cytalux™ (pafolacianine) for fluorescent imaging,pafolacianine,92.85714285714286,2021.0,4.0
+25057,esflurbiprofen hydrogel patch,esflurbiprofen,100.0,2015.0,4.0
+25058,cbp501,cbp-501,92.3076923076923,,2.0
+25182,vonapanitase,vonapanitase,100.0,,3.0
+25214,cc-401,cc-401,100.0,,2.0
+25228,tifacogin,tifacogin,100.0,,3.0
+25229,lemuteporfin for injection,lemuteporfin,100.0,,2.0
+25261,fomepizole,fomepizole,100.0,1997.0,4.0
+25275,ro7200220,ro7200220,100.0,,
+25293,btrx-246040,btrx-246040,100.0,,2.0
+25389,stg-001,stg-001,100.0,,2.0
+25438,hsd-016,hsd-016,100.0,,1.0
+25441,zabedosertib (bay1834845),zabedosertib,100.0,,
+25449,lomvastomig,lomvastomig,100.0,,2.0
+25460,l-tetrahydropalmatine (l-thp),tetrahydropalmatine,95.0,,2.0
+25484,setipiprant,setipiprant,100.0,,3.0
+25499,crs-hipec + lsta1,lsta1,100.0,,2.0
+25507,cdp6038 (olokizumab),olokizumab,90.9090909090909,,3.0
+25552,alobresib,alobresib,100.0,,2.0
+25569,molgramostim,molgramostim,100.0,,4.0
+25590,camoteskimab (cerc-007,camoteskimab,100.0,,2.0
+25593,azd4017,azd-4017,93.33333333333333,,2.0
+25596,liafensine,liafensine,100.0,,2.0
+25630,renzapride,renzapride,100.0,,3.0
+25644,p-bcma-101 car-t cells,p-bcma-101,100.0,,1.0
+25665,levamisole hydrochloride,levamisole,100.0,1990.0,4.0
+25672,tbaj-876,tbaj-876,100.0,,1.0
+25673,satin,isatin,90.9090909090909,,
+25677,pac113,pac-113,92.3076923076923,,
+25738,sulfamethoxazole,sulfamethoxazole,100.0,1973.0,4.0
+25763,ralmitaront,ralmitaront,100.0,,2.0
+25818,preladenant,preladenant,100.0,,3.0
+25840,lx7101 (),lx-7101,92.3076923076923,,1.0
+25867,low dose ren001,ren001,100.0,,2.0
+25873,valerian,valerian,100.0,,3.0
+25889,ca-008 (vocacapsaicin),vocacapsaicin,92.85714285714286,,1.0
+25935,tebentafusp (imcgp100),tebentafusp,100.0,2022.0,4.0
+25943,nabiximols,nabiximols,100.0,,3.0
+25963,lilotomab,lilotomab,100.0,,1.0
+25972,ck0802,ck0802,100.0,,
+26010,sb1578,sb-1578,92.3076923076923,,1.0
+26014,apolizumab,apolizumab,100.0,,2.0
+26022,pagibaximab (formerly bsyx-a110),pagibaximab,100.0,,2.0
+26063,ms1819,ms-1819,92.3076923076923,,2.0
+26073,litoxetine,litoxetine,100.0,,2.0
+26099,ralinepag,ralinepag,100.0,,3.0
+26126,sobetirome,sobetirome,100.0,,2.0
+26145,ro5028442,ro-5028442,94.73684210526316,,
+26197,fipamezole,fipamezole,100.0,,2.0
+26210,gonadorelin,gonadorelin,100.0,1989.0,4.0
+26211,corticorelin,corticorelin,100.0,,3.0
+26213,tnp-2092,tnp-2092,100.0,,
+26219,antipyrine and benzocaine otic solution,antipyrine,100.0,,4.0
+26231,basimglurant,basimglurant,100.0,,2.0
+26304,ngx267,ngx267,100.0,,2.0
+26317,mk-0873  cream,mk-0873,100.0,,2.0
+26326,ulinastatin,ulinastatin,100.0,,3.0
+26353,pot-4,pot-4,100.0,,2.0
+26386,marimastat,marimastat,100.0,,3.0
+26393,mivacurium,mivacurium,100.0,1992.0,4.0
+26410,rogaratinib (bay1163877),rogaratinib,100.0,,2.0
+26411,avr-rd-01,avr-rd-01,100.0,,1.0
+26427,mod-5014,mod-5014,100.0,,
+26439,ravuconazole,ravuconazole,100.0,,2.0
+26454,echinacea,echinacea,100.0,,2.0
+26476,eritoran,eritoran,100.0,,3.0
+26498,kisspeptin-10,kisspeptin-10,100.0,,
+26502,indium-111 pentetreotide,pentetreotide,100.0,,3.0
+26516,levotofisopam,levotofisopam,100.0,,2.0
+26572,selenomethionine (slm),selenomethionine,100.0,,
+26575,prucalopride,prucalopride,100.0,2009.0,4.0
+26578,entolimod,entolimod,100.0,,2.0
+26609,etesevimab,etesevimab,100.0,,3.0
+26625,io-202,io-202,100.0,,
+26645,zstk474,zstk-474,93.33333333333333,,
+26651,agg-523,agg-523,100.0,,1.0
+26662,mbx-2044,mbx-2044,100.0,,2.0
+26693,"3,5-diiodothyropropionic acid (ditpa) therapy","3,5-diiodothyropropionic acid",90.56603773584906,,2.0
+26711,dihydroartemisinin + piperaquine tetraphosphate,piperaquine,100.0,,2.0
+26712,artemether + lumefantrine,artemether,100.0,,
+26730,l-norleucine,d-norleucine,91.66666666666666,,
+26750,npt520-34 (),npt520-34,100.0,,
+26780,voruciclib monotherapy,voruciclib,100.0,,2.0
+26792,kb407 (nebulization),kb407,100.0,,
+26801,silmitasertib,silmitasertib,100.0,,2.0
+26803,lsz102,lsz-102,92.3076923076923,,1.0
+26812,incb057643,incb-057643,95.23809523809523,,1.0
+26817,part a: upamostat,upamostat,100.0,,2.0
+26846,ociperlimab,ociperlimab,100.0,,3.0
+26862,belapectin,belapectin,100.0,,2.0
+26879,human butyrylcholinesterase (hubche) derived from human plasma,butyrylcholinesterase,100.0,,
+26887,mln2704 (dm1 conjugated monoclonal antibody mln591),mln2704,100.0,,1.0
+26897,spg601,spg601,100.0,,
+26899,vantictumab,vantictumab,100.0,,2.0
+26915,chlorpromazine,chlorpromazine,100.0,1957.0,4.0
+26916,ik-930,ik-930,100.0,,
+26932,hzt-501,hzt-501,100.0,,
+26942,cordycepin plus pentostatin,cordycepin,100.0,,
+26962,ag-024322,ag-24322,94.11764705882352,,1.0
+26965,repinotan hcl (bayx3702),repinotan,100.0,,2.0
+26967,mangafodipir (teslascan),mangafodipir,100.0,1997.0,4.0
+26978,qav680,qav-680,92.3076923076923,,2.0
+26988,fluoxymesterone,fluoxymesterone,100.0,1956.0,4.0
+26990,sevasemten,sevasemten,100.0,,2.0
+26998,senicapoc,senicapoc,100.0,,3.0
+27008,pralsetinib (blu-667),pralsetinib,100.0,,
+27041,doxylamine succinate usp,doxylamine,100.0,1948.0,4.0
+27049,pulmozyme/ recombinant human deoxyribonuclease (rh-dnase),desoxyribonuclease,97.14285714285714,1964.0,4.0
+27067,cobiprostone,cobiprostone,100.0,,2.0
+27075,inupadenant,inupadenant,100.0,,2.0
+27086,octenidine dihydrocloride in aqueous solution,octenidine,100.0,,2.0
+27087,gw590735,gw-590735,94.11764705882352,,2.0
+27100,bms-911543,bms-911543,100.0,,2.0
+27108,mitoquinone,mitoquinone,100.0,,2.0
+27136,bimiralisib,bimiralisib,100.0,,2.0
+27139,follitropin alfa 150 international unit (iu),follitropin,100.0,,4.0
+27176,lava-051,lava-051,100.0,,
+27182,camicinal,camicinal,100.0,,3.0
+27194,abt-288 low dose,abt-288,100.0,,2.0
+27205,oce-205,oce-205,100.0,,2.0
+27231,apvo436,apvo-436,93.33333333333333,,1.0
+27305,vactosertib,vactosertib,100.0,,
+27324,experimental: single iv infusion vasomera (pb1046),vasomera,100.0,,
+27391,rct1100,rct1100,100.0,,
+27392,bms-817399,bms-817399,100.0,,2.0
+27486,tarlatamab,tarlatamab,100.0,,3.0
+27509,synb1891,synb1891,100.0,,
+27546,valspodar,valspodar,100.0,,
+27555,mk-7075 (miransertib),miransertib,91.66666666666666,,1.0
+27559,ioversol,ioversol,100.0,1988.0,4.0
+27566,tcn-202,tcn-202,100.0,,1.0
+27570,mavoglurant (afq056),mavoglurant,100.0,,2.0
+27571,at-527 (r07496998),at-527,100.0,,
+27604,rp-a501,rp-a501,100.0,,
+27647,fb-101,fb-101,100.0,,2.0
+27658,dnl343,dnl343,100.0,,
+27660,pi-0824,pi-0824,100.0,,1.0
+27669,desonide cream,desonide,100.0,,
+27689,utidelone capsule,utidelone,100.0,,
+27714,nfs-02 injection,nfs-02,100.0,,
+27727,pen-866 sodium,pen-866,100.0,,1.0
+27749,kp-1461,kp-1461,100.0,,2.0
+27758,cendakimab,cendakimab,100.0,,3.0
+27819,ds-1211b,ds-1211,93.33333333333333,,
+27828,bzl101,bzl101,100.0,,
+27830,cnm-au8,cnm-au8,100.0,,
+27845,thioureidobutyronitrile,4-isothioureidobutyronitrile,90.19607843137256,,2.0
+27856,perhexiline,perhexiline,100.0,1974.0,4.0
+27857,pz-128,pz-128,100.0,,2.0
+27891,imdevimab,imdevimab,100.0,,3.0
+27960,meperidine,meperidine,100.0,1942.0,4.0
+27979,pf-06282999,pf-06282999,100.0,,1.0
+27987,dipraglurant,dipraglurant,100.0,,2.0
+27989,mitiperstat,mitiperstat,100.0,,2.0
+28005,algenpantucel-l immunotherapy,algenpantucel-l,100.0,,3.0
+28006,anitocabtagene-autoleucel,anitocabtagene autoleucel,96.0,,2.0
+28022,snx-1012 (meclocycline sulfosalicylate),meclocycline,96.0,,2.0
+28032,cavrotolimod,cavrotolimod,100.0,,1.0
+28046,pt2385,pt-2385,92.3076923076923,,
+28071,tas-116,tas-116,100.0,,2.0
+28112,slv334,slv-334,92.3076923076923,,2.0
+28113,ff-10101-01,ff-10101-01,100.0,,1.0
+28134,plazomicin injection,plazomicin,100.0,2018.0,4.0
+28148,j147,j147,100.0,,1.0
+28153,barzolvolimab,barzolvolimab,100.0,,2.0
+28164,hlb-001,lb-001,92.3076923076923,,2.0
+28165,ravagalimab,ravagalimab,100.0,,2.0
+28185,131-i-tm-601 (chlorotoxin),chlorotoxin,91.66666666666666,,2.0
+28187,avr-rd-02,avr-rd-02,100.0,,
+28194,rilematovir,rilematovir,100.0,,3.0
+28201,quemliclustat,quemliclustat,100.0,,2.0
+28276,irsenontrine,irsenontrine,100.0,,2.0
+28284,cbt-001 single dose,ct-001,92.3076923076923,,
+28294,cep-37440,cep-37440,100.0,,1.0
+28295,amolimogene,amolimogene,100.0,,2.0
+28314,picibanil,picibanil,100.0,,
+28339,penicillamine (d1-w12),penicillamine,100.0,,
+28361,minzasolmin (ucb0599),minzasolmin,100.0,,2.0
+28368,remlarsen,remlarsen,100.0,,2.0
+28382,fenebrutinib,fenebrutinib,100.0,,3.0
+28426,para-toluenesulfonamide injection (pts),p-toluenesulfonamide,93.02325581395348,,
+28438,tetomilast,tetomilast,100.0,,3.0
+28450,sjg-136,sjg-136,100.0,,2.0
+28456,trilostane,trilostane,100.0,1984.0,4.0
+28463,telatinib,telatinib,100.0,,2.0
+28483,vicriviroc,vicriviroc,100.0,,3.0
+28488,biib059 (litifilimab),litifilimab,91.66666666666666,,3.0
+28523,ropanicant,ropanicant,100.0,,
+28536,corn oil,corn,100.0,,3.0
+28612,jnj-55308942,jnj-55308942,100.0,,2.0
+28630,tilavonemab,tilavonemab,100.0,,2.0
+28656,catumaxomab,catumaxomab,100.0,2009.0,4.0
+28670,ezutromid,ezutromid,100.0,,2.0
+28683,jnj-41443532,jnj-41443532,100.0,,2.0
+28712,mm-093,mm-093,100.0,,
+28716,iptacopan,iptacopan,100.0,,1.0
+28726,berberine chloride,berberine,100.0,,3.0
+28727,aemcolo (rifamycin sv mmx),rifamycin,94.73684210526316,,
+28732,zofin,zofin,100.0,,
+28742,finafloxacin (2 x  tablets),finafloxacin,100.0,2014.0,4.0
+28758,ibutamoren mesylate (mk-0677),ibutamoren,100.0,,2.0
+28796,zalypsis ( pm00104),zalypsis,100.0,,2.0
+28814,t900607,t-900607,93.33333333333333,,2.0
+28816,elvitegravir,elvitegravir,100.0,,
+28841,terazosin,terazosin,100.0,1987.0,4.0
+28844,cyc065,cyc-065,92.3076923076923,,2.0
+28919,naratriptan pill,naratriptan,100.0,1998.0,4.0
+28939,capravirine,capravirine,100.0,,2.0
+28945,stat inhibitor opb-111077,opb-111077,100.0,,2.0
+28960,chiauranib,chiauranib,100.0,,3.0
+28974,mcmv3068a,mcmv3068a,100.0,,2.0
+28975,mcmv5322a,mcmv5322a,100.0,,
+29012,"cp-601,927",cp-601927,94.73684210526316,,
+29017,tak-901,tak-901,100.0,,1.0
+29032,dp-b99,dp-b99,100.0,,
+29055,pemafibrate,pemafibrate,100.0,2017.0,4.0
+29057,salirasib,salirasib,100.0,,2.0
+29083,md-0727,md-0727,100.0,,
+29098,inecalcitol,inecalcitol,100.0,,2.0
+29103,lepirudin,lepirudin,100.0,1997.0,4.0
+29113,bevenopran,bevenopran,100.0,,3.0
+29200,foralumab nasal,foralumab,100.0,,2.0
+29228,abetimus sodium (ljp 394),abetimus,100.0,,2.0
+29230,esk981,esk981,100.0,,
+29295,iscalimab,iscalimab,100.0,,2.0
+29308,tasisulam,tasisulam,100.0,,3.0
+29309,asp3026,asp-3026,93.33333333333333,,1.0
+29350,obi-888,obi-888,100.0,,1.0
+29357,tregalizumab,tregalizumab,100.0,,2.0
+29386,bevonescein,bevonescein,100.0,,3.0
+29419,lucanthone,lucanthone,100.0,,2.0
+29430,"ce-326,597",ce-326597,94.73684210526316,,2.0
+29456,xl784,xl784,100.0,,
+29473,sar421869,sar421869,100.0,,
+29489,bms-903452,bms-903452,100.0,,1.0
+29511,deferitrin (gt56-252),deferitrin,100.0,,
+29551,baltaleucel-t,baltaleucel-t,100.0,,2.0
+29566,nktt120,nktt-120,93.33333333333333,,
+29605,sns-314,sns-314,100.0,,1.0
+29611,chemotherapy (gemcitabine & docetaxel) plus bio-11006,bio-11006,100.0,,2.0
+29616,k-001,kn-001,90.9090909090909,,
+29629,felbamate,felbamate,100.0,1993.0,4.0
+29653,cfg920,cfg-920,92.3076923076923,,1.0
+29655,urea  cream,urea,100.0,1996.0,4.0
+29670,fazisiran injection,fazirsiran,94.73684210526316,,3.0
+29671,rlx030 (serelaxin),serelaxin,90.0,,3.0
+29697,ly2599506,ly-2599506,94.73684210526316,,
+29713,zeaxanthin and mesozeaxanthin,zeaxanthin,100.0,,3.0
+29717,tvi-brain-1,tvi-brain-1,100.0,,1.0
+29737,hydroxytyrosol,hydroxytyrosol,100.0,,
+29842,vonafexor,vonafexor,100.0,,2.0
+29845,apraclonidine hydrochloride ophthalmic solution,apraclonidine,100.0,1987.0,4.0
+29861,efruxifermin,efruxifermin,100.0,,1.0
+29864,encaleret,encaleret,100.0,,2.0
+29871,ca4p,ca4p,100.0,,
+29890,hb-101 vaccine,hub-101,92.3076923076923,,
+29893,onercept,onercept,100.0,,3.0
+29894,polydatin injectable,polydatin,100.0,,2.0
+29910,calmangafodipir (2 µmol/kg),calmangafodipir,100.0,,1.0
+29947,h3b-6527,h3b-6527,100.0,,1.0
+29983,manuka honey in liquid form,honey,100.0,,3.0
+30009,blxa4,blxa4,100.0,,1.0
+30020,delamanid,delamanid,100.0,,
+30021,pf-04531083,pf-04531083,100.0,,2.0
+30049,runcaciguat (bay1101042),runcaciguat,100.0,,2.0
+30070,evofosfamide,evofosfamide,100.0,,3.0
+30102,golvatinib,golvatinib,100.0,,2.0
+30134,gs-9256,gs-9256,100.0,,2.0
+30151,suptavumab /kg,suptavumab,100.0,,3.0
+30174,dm1157,dm-1157,92.3076923076923,,
+30225,somapacitan,somapacitan,100.0,2020.0,4.0
+30258,albaconozole,albaconazole,91.66666666666666,,2.0
+30283,abraxane + tigatuzumab,tigatuzumab,100.0,,3.0
+30284,brontictuzumab,brontictuzumab,100.0,,2.0
+30298,red clover,clove,90.9090909090909,,4.0
+30304,anti-il-4 monoclonal antibody (pascolizumab),pascolizumab,92.3076923076923,,2.0
+30329,cethromycin,cethromycin,100.0,,3.0
+30360,fk614,fk-614,90.9090909090909,,
+30366,nazartinib,nazartinib,100.0,,2.0
+30397,ew-a-401 dna plasmid vector,ew-a-401,100.0,,
+30414,lacripep,lacripep,100.0,,
+30418,gs-441524,gs-441524,100.0,,1.0
+30429,teropavimab,teropavimab,100.0,,2.0
+30430,zinlirvimab,zinlirvimab,100.0,,2.0
+30499,propafenone,propafenone,100.0,1989.0,4.0
+30510,fosciclopirox,fosciclopirox,100.0,,1.0
+30528,falimarev,falimarev,100.0,,-1.0
+30529,inalimarev,inalimarev,100.0,,3.0
+30533,vemircopan,vemircopan,100.0,,2.0
+30541,nicord® (omidubicel),omidubicel,90.9090909090909,,3.0
+30542,ar201 powder,arx201,90.9090909090909,,
+30544,vudalimab,vudalimab,100.0,,2.0
+30554,monoclonal antibody hu3s193,hu3s193,100.0,,2.0
+30555,gdc-0623,gdc-0623,100.0,,
+30562,phenelzine sulfate,phenelzine,100.0,1961.0,4.0
+30604,casimersen,casimersen,100.0,2021.0,4.0
+30605,golodirsen,golodirsen,100.0,2019.0,4.0
+30607,adipiplon,adipiplon,100.0,,2.0
+30611,vyd222 (pemivibart),pemivibart,90.9090909090909,,
+30614,melrilimab (gsk3772847)  (mg),melrilimab,100.0,,2.0
+30652,avl-3288,avl-3288,100.0,,1.0
+30711,cdp323,cdp323,100.0,,2.0
+30726,xaliproden (sr57746a),xaliproden,100.0,,3.0
+30734,elinogrel,elinogrel,100.0,,2.0
+30745,sln124,sln124,100.0,,
+30746,larotrectinib (vitrakvi,larotrectinib,100.0,,
+30770,cem-101,cm-101,92.3076923076923,,
+30807,elbasvir,elbasvir,100.0,2016.0,4.0
+30826,mm-398 (irinotecan sucrosofate liposome injection) plus cyclophosphamide,sucrosofate,100.0,,3.0
+30842,pafuramidine maleate (db289),pafuramidine,100.0,,3.0
+30907,lerapolturev,lerapolturev,100.0,,
+30914,plx-r18,plx-r18,100.0,,
+30970,mtl-cebpa,mtl-cebpa,100.0,,
+31016,aura cacia,acacia,90.9090909090909,,3.0
+31041,phenformin,phenformin,100.0,,4.0
+31075,lorigerlimab,lorigerlimab,100.0,,2.0
+31077,ziltivekimab,ziltivekimab,100.0,,3.0
+31080,avn944,avn-944,92.3076923076923,,2.0
+31118,izokibep,izokibep,100.0,,3.0
+31159,pritumumab,pritumumab,100.0,,2.0
+31169,pixatimod,pixatimod,100.0,,
+31179,deoxyribonucleic acid (dna) methyltransferase inhibitors (dnmti) cedazuridine,cedazuridine,100.0,2020.0,4.0
+31184,auto3,auto3,100.0,,
+31206,pf-06751979 single ascending dose,pf-06751979,100.0,,1.0
+31222,peptide-nucleic acid solution avr118,avr118,100.0,,
+31245,pyrazinamide,pyrazinamide,100.0,1971.0,4.0
+31283,licogliflozin,licogliflozin,100.0,,
+31286,azd6280,azd-6280,93.33333333333333,,1.0
+31333,volixibat,volixibat,100.0,,2.0
+31342,mefloquine,mefloquine,100.0,,
+31347,evenamide,evenamide,100.0,,2.0
+31349,epofolate,epofolate,100.0,,1.0
+31376,calciferol,secalciferol,90.9090909090909,,2.0
+31377,farudodstat,farudodstat,100.0,,2.0
+31389,ziresovir,ziresovir,100.0,,3.0
+31443,rst-001,rst-001,100.0,,1.0
+31522,pg-116800 (given as pg-530742),pg-530742,94.73684210526316,,2.0
+31545,2-(5-fluoro-pentyl)-2-methyl-malonic-acid ([18f]-ml-10),2-(5-fluoro-pentyl)-2-methyl-malonic-acid,100.0,,
+31572,laninamivir octanoate,laninamivir,100.0,2010.0,4.0
+31607,grazoprevir oral granules,grazoprevir,100.0,,
+31610,rapa-501-allo off-the-shelf therapy of covid-19,rapa-501-allo,100.0,,
+31644,dasabuvir,dasabuvir,100.0,2014.0,4.0
+31645,ombitasvir mini tablet,ombitasvir,100.0,,
+31646,paritaprevir mini tablet,paritaprevir,100.0,2014.0,4.0
+31713,loperamide/ white grapefruit juice,grapefruit,100.0,,1.0
+31780,aga2115,aga2115,100.0,,
+31893,cb-5083,cb-5083,100.0,,1.0
+31899,batoclimab  sc weekly,batoclimab,100.0,,3.0
+31904,vepdegestrant,vepdegestrant,100.0,,3.0
+31936,efinaconazole topical,efinaconazole,100.0,2014.0,4.0
+32026,succimer,succimer,100.0,1991.0,4.0
+32049,selepressin,selepressin,100.0,,2.0
+32063,camsirubicin,camsirubicin,100.0,,2.0
+32067,vtp-27999,vtp-27999,100.0,,1.0
+32069,enadenotucirev,enadenotucirev,100.0,,2.0
+32072,lonidamine,lonidamine,100.0,,3.0
+32135,flurazepam,flurazepam,100.0,1970.0,4.0
+32139,bebtelovimab,bebtelovimab,100.0,,2.0
+32217,zuranolone,zuranolone,100.0,2023.0,4.0
+32246,icapamespib,icapamespib,100.0,,1.0
+32292,lefitolimod,lefitolimod,100.0,,2.0
+32293,atovaquone proguanil,atovaquone,100.0,1992.0,4.0
+32296,avi-014 versus filgrastim,avi-014,100.0,,
+32321,talquetamab,talquetamab,100.0,2023.0,4.0
+32325,cicletanine,cicletanine,100.0,,2.0
+32357,hypromellose gel,hypromellose,100.0,,4.0
+32413,sanvar® (vapreotide),vapreotide,90.9090909090909,,3.0
+32414,pf-00610355,pf-00610355,100.0,,2.0
+32467,motesanib,motesanib,100.0,,3.0
+32513,pbi-0451 (pomotrelvir),pomotrelvir,91.66666666666666,,1.0
+32515,isoxsuprine hydrochloride,isoxsuprine,100.0,,4.0
+32517,immu-114,immu-114,100.0,,
+32518,oms721 (narsoplimab),narsoplimab,91.66666666666666,,3.0
+32584,lti-03,lti-03,100.0,,1.0
+32591,eprenetapopt,eprenetapopt,100.0,,3.0
+32597,fimaporfin and gemcitabine,fimaporfin,100.0,,2.0
+32662,descartes-08,descartes-30,91.66666666666666,,1.0
+32667,fimepinostat,fimepinostat,100.0,,2.0
+32671,digitoxin,digitoxin,100.0,,
+32714,lyt-200,lyt-200,100.0,,
+32762,tall-104 cells,tall-104,100.0,,
+32779,hmi-103,hmi-103,100.0,,
+32856,sacrosidase oral solution,sacrosidase,100.0,1998.0,4.0
+32900,apr-548 + azacitidine,apr-548,100.0,,3.0
+32923,cdk inhibitor at7519,at-7519,92.3076923076923,,2.0
+32936,osi-930 and erlotinib,osi-930,100.0,,1.0
+32958,tolevamer potassium-sodium (gt267-004),tolevamer,100.0,,2.0
+32981,pf-03814735,pf-03814735,100.0,,
+33012,gs-6620,gs-6620,100.0,,1.0
+33018,synb1353,synb1353,100.0,,
+33022,atg002 (study drug),atg002,100.0,,
+33028,ro7293583,ro-7293583,94.73684210526316,,
+33029,px-478,px-478,100.0,,1.0
+33050,tak-448,tak-448,100.0,,2.0
+33099,chromium picolinate,chromium,100.0,,1.0
+33100,valomaciclovir,valomaciclovir,100.0,,2.0
+33124,pretomanid,pretomanid,100.0,,
+33125,histrelin acetate,histrelin,100.0,1991.0,4.0
+33168,cart22 cells,ucart22,92.3076923076923,,
+33187,y-2(edaravone and borneol) sublingual tablet,borneol,93.33333333333333,,3.0
+33195,moxonidine 0.,moxonidine,100.0,,
+33200,topical pravibismane,pravibismane,100.0,,2.0
+33238,abciximab (reopro) and reteplase (retavase),abciximab,100.0,1993.0,4.0
+33312,mva-bn-her2,mva-bn-her-2,95.65217391304348,,
+33341,kiacta (eprodisate disodium),eprodisate,95.23809523809523,,3.0
+33366,incb086550,incb-086550,95.23809523809523,,2.0
+33370,vanzacaftor,vanzacaftor,100.0,,1.0
+33394,cam-101,cam-101,100.0,,
+33431,abituzumab,abituzumab,100.0,,2.0
+33518,loxl2 inhibitor pat-1251,pat-1251,100.0,,2.0
+33523,cardiopet,cardiopet,100.0,,1.0
+33525,lacutamab,lacutamab,100.0,,2.0
+33526,idursulfase it (),idursulfase,100.0,2006.0,4.0
+33528,tagatose,tagatose,100.0,,3.0
+33530,mrt5005,mrt5005,100.0,,
+33541,crinecerfont,crinecerfont,100.0,,3.0
+33557,nafarelin,nafarelin,100.0,1990.0,4.0
+33580,rimantadine,rimantadine,100.0,1993.0,4.0
+33609,ppi-2458,ppi-2458,100.0,,1.0
+33618,incyclinide,incyclinide,100.0,,2.0
+33642,apilimod dimesylate capsule,apilimod,100.0,,2.0
+33698,avi-7288,avi-7288,100.0,,1.0
+33715,idarucizumab,idarucizumab,100.0,2015.0,4.0
+33731,or cloxacillin,cloxacillin,100.0,1974.0,4.0
+33735,gdc-0917,gdc-0917,100.0,,
+33742,fn-1501,fn-1501,100.0,,1.0
+33769,avi-4065 injection,avi-4065,100.0,,
+33828,technetium tc 99m mebrofenin,mebrofenin,100.0,,2.0
+33840,alpha-pinene,alpha-pinene,100.0,,1.0
+33859,desirudin (iprivask™),desirudin,100.0,1997.0,4.0
+33872,serdexmethylphenidate,serdexmethylphenidate,100.0,2021.0,4.0
+33880,tol101,tol-101,92.3076923076923,,2.0
+33883,sgn-15 (cbr96-doxorubicin immunoconjugate),sgn-15,100.0,,2.0
+33918,ose2101,ose-2101,93.33333333333333,,
+33956,pl-3994 aqueous intravenous solution dose ascention,pl-3994,100.0,,2.0
+33973,osivelotor,osivelotor,100.0,,2.0
+33981,v591,v591,100.0,,
+33992,ulonivirine,ulonivirine,100.0,,2.0
+34009,chlorzoxazone  tablet,chlorzoxazone,100.0,1958.0,4.0
+34030,quisinostat,quisinostat,100.0,,2.0
+34038,medi4736 in combination with azd5069,azd-5069,93.33333333333333,,
+34045,odetiglucan,odetiglucan,100.0,,2.0
+34065,tbc3711,tbc-3711,93.33333333333333,,
+34099,cg400549,cg-400549,94.11764705882352,,2.0
+34103,tvgv-1,vgv-1,90.9090909090909,,2.0
+34109,deucrictibant,deucrictibant,100.0,,2.0
+34131,apramycin (ebl-1003),apramycin,100.0,,
+34201,c31g,c31g,100.0,,
+34213,domperidone,domperidone,100.0,,4.0
+34217,faropenem medoxomil,faropenem,100.0,,3.0
+34255,suvn-502,suvn-502,100.0,,3.0
+34258,pf-03882845,pf-03882845,100.0,,1.0
+34275,low dose rhcc10,rhcc10,100.0,,
+34278,rencofilstat,rencofilstat,100.0,,2.0
+34290,teprasiran,teprasiran,100.0,,3.0
+34315,autologous anti-cd19car-4-1bb-cd3zeta-egfrt-expressing cd4+/cd8+ central memory t-lymphocytes jcar014,jcar014,100.0,,
+34320,pf-06821497 treatment a,pf-06821497,100.0,,1.0
+34327,eflapegrastim,eflapegrastim,100.0,2022.0,4.0
+34332,dexanabinol,dexanabinol,100.0,,3.0
+34428,atabecestat,atabecestat,100.0,,2.0
+34438,rilapladib,rilapladib,100.0,,2.0
+34439,etigilimab,etigilimab,100.0,,2.0
+34464,diethylcarbamazine,diethylcarbamazine,100.0,1950.0,4.0
+34504,jnj26489112,jnj-26489112,95.65217391304348,,2.0
+34530,lx1031 high dose,lx1031,100.0,,
+34536,abt-639,abt-639,100.0,,2.0
+34543,clemastine,clemastine,100.0,1977.0,4.0
+34549,zanolimumab,zanolimumab,100.0,,3.0
+34569,bromelain and comosain,comosain,100.0,,
+34598,mdx1303,mdx-1303,93.33333333333333,,1.0
+34606,bgb-dxp593,bgb-dxp593,100.0,,2.0
+34617,gb002 (seralutinib),seralutinib,91.66666666666666,,2.0
+34620,mdr-101,mdr-101,100.0,,3.0
+34627,biib015,biib015,100.0,,1.0
+34647,ginisortamab,ginisortamab,100.0,,1.0
+34659,bezafibrate,bezafibrate,100.0,,
+34734,arct-810,arct-810,100.0,,
+34737,dubermatinib,dubermatinib,100.0,,1.0
+34813,alnuctamab,alnuctamab,100.0,,
+34816,paxalisib (gdc-0084),paxalisib,100.0,,2.0
+34830,givinostat,givinostat,100.0,,3.0
+34855,tg-873870 (nemonoxacin),nemonoxacin,91.66666666666666,,3.0
+34895,rubidium,rubidium,100.0,,3.0
+35030,azd5991,azd-5991,93.33333333333333,,1.0
+35036,oc-02 (simpinicline) nasal spray,simpinicline,92.3076923076923,,2.0
+35039,apitolisib,apitolisib,100.0,,2.0
+35040,sx-682,sx-682,100.0,,2.0
+35054,ensovibep,ensovibep,100.0,,3.0
+35100,iv chlorothiazide,chlorothiazide,100.0,1958.0,4.0
+35108,azd1480,azd-1480,93.33333333333333,,2.0
+35119,vanoxerine hcl,vanoxerine,100.0,,
+35182,l-histidine,histidine,90.0,,-1.0
+35200,guanabenz,guanabenz,100.0,1982.0,4.0
+35214,vurolenatide /pbo,vurolenatide,100.0,,2.0
+35217,cytochlor,cytochlor,100.0,,1.0
+35245,ibutilide,ibutilide,100.0,1995.0,4.0
+35246,pf-03187207 and latanoprost vehicle,pf-03187207,100.0,,
+35288,l-alanosine,alanosine,90.0,,
+35290,tp-1287,tp-1287,100.0,,1.0
+35291,avi-4020 injection,avi-4020,100.0,,
+35353,orelabrutinib (icp-022),orelabrutinib,100.0,,3.0
+35366,tk216,tk216,100.0,,
+35387,esreboxetine,esreboxetine,100.0,,-1.0
+35413,debio1347 (ch5183284),debio-1347,94.73684210526316,,2.0
+35425,pacap-38 challenge agent,pacap38,93.33333333333333,,
+35433,proparacaine hcl,proparacaine,100.0,1953.0,4.0
+35447,sacubitril / valsartan oral tablet [entresto],sacubitril,100.0,2015.0,4.0
+35466,thiopental sodium,thiopental,100.0,1982.0,4.0
+35477,resatorvid,resatorvid,100.0,,3.0
+35522,domvanalimab,domvanalimab,100.0,,3.0
+35594,pf-06842874,pf-06842874,100.0,,1.0
+35617,gpx-100 (13-deoxydoxorubicin),13-deoxydoxorubicin,95.0,,2.0
+35618,s -equol,equol,90.9090909090909,,
+35672,miv-711,miv-711,100.0,,
+35690,selgantolimod,selgantolimod,100.0,,2.0
+35694,pegvaliase,pegvaliase,100.0,2018.0,4.0
+35714,otx-2002,otx-2002,100.0,,
+35740,fg2216,fg-2216,92.3076923076923,,
+35748,loxoprofen pain patch,loxoprofen,100.0,1986.0,4.0
+35775,vicagrel capsules,vicagrel,100.0,,1.0
+35786,reltecimod 0./kg,reltecimod,100.0,,3.0
+35826,pyridoxamine dihydrochloride,pyridoxamine,100.0,,
+35865,trifluoperazine,trifluoperazine,100.0,1959.0,4.0
+35935,wnt974,wnt-974,92.3076923076923,,2.0
+35942,gw493838,gw-493838,94.11764705882352,,2.0
+35949,mk-2225,mk-2225,100.0,,1.0
+35959,demeclocycline,demeclocycline,100.0,1960.0,4.0
+36018,cft8634,cft-8634,93.33333333333333,,1.0
+36025,"1,25-dihydroxycholecalciferol","24,25-dihydroxycholecalciferol",94.91525423728814,,
+36028,trotabresib,trotabresib,100.0,,1.0
+36096,mdx-1379 (gp100) melanoma peptide vaccine,mdx-1379,100.0,,
+36271,lesogaberan (azd3355),lesogaberan,100.0,,2.0
+36292,jab-3068,jab-3068,100.0,,1.0
+36297,mak683,mak-683,92.3076923076923,,1.0
+36304,atir101,atir101,100.0,,
+36310,opelconazole,opelconazole,100.0,,3.0
+36350,rilvegostomig,rilvegostomig,100.0,,2.0
+36351,volrustomig,volrustomig,100.0,,2.0
+36352,sabestomig,sabestomig,100.0,,2.0
+36388,99mtc-glucarate solution,99mtc-glucarate,100.0,,
+36404,gdx012 suspension for iv infusion,gdx012,100.0,,
+36451,pentetrazol (ptz),pentetrazol,100.0,,2.0
+36466,ea-2353,ea-2353,100.0,,
+36468,prototype (an0128 toothpaste),an0128,92.3076923076923,,
+36481,ino-3107,ino-3107,100.0,,
+36546,benznidazole,benznidazole,100.0,2017.0,4.0
+36556,sar125844,sar-125844,94.73684210526316,,2.0
