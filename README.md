@@ -26,4 +26,4 @@ The information on approval status and approval dates are only for unique drugs 
 <br>
 <br>
 <h2> Dashboard Screenshot</h2>
-<img width="1587" height="894" alt="Drug Approval Forecast_Dashboard Screenshot" src="https://github.com/user-attachments/assets/43df0ad4-adc7-4601-ae76-b61792dedd1b" />
+<img width="1587" height="894" alt="Drug Approval Forecast_Dashboard Screenshot" src="https://github.com/user-attachments/assets/067157e4-d16d-4737-8853-aac86f41275d" />
