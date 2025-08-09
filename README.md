@@ -23,3 +23,7 @@ To understand the key factors influencing the 1) duration of a clinical trial an
 <br>
 <h2> Data Limitation </h2>
 The information on approval status and approval dates are only for unique drugs and does not include the same drug that were tested for different conditions or dosages.
+<br>
+<br>
+<h2> Dashboard Screenshot (2 Pages) </h2>
+<img width="1587" height="894" alt="Drug Approval Forecast_Dashboard Screenshot" src="https://github.com/user-attachments/assets/43df0ad4-adc7-4601-ae76-b61792dedd1b" />
