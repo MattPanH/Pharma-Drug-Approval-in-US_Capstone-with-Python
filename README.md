@@ -18,7 +18,7 @@ To understand the key factors influencing the 1) duration of a clinical trial an
 <br>
 <h2> Data Sources </h2>
 1)	Phase 1, 2, and 3 clinical trial data from ClinicalTrials.gov <br>
-2)	Common drug names, approval status, ATC class, and names from drugbank.com. <br>
+2)	Common drug names, approval status, ATC class, and names from DrugBank.com. <br>
 3)	First approval date and highest development phase from ChEMBL. <br>
 <br>
 <h2> Data Limitation </h2>
